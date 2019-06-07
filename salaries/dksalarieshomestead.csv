@@ -1,0 +1,47 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kevin Harvick (11639914),Kevin Harvick,11639914,D,12500,Ford EcoBoost 400,Nasca,66.26
+,,,,,,,D,Kyle Busch (11639915),Kyle Busch,11639915,D,11800,Ford EcoBoost 400,Nasca,60.92
+,,,,,,,D,Martin Truex Jr (11639916),Martin Truex Jr,11639916,D,11300,Ford EcoBoost 400,Nasca,48.67
+,,,,,,,D,Joey Logano (11639917),Joey Logano,11639917,D,10600,Ford EcoBoost 400,Nasca,42.28
+,,,,,,,D,Kyle Larson (11639918),Kyle Larson,11639918,D,10000,Ford EcoBoost 400,Nasca,43.26
+,,,,,,,D,Chase Elliott (11639919),Chase Elliott,11639919,D,9700,Ford EcoBoost 400,Nasca,38.18
+,,,,,,,D,Brad Keselowski (11639920),Brad Keselowski,11639920,D,9400,Ford EcoBoost 400,Nasca,39.07
+,,,,,,,D,Kurt Busch (11639921),Kurt Busch,11639921,D,9200,Ford EcoBoost 400,Nasca,39.45
+,,,,,,,D,Clint Bowyer (11639922),Clint Bowyer,11639922,D,9000,Ford EcoBoost 400,Nasca,39.09
+,,,,,,,D,Denny Hamlin (11639923),Denny Hamlin,11639923,D,8800,Ford EcoBoost 400,Nasca,37.51
+,,,,,,,D,Ryan Blaney (11639924),Ryan Blaney,11639924,D,8600,Ford EcoBoost 400,Nasca,33.89
+,,,,,,,D,Aric Almirola (11639925),Aric Almirola,11639925,D,8400,Ford EcoBoost 400,Nasca,39.37
+,,,,,,,D,Erik Jones (11639926),Erik Jones,11639926,D,8200,Ford EcoBoost 400,Nasca,31.57
+,,,,,,,D,Jimmie Johnson (11639927),Jimmie Johnson,11639927,D,8000,Ford EcoBoost 400,Nasca,31.68
+,,,,,,,D,Daniel Suarez (11639928),Daniel Suarez,11639928,D,7800,Ford EcoBoost 400,Nasca,29.02
+,,,,,,,D,Austin Dillon (11639929),Austin Dillon,11639929,D,7700,Ford EcoBoost 400,Nasca,29.92
+,,,,,,,D,Ryan Newman (11639930),Ryan Newman,11639930,D,7500,Ford EcoBoost 400,Nasca,27.66
+,,,,,,,D,Alex Bowman (11639931),Alex Bowman,11639931,D,7400,Ford EcoBoost 400,Nasca,26.56
+,,,,,,,D,Ricky Stenhouse Jr (11639932),Ricky Stenhouse Jr,11639932,D,7300,Ford EcoBoost 400,Nasca,24.54
+,,,,,,,D,Jamie McMurray (11639933),Jamie McMurray,11639933,D,7100,Ford EcoBoost 400,Nasca,24.01
+,,,,,,,D,Paul Menard (11639934),Paul Menard,11639934,D,7000,Ford EcoBoost 400,Nasca,25.86
+,,,,,,,D,William Byron (11639935),William Byron,11639935,D,6900,Ford EcoBoost 400,Nasca,20.71
+,,,,,,,D,Matt Kenseth (11639936),Matt Kenseth,11639936,D,6700,Ford EcoBoost 400,Nasca,25.84
+,,,,,,,D,AJ Allmendinger (11639937),AJ Allmendinger,11639937,D,6500,Ford EcoBoost 400,Nasca,26.26
+,,,,,,,D,Ty Dillon (11639938),Ty Dillon,11639938,D,6400,Ford EcoBoost 400,Nasca,23.95
+,,,,,,,D,David Ragan (11639939),David Ragan,11639939,D,6300,Ford EcoBoost 400,Nasca,23.23
+,,,,,,,D,Chris Buescher (11639940),Chris Buescher,11639940,D,6100,Ford EcoBoost 400,Nasca,25.86
+,,,,,,,D,Bubba Wallace (11639941),Bubba Wallace,11639941,D,5900,Ford EcoBoost 400,Nasca,21.94
+,,,,,,,D,Regan Smith (11639942),Regan Smith,11639942,D,5800,Ford EcoBoost 400,Nasca,28.72
+,,,,,,,D,Michael McDowell (11639943),Michael McDowell,11639943,D,5600,Ford EcoBoost 400,Nasca,21.04
+,,,,,,,D,Matt DiBenedetto (11639944),Matt DiBenedetto,11639944,D,5400,Ford EcoBoost 400,Nasca,20.57
+,,,,,,,D,Ross Chastain (11639945),Ross Chastain,11639945,D,5300,Ford EcoBoost 400,Nasca,19.06
+,,,,,,,D,Landon Cassill (11639946),Landon Cassill,11639946,D,5200,Ford EcoBoost 400,Nasca,19.43
+,,,,,,,D,JJ Yeley (11639947),JJ Yeley,11639947,D,5100,Ford EcoBoost 400,Nasca,16.73
+,,,,,,,D,Kyle Weatherman (11639948),Kyle Weatherman,11639948,D,5000,Ford EcoBoost 400,Nasca,13
+,,,,,,,D,Corey Lajoie (11639949),Corey Lajoie,11639949,D,4900,Ford EcoBoost 400,Nasca,15
+,,,,,,,D,Timmy Hill (11639950),Timmy Hill,11639950,D,4800,Ford EcoBoost 400,Nasca,10.92
+,,,,,,,D,Tanner Berryhill (11639951),Tanner Berryhill,11639951,D,4700,Ford EcoBoost 400,Nasca,18
+,,,,,,,D,BJ McLeod (11639952),BJ McLeod,11639952,D,4600,Ford EcoBoost 400,Nasca,13.38

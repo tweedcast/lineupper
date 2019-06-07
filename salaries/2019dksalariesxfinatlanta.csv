@@ -1,0 +1,45 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kevin Harvick (12116521),Kevin Harvick,12116521,D,12200,Folds of Honor QuikTrip 500,Nasca,66.26
+,,,,,,,D,Joey Logano (12116522),Joey Logano,12116522,D,11700,Folds of Honor QuikTrip 500,Nasca,42.28
+,,,,,,,D,Brad Keselowski (12116523),Brad Keselowski,12116523,D,11100,Folds of Honor QuikTrip 500,Nasca,39.07
+,,,,,,,D,Kyle Busch (12116524),Kyle Busch,12116524,D,10500,Folds of Honor QuikTrip 500,Nasca,60.92
+,,,,,,,D,Denny Hamlin (12116525),Denny Hamlin,12116525,D,10000,Folds of Honor QuikTrip 500,Nasca,37.51
+,,,,,,,D,Chase Elliott (12116526),Chase Elliott,12116526,D,9700,Folds of Honor QuikTrip 500,Nasca,38.18
+,,,,,,,D,Martin Truex Jr (12116527),Martin Truex Jr,12116527,D,9500,Folds of Honor QuikTrip 500,Nasca,48.67
+,,,,,,,D,Kyle Larson (12116528),Kyle Larson,12116528,D,9300,Folds of Honor QuikTrip 500,Nasca,43.26
+,,,,,,,D,Clint Bowyer (12116529),Clint Bowyer,12116529,D,9100,Folds of Honor QuikTrip 500,Nasca,39.09
+,,,,,,,D,Ryan Blaney (12116530),Ryan Blaney,12116530,D,8900,Folds of Honor QuikTrip 500,Nasca,33.89
+,,,,,,,D,Aric Almirola (12116531),Aric Almirola,12116531,D,8700,Folds of Honor QuikTrip 500,Nasca,39.37
+,,,,,,,D,Kurt Busch (12116532),Kurt Busch,12116532,D,8500,Folds of Honor QuikTrip 500,Nasca,39.45
+,,,,,,,D,Jimmie Johnson (12116533),Jimmie Johnson,12116533,D,8300,Folds of Honor QuikTrip 500,Nasca,31.68
+,,,,,,,D,Erik Jones (12116534),Erik Jones,12116534,D,8100,Folds of Honor QuikTrip 500,Nasca,31.57
+,,,,,,,D,Daniel Suarez (12116535),Daniel Suarez,12116535,D,7900,Folds of Honor QuikTrip 500,Nasca,29.02
+,,,,,,,D,Austin Dillon (12116536),Austin Dillon,12116536,D,7700,Folds of Honor QuikTrip 500,Nasca,29.92
+,,,,,,,D,Matt DiBenedetto (12116537),Matt DiBenedetto,12116537,D,7600,Folds of Honor QuikTrip 500,Nasca,20.57
+,,,,,,,D,Ricky Stenhouse Jr (12116538),Ricky Stenhouse Jr,12116538,D,7500,Folds of Honor QuikTrip 500,Nasca,24.54
+,,,,,,,D,Alex Bowman (12116539),Alex Bowman,12116539,D,7300,Folds of Honor QuikTrip 500,Nasca,26.56
+,,,,,,,D,William Byron (12116540),William Byron,12116540,D,7100,Folds of Honor QuikTrip 500,Nasca,20.71
+,,,,,,,D,Paul Menard (12116541),Paul Menard,12116541,D,7000,Folds of Honor QuikTrip 500,Nasca,25.86
+,,,,,,,D,Ryan Newman (12116542),Ryan Newman,12116542,D,6900,Folds of Honor QuikTrip 500,Nasca,27.66
+,,,,,,,D,Daniel Hemric (12116543),Daniel Hemric,12116543,D,6800,Folds of Honor QuikTrip 500,Nasca,2
+,,,,,,,D,Bubba Wallace (12116544),Bubba Wallace,12116544,D,6600,Folds of Honor QuikTrip 500,Nasca,21.94
+,,,,,,,D,Ryan Preece (12116545),Ryan Preece,12116545,D,6400,Folds of Honor QuikTrip 500,Nasca,0
+,,,,,,,D,Chris Buescher (12116546),Chris Buescher,12116546,D,6200,Folds of Honor QuikTrip 500,Nasca,25.86
+,,,,,,,D,Michael McDowell (12116547),Michael McDowell,12116547,D,6000,Folds of Honor QuikTrip 500,Nasca,21.04
+,,,,,,,D,David Ragan (12116548),David Ragan,12116548,D,5800,Folds of Honor QuikTrip 500,Nasca,23.23
+,,,,,,,D,Ty Dillon (12116549),Ty Dillon,12116549,D,5600,Folds of Honor QuikTrip 500,Nasca,23.95
+,,,,,,,D,Matt Tifft (12116550),Matt Tifft,12116550,D,5500,Folds of Honor QuikTrip 500,Nasca,0
+,,,,,,,D,Ross Chastain (12116553),Ross Chastain,12116553,D,5400,Folds of Honor QuikTrip 500,Nasca,19.06
+,,,,,,,D,Landon Cassill (12116551),Landon Cassill,12116551,D,5300,Folds of Honor QuikTrip 500,Nasca,19.43
+,,,,,,,D,Corey Lajoie (12116552),Corey Lajoie,12116552,D,5200,Folds of Honor QuikTrip 500,Nasca,15
+,,,,,,,D,Parker Kligerman (12116556),Parker Kligerman,12116556,D,5100,Folds of Honor QuikTrip 500,Nasca,23.25
+,,,,,,,D,BJ McLeod (12116554),BJ McLeod,12116554,D,5000,Folds of Honor QuikTrip 500,Nasca,13.38
+,,,,,,,D,Cody Ware (12116555),Cody Ware,12116555,D,4900,Folds of Honor QuikTrip 500,Nasca,13.25
+,,,,,,,D,Garrett Smithley (12116557),Garrett Smithley,12116557,D,4800,Folds of Honor QuikTrip 500,Nasca,9.33

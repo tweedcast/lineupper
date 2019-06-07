@@ -1,0 +1,48 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (11258620),Kyle Busch,11258620,D,12300,South Point 400,Nasca,62.22
+,,,,,,,D,Kevin Harvick (11258621),Kevin Harvick,11258621,D,11700,South Point 400,Nasca,67.06
+,,,,,,,D,Kyle Larson (11258622),Kyle Larson,11258622,D,10700,South Point 400,Nasca,40.70
+,,,,,,,D,Denny Hamlin (11258623),Denny Hamlin,11258623,D,10400,South Point 400,Nasca,38.87
+,,,,,,,D,Martin Truex Jr (11258624),Martin Truex Jr,11258624,D,9900,South Point 400,Nasca,45.15
+,,,,,,,D,Brad Keselowski (11258625),Brad Keselowski,11258625,D,9600,South Point 400,Nasca,33.91
+,,,,,,,D,Chase Elliott (11258626),Chase Elliott,11258626,D,9400,South Point 400,Nasca,37.97
+,,,,,,,D,Ryan Blaney (11258627),Ryan Blaney,11258627,D,9200,South Point 400,Nasca,36.5
+,,,,,,,D,Clint Bowyer (11258628),Clint Bowyer,11258628,D,9000,South Point 400,Nasca,45.52
+,,,,,,,D,Joey Logano (11258629),Joey Logano,11258629,D,8800,South Point 400,Nasca,37.52
+,,,,,,,D,Erik Jones (11258630),Erik Jones,11258630,D,8700,South Point 400,Nasca,33.45
+,,,,,,,D,Kurt Busch (11258631),Kurt Busch,11258631,D,8500,South Point 400,Nasca,40.87
+,,,,,,,D,Jimmie Johnson (11258632),Jimmie Johnson,11258632,D,8300,South Point 400,Nasca,31.51
+,,,,,,,D,Aric Almirola (11258633),Aric Almirola,11258633,D,8100,South Point 400,Nasca,37.5
+,,,,,,,D,Daniel Suarez (11258634),Daniel Suarez,11258634,D,8000,South Point 400,Nasca,29.56
+,,,,,,,D,Jamie McMurray (11258635),Jamie McMurray,11258635,D,7900,South Point 400,Nasca,24.38
+,,,,,,,D,Alex Bowman (11258636),Alex Bowman,11258636,D,7700,South Point 400,Nasca,29.23
+,,,,,,,D,Ryan Newman (11258637),Ryan Newman,11258637,D,7600,South Point 400,Nasca,25.49
+,,,,,,,D,Paul Menard (11258638),Paul Menard,11258638,D,7400,South Point 400,Nasca,24.83
+,,,,,,,D,William Byron (11258639),William Byron,11258639,D,7300,South Point 400,Nasca,23.11
+,,,,,,,D,Ricky Stenhouse Jr (11258640),Ricky Stenhouse Jr,11258640,D,7100,South Point 400,Nasca,23.86
+,,,,,,,D,Chris Buescher (11258641),Chris Buescher,11258641,D,6900,South Point 400,Nasca,25.76
+,,,,,,,D,Austin Dillon (11258642),Austin Dillon,11258642,D,6700,South Point 400,Nasca,27.88
+,,,,,,,D,Ty Dillon (11258643),Ty Dillon,11258643,D,6500,South Point 400,Nasca,23.23
+,,,,,,,D,Trevor Bayne (11258644),Trevor Bayne,11258644,D,6400,South Point 400,Nasca,19.18
+,,,,,,,D,AJ Allmendinger (11258645),AJ Allmendinger,11258645,D,6200,South Point 400,Nasca,23.81
+,,,,,,,D,Michael McDowell (11258646),Michael McDowell,11258646,D,6100,South Point 400,Nasca,23.32
+,,,,,,,D,David Ragan (11258647),David Ragan,11258647,D,5900,South Point 400,Nasca,22.72
+,,,,,,,D,Bubba Wallace (11258648),Bubba Wallace,11258648,D,5700,South Point 400,Nasca,21.63
+,,,,,,,D,Regan Smith (11258649),Regan Smith,11258649,D,5500,South Point 400,Nasca,31
+,,,,,,,D,Matt DiBenedetto (11258650),Matt DiBenedetto,11258650,D,5400,South Point 400,Nasca,21.56
+,,,,,,,D,Ross Chastain (11258651),Ross Chastain,11258651,D,5300,South Point 400,Nasca,19.77
+,,,,,,,D,Landon Cassill (11258652),Landon Cassill,11258652,D,5200,South Point 400,Nasca,18.71
+,,,,,,,D,Corey Lajoie (11258653),Corey Lajoie,11258653,D,5100,South Point 400,Nasca,14.21
+,,,,,,,D,Reed Sorenson (11258654),Reed Sorenson,11258654,D,5000,South Point 400,Nasca,13.96
+,,,,,,,D,Jeffrey Earnhardt (11258655),Jeffrey Earnhardt,11258655,D,4900,South Point 400,Nasca,18.54
+,,,,,,,D,Kyle Weatherman (11258656),Kyle Weatherman,11258656,D,4800,South Point 400,Nasca,10
+,,,,,,,D,JJ Yeley (11258657),JJ Yeley,11258657,D,4700,South Point 400,Nasca,17
+,,,,,,,D,BJ McLeod (11258658),BJ McLeod,11258658,D,4600,South Point 400,Nasca,12
+,,,,,,,D,Timmy Hill (11258659),Timmy Hill,11258659,D,4500,South Point 400,Nasca,12.71

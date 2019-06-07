@@ -1,0 +1,47 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kevin Harvick (11220589),Kevin Harvick,11220589,D,12200,Big Machine Vodka 400 at the Brickyard,Nasca,67.45
+,,,,,,,D,Kyle Busch (11220590),Kyle Busch,11220590,D,11700,Big Machine Vodka 400 at the Brickyard,Nasca,62.96
+,,,,,,,D,Kyle Larson (11220591),Kyle Larson,11220591,D,11300,Big Machine Vodka 400 at the Brickyard,Nasca,41.34
+,,,,,,,D,Denny Hamlin (11220592),Denny Hamlin,11220592,D,10600,Big Machine Vodka 400 at the Brickyard,Nasca,37.82
+,,,,,,,D,Martin Truex Jr (11220593),Martin Truex Jr,11220593,D,10100,Big Machine Vodka 400 at the Brickyard,Nasca,48.05
+,,,,,,,D,Brad Keselowski (11220594),Brad Keselowski,11220594,D,9800,Big Machine Vodka 400 at the Brickyard,Nasca,33.14
+,,,,,,,D,Ryan Blaney (11220595),Ryan Blaney,11220595,D,9500,Big Machine Vodka 400 at the Brickyard,Nasca,36.68
+,,,,,,,D,Chase Elliott (11220596),Chase Elliott,11220596,D,9200,Big Machine Vodka 400 at the Brickyard,Nasca,38.43
+,,,,,,,D,Clint Bowyer (11220597),Clint Bowyer,11220597,D,9000,Big Machine Vodka 400 at the Brickyard,Nasca,45.01
+,,,,,,,D,Kurt Busch (11220598),Kurt Busch,11220598,D,8800,Big Machine Vodka 400 at the Brickyard,Nasca,40.65
+,,,,,,,D,Joey Logano (11220599),Joey Logano,11220599,D,8600,Big Machine Vodka 400 at the Brickyard,Nasca,38.06
+,,,,,,,D,Erik Jones (11220600),Erik Jones,11220600,D,8400,Big Machine Vodka 400 at the Brickyard,Nasca,32.63
+,,,,,,,D,Jimmie Johnson (11220601),Jimmie Johnson,11220601,D,8200,Big Machine Vodka 400 at the Brickyard,Nasca,31.7
+,,,,,,,D,Aric Almirola (11220602),Aric Almirola,11220602,D,8000,Big Machine Vodka 400 at the Brickyard,Nasca,38.48
+,,,,,,,D,Jamie McMurray (11220603),Jamie McMurray,11220603,D,7900,Big Machine Vodka 400 at the Brickyard,Nasca,23.36
+,,,,,,,D,Alex Bowman (11220604),Alex Bowman,11220604,D,7700,Big Machine Vodka 400 at the Brickyard,Nasca,30.62
+,,,,,,,D,Daniel Suarez (11220605),Daniel Suarez,11220605,D,7500,Big Machine Vodka 400 at the Brickyard,Nasca,29.62
+,,,,,,,D,Ricky Stenhouse Jr (11220606),Ricky Stenhouse Jr,11220606,D,7300,Big Machine Vodka 400 at the Brickyard,Nasca,25.04
+,,,,,,,D,Ryan Newman (11220607),Ryan Newman,11220607,D,7200,Big Machine Vodka 400 at the Brickyard,Nasca,24.9
+,,,,,,,D,Austin Dillon (11220608),Austin Dillon,11220608,D,7100,Big Machine Vodka 400 at the Brickyard,Nasca,28.24
+,,,,,,,D,Matt Kenseth (11220609),Matt Kenseth,11220609,D,7000,Big Machine Vodka 400 at the Brickyard,Nasca,21.33
+,,,,,,,D,William Byron (11220611),William Byron,11220611,D,6800,Big Machine Vodka 400 at the Brickyard,Nasca,22.86
+,,,,,,,D,Paul Menard (11220612),Paul Menard,11220612,D,6700,Big Machine Vodka 400 at the Brickyard,Nasca,24.02
+,,,,,,,D,Chris Buescher (11220613),Chris Buescher,11220613,D,6500,Big Machine Vodka 400 at the Brickyard,Nasca,26.11
+,,,,,,,D,Ty Dillon (11220614),Ty Dillon,11220614,D,6300,Big Machine Vodka 400 at the Brickyard,Nasca,22.89
+,,,,,,,D,AJ Allmendinger (11220615),AJ Allmendinger,11220615,D,6100,Big Machine Vodka 400 at the Brickyard,Nasca,24.92
+,,,,,,,D,Bubba Wallace (11220616),Bubba Wallace,11220616,D,5900,Big Machine Vodka 400 at the Brickyard,Nasca,22.62
+,,,,,,,D,Michael McDowell (11220617),Michael McDowell,11220617,D,5700,Big Machine Vodka 400 at the Brickyard,Nasca,22.81
+,,,,,,,D,David Ragan (11220618),David Ragan,11220618,D,5500,Big Machine Vodka 400 at the Brickyard,Nasca,22.79
+,,,,,,,D,Matt DiBenedetto (11220619),Matt DiBenedetto,11220619,D,5400,Big Machine Vodka 400 at the Brickyard,Nasca,22.27
+,,,,,,,D,Ross Chastain (11220620),Ross Chastain,11220620,D,5300,Big Machine Vodka 400 at the Brickyard,Nasca,19.59
+,,,,,,,D,Landon Cassill (11220621),Landon Cassill,11220621,D,5200,Big Machine Vodka 400 at the Brickyard,Nasca,18.86
+,,,,,,,D,Corey Lajoie (11220622),Corey Lajoie,11220622,D,5100,Big Machine Vodka 400 at the Brickyard,Nasca,13.66
+,,,,,,,D,Reed Sorenson (11220623),Reed Sorenson,11220623,D,5000,Big Machine Vodka 400 at the Brickyard,Nasca,12.86
+,,,,,,,D,Jeffrey Earnhardt (11220624),Jeffrey Earnhardt,11220624,D,4900,Big Machine Vodka 400 at the Brickyard,Nasca,18.7
+,,,,,,,D,JJ Yeley (11220625),JJ Yeley,11220625,D,4800,Big Machine Vodka 400 at the Brickyard,Nasca,16.43
+,,,,,,,D,BJ McLeod (11220626),BJ McLeod,11220626,D,4700,Big Machine Vodka 400 at the Brickyard,Nasca,10.67
+,,,,,,,D,Timmy Hill (11220627),Timmy Hill,11220627,D,4600,Big Machine Vodka 400 at the Brickyard,Nasca,12.69
+,,,,,,,D,David Starr (11220629),David Starr,11220629,D,4400,Big Machine Vodka 400 at the Brickyard,Nasca,0

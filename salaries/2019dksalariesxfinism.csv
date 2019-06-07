@@ -1,0 +1,46 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12199488),Kyle Busch,12199488,D,14900,iK9 Service Dog 200 at ISM Raceway,Nasca,104
+,,,,,,,D,Christopher Bell (12199489),Christopher Bell,12199489,D,12300,iK9 Service Dog 200 at ISM Raceway,Nasca,65.92
+,,,,,,,D,Cole Custer (12199490),Cole Custer,12199490,D,11500,iK9 Service Dog 200 at ISM Raceway,Nasca,49.92
+,,,,,,,D,Tyler Reddick (12199491),Tyler Reddick,12199491,D,10900,iK9 Service Dog 200 at ISM Raceway,Nasca,53.58
+,,,,,,,D,Justin Allgaier (12199492),Justin Allgaier,12199492,D,10400,iK9 Service Dog 200 at ISM Raceway,Nasca,32
+,,,,,,,D,Austin Cindric (12199493),Austin Cindric,12199493,D,9900,iK9 Service Dog 200 at ISM Raceway,Nasca,29.08
+,,,,,,,D,Brandon Jones (12199494),Brandon Jones,12199494,D,9600,iK9 Service Dog 200 at ISM Raceway,Nasca,36.92
+,,,,,,,D,Chase Briscoe (12199495),Chase Briscoe,12199495,D,9300,iK9 Service Dog 200 at ISM Raceway,Nasca,44
+,,,,,,,D,John H. Nemechek (12199496),John H. Nemechek,12199496,D,9000,iK9 Service Dog 200 at ISM Raceway,Nasca,36.83
+,,,,,,,D,Justin Haley (12199497),Justin Haley,12199497,D,8700,iK9 Service Dog 200 at ISM Raceway,Nasca,33.75
+,,,,,,,D,Noah Gragson (12199498),Noah Gragson,12199498,D,8500,iK9 Service Dog 200 at ISM Raceway,Nasca,40.58
+,,,,,,,D,Michael Annett (12199499),Michael Annett,12199499,D,8300,iK9 Service Dog 200 at ISM Raceway,Nasca,49.75
+,,,,,,,D,Ryan Sieg (12199500),Ryan Sieg,12199500,D,8100,iK9 Service Dog 200 at ISM Raceway,Nasca,46.67
+,,,,,,,D,Ross Chastain (12199501),Ross Chastain,12199501,D,7900,iK9 Service Dog 200 at ISM Raceway,Nasca,36.75
+,,,,,,,D,Ryan Truex (12199502),Ryan Truex,12199502,D,7700,iK9 Service Dog 200 at ISM Raceway,Nasca,0
+,,,,,,,D,Gray Gaulding (12199503),Gray Gaulding,12199503,D,7500,iK9 Service Dog 200 at ISM Raceway,Nasca,28.5
+,,,,,,,D,Garrett Smithley (12199504),Garrett Smithley,12199504,D,7300,iK9 Service Dog 200 at ISM Raceway,Nasca,28.83
+,,,,,,,D,Jeremy Clements (12199505),Jeremy Clements,12199505,D,7100,iK9 Service Dog 200 at ISM Raceway,Nasca,18.17
+,,,,,,,D,Ray Black Jr (12199506),Ray Black Jr,12199506,D,7000,iK9 Service Dog 200 at ISM Raceway,Nasca,26.17
+,,,,,,,D,David Starr (12199507),David Starr,12199507,D,6900,iK9 Service Dog 200 at ISM Raceway,Nasca,29
+,,,,,,,D,BJ McLeod (12199508),BJ McLeod,12199508,D,6700,iK9 Service Dog 200 at ISM Raceway,Nasca,28
+,,,,,,,D,Joey Gase (12199509),Joey Gase,12199509,D,6500,iK9 Service Dog 200 at ISM Raceway,Nasca,20.33
+,,,,,,,D,Brandon Brown (12199510),Brandon Brown,12199510,D,6400,iK9 Service Dog 200 at ISM Raceway,Nasca,28.83
+,,,,,,,D,Timmy Hill (12199511),Timmy Hill,12199511,D,6300,iK9 Service Dog 200 at ISM Raceway,Nasca,27.17
+,,,,,,,D,Stephen Leicht (12199512),Stephen Leicht,12199512,D,6100,iK9 Service Dog 200 at ISM Raceway,Nasca,11.67
+,,,,,,,D,Josh Williams (12199513),Josh Williams,12199513,D,6000,iK9 Service Dog 200 at ISM Raceway,Nasca,25.83
+,,,,,,,D,Vinnie Miller (12199514),Vinnie Miller,12199514,D,5900,iK9 Service Dog 200 at ISM Raceway,Nasca,7.67
+,,,,,,,D,Tommy Joe Martins (12199515),Tommy Joe Martins,12199515,D,5700,iK9 Service Dog 200 at ISM Raceway,Nasca,6
+,,,,,,,D,Ronnie Bassett Jr (12199516),Ronnie Bassett Jr,12199516,D,5600,iK9 Service Dog 200 at ISM Raceway,Nasca,0
+,,,,,,,D,Mike Harmon (12199517),Mike Harmon,12199517,D,5500,iK9 Service Dog 200 at ISM Raceway,Nasca,16.5
+,,,,,,,D,Josh Bilicki (12199518),Josh Bilicki,12199518,D,5400,iK9 Service Dog 200 at ISM Raceway,Nasca,8.5
+,,,,,,,D,Bayley Currey (12199519),Bayley Currey,12199519,D,5300,iK9 Service Dog 200 at ISM Raceway,Nasca,9
+,,,,,,,D,Tyler Hill (12199561),Tyler Hill,12199561,D,5300,iK9 Service Dog 200 at ISM Raceway,Nasca,0
+,,,,,,,D,Chad Finchum (12199520),Chad Finchum,12199520,D,5200,iK9 Service Dog 200 at ISM Raceway,Nasca,-0.75
+,,,,,,,D,Jeff Green (12199521),Jeff Green,12199521,D,5100,iK9 Service Dog 200 at ISM Raceway,Nasca,20.17
+,,,,,,,D,Stan Mullis (12199560),Stan Mullis,12199560,D,5000,iK9 Service Dog 200 at ISM Raceway,Nasca,10
+,,,,,,,D,Matt Mills (12199522),Matt Mills,12199522,D,4900,iK9 Service Dog 200 at ISM Raceway,Nasca,14.67
+,,,,,,,D,Morgan Shepherd (12199523),Morgan Shepherd,12199523,D,4800,iK9 Service Dog 200 at ISM Raceway,Nasca,13.5

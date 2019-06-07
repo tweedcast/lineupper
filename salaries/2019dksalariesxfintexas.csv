@@ -1,0 +1,48 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12323759),Kyle Busch,12323759,D,15000,My Bariatric Solutions 300,Nasca,103.83
+,,,,,,,D,Brad Keselowski (12323760),Brad Keselowski,12323760,D,14400,My Bariatric Solutions 300,Nasca,-19.5
+,,,,,,,D,Christopher Bell (12323761),Christopher Bell,12323761,D,11300,My Bariatric Solutions 300,Nasca,51.9
+,,,,,,,D,Tyler Reddick (12323762),Tyler Reddick,12323762,D,10700,My Bariatric Solutions 300,Nasca,50.95
+,,,,,,,D,Justin Allgaier (12323763),Justin Allgaier,12323763,D,10200,My Bariatric Solutions 300,Nasca,31.5
+,,,,,,,D,Cole Custer (12323764),Cole Custer,12323764,D,9900,My Bariatric Solutions 300,Nasca,53.9
+,,,,,,,D,Austin Cindric (12323765),Austin Cindric,12323765,D,9600,My Bariatric Solutions 300,Nasca,35.7
+,,,,,,,D,Brandon Jones (12323766),Brandon Jones,12323766,D,9300,My Bariatric Solutions 300,Nasca,38.45
+,,,,,,,D,John H. Nemechek (12323767),John H. Nemechek,12323767,D,9000,My Bariatric Solutions 300,Nasca,30.1
+,,,,,,,D,Noah Gragson (12323768),Noah Gragson,12323768,D,8700,My Bariatric Solutions 300,Nasca,35.55
+,,,,,,,D,Michael Annett (12323769),Michael Annett,12323769,D,8500,My Bariatric Solutions 300,Nasca,43.5
+,,,,,,,D,Jeffrey Earnhardt (12323770),Jeffrey Earnhardt,12323770,D,8300,My Bariatric Solutions 300,Nasca,34.12
+,,,,,,,D,Ryan Sieg (12323771),Ryan Sieg,12323771,D,8100,My Bariatric Solutions 300,Nasca,43.1
+,,,,,,,D,Ross Chastain (12323772),Ross Chastain,12323772,D,7800,My Bariatric Solutions 300,Nasca,31.95
+,,,,,,,D,Kaz Grala (12323773),Kaz Grala,12323773,D,7600,My Bariatric Solutions 300,Nasca,0
+,,,,,,,D,Chase Briscoe (12323774),Chase Briscoe,12323774,D,7400,My Bariatric Solutions 300,Nasca,43.6
+,,,,,,,D,Justin Haley (12323775),Justin Haley,12323775,D,7200,My Bariatric Solutions 300,Nasca,33.55
+,,,,,,,D,Gray Gaulding (12323776),Gray Gaulding,12323776,D,7000,My Bariatric Solutions 300,Nasca,28.7
+,,,,,,,D,Garrett Smithley (12323777),Garrett Smithley,12323777,D,6900,My Bariatric Solutions 300,Nasca,29.1
+,,,,,,,D,Ray Black Jr (12323778),Ray Black Jr,12323778,D,6800,My Bariatric Solutions 300,Nasca,27.1
+,,,,,,,D,Brandon Brown (12323779),Brandon Brown,12323779,D,6600,My Bariatric Solutions 300,Nasca,30.3
+,,,,,,,D,BJ McLeod (12323780),BJ McLeod,12323780,D,6400,My Bariatric Solutions 300,Nasca,26.8
+,,,,,,,D,David Starr (12323781),David Starr,12323781,D,6200,My Bariatric Solutions 300,Nasca,27.4
+,,,,,,,D,Jeremy Clements (12323782),Jeremy Clements,12323782,D,6100,My Bariatric Solutions 300,Nasca,23.1
+,,,,,,,D,Vinnie Miller (12323783),Vinnie Miller,12323783,D,6000,My Bariatric Solutions 300,Nasca,16.5
+,,,,,,,D,Timmy Hill (12323784),Timmy Hill,12323784,D,5900,My Bariatric Solutions 300,Nasca,20.88
+,,,,,,,D,Jeb Burton (12323785),Jeb Burton,12323785,D,5800,My Bariatric Solutions 300,Nasca,0
+,,,,,,,D,Josh Williams (12323786),Josh Williams,12323786,D,5700,My Bariatric Solutions 300,Nasca,18.6
+,,,,,,,D,Joey Gase (12323787),Joey Gase,12323787,D,5600,My Bariatric Solutions 300,Nasca,17.7
+,,,,,,,D,Stephen Leicht (12323788),Stephen Leicht,12323788,D,5500,My Bariatric Solutions 300,Nasca,14.4
+,,,,,,,D,Tyler Hill (12323789),Tyler Hill,12323789,D,5400,My Bariatric Solutions 300,Nasca,31
+,,,,,,,D,Chad Finchum (12323790),Chad Finchum,12323790,D,5300,My Bariatric Solutions 300,Nasca,7.12
+,,,,,,,D,Mike Harmon (12323791),Mike Harmon,12323791,D,5200,My Bariatric Solutions 300,Nasca,21.4
+,,,,,,,D,Matt Mills (12323792),Matt Mills,12323792,D,5100,My Bariatric Solutions 300,Nasca,18.2
+,,,,,,,D,Josh Bilicki (12323793),Josh Bilicki,12323793,D,5000,My Bariatric Solutions 300,Nasca,9.6
+,,,,,,,D,Bayley Currey (12323794),Bayley Currey,12323794,D,4900,My Bariatric Solutions 300,Nasca,4.25
+,,,,,,,D,Jeff Green (12323795),Jeff Green,12323795,D,4800,My Bariatric Solutions 300,Nasca,13.1
+,,,,,,,D,Ronnie Bassett Jr (12323796),Ronnie Bassett Jr,12323796,D,4700,My Bariatric Solutions 300,Nasca,16
+,,,,,,,D,Tommy Joe Martins (12323797),Tommy Joe Martins,12323797,D,4600,My Bariatric Solutions 300,Nasca,12
+,,,,,,,D,Morgan Shepherd (12323798),Morgan Shepherd,12323798,D,4500,My Bariatric Solutions 300,Nasca,13

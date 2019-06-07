@@ -1,0 +1,48 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kevin Harvick (11471135),Kevin Harvick,11471135,D,12300,Hollywood Casino 400,Nasca,65.27
+,,,,,,,D,Kyle Busch (11471136),Kyle Busch,11471136,D,11800,Hollywood Casino 400,Nasca,59.98
+,,,,,,,D,Kyle Larson (11471137),Kyle Larson,11471137,D,11500,Hollywood Casino 400,Nasca,41.56
+,,,,,,,D,Martin Truex Jr (11471138),Martin Truex Jr,11471138,D,10800,Hollywood Casino 400,Nasca,47.39
+,,,,,,,D,Brad Keselowski (11471139),Brad Keselowski,11471139,D,10500,Hollywood Casino 400,Nasca,36.04
+,,,,,,,D,Chase Elliott (11471140),Chase Elliott,11471140,D,9900,Hollywood Casino 400,Nasca,36.76
+,,,,,,,D,Clint Bowyer (11471141),Clint Bowyer,11471141,D,9600,Hollywood Casino 400,Nasca,43.22
+,,,,,,,D,Erik Jones (11471142),Erik Jones,11471142,D,9300,Hollywood Casino 400,Nasca,31.17
+,,,,,,,D,Denny Hamlin (11471143),Denny Hamlin,11471143,D,9100,Hollywood Casino 400,Nasca,37.73
+,,,,,,,D,Kurt Busch (11471144),Kurt Busch,11471144,D,8900,Hollywood Casino 400,Nasca,39.68
+,,,,,,,D,Ryan Blaney (11471145),Ryan Blaney,11471145,D,8700,Hollywood Casino 400,Nasca,34.89
+,,,,,,,D,Joey Logano (11471146),Joey Logano,11471146,D,8500,Hollywood Casino 400,Nasca,38.89
+,,,,,,,D,Jimmie Johnson (11471147),Jimmie Johnson,11471147,D,8300,Hollywood Casino 400,Nasca,30.87
+,,,,,,,D,Aric Almirola (11471148),Aric Almirola,11471148,D,8100,Hollywood Casino 400,Nasca,39.36
+,,,,,,,D,Daniel Suarez (11471149),Daniel Suarez,11471149,D,7900,Hollywood Casino 400,Nasca,31.23
+,,,,,,,D,Jamie McMurray (11471150),Jamie McMurray,11471150,D,7800,Hollywood Casino 400,Nasca,22.62
+,,,,,,,D,Alex Bowman (11471151),Alex Bowman,11471151,D,7600,Hollywood Casino 400,Nasca,26.92
+,,,,,,,D,Ryan Newman (11471152),Ryan Newman,11471152,D,7400,Hollywood Casino 400,Nasca,26.34
+,,,,,,,D,Paul Menard (11471153),Paul Menard,11471153,D,7200,Hollywood Casino 400,Nasca,27.23
+,,,,,,,D,William Byron (11471154),William Byron,11471154,D,7000,Hollywood Casino 400,Nasca,22.36
+,,,,,,,D,Austin Dillon (11471155),Austin Dillon,11471155,D,6800,Hollywood Casino 400,Nasca,28.76
+,,,,,,,D,Ricky Stenhouse Jr (11471156),Ricky Stenhouse Jr,11471156,D,6700,Hollywood Casino 400,Nasca,25.51
+,,,,,,,D,Trevor Bayne (11471157),Trevor Bayne,11471157,D,6500,Hollywood Casino 400,Nasca,21.71
+,,,,,,,D,Regan Smith (11471158),Regan Smith,11471158,D,6300,Hollywood Casino 400,Nasca,36.1
+,,,,,,,D,AJ Allmendinger (11471159),AJ Allmendinger,11471159,D,6200,Hollywood Casino 400,Nasca,25.31
+,,,,,,,D,Chris Buescher (11471160),Chris Buescher,11471160,D,6100,Hollywood Casino 400,Nasca,25.42
+,,,,,,,D,Ty Dillon (11471161),Ty Dillon,11471161,D,5900,Hollywood Casino 400,Nasca,23.01
+,,,,,,,D,David Ragan (11471162),David Ragan,11471162,D,5700,Hollywood Casino 400,Nasca,21.76
+,,,,,,,D,Michael McDowell (11471163),Michael McDowell,11471163,D,5600,Hollywood Casino 400,Nasca,21.09
+,,,,,,,D,Bubba Wallace (11471164),Bubba Wallace,11471164,D,5500,Hollywood Casino 400,Nasca,21.1
+,,,,,,,D,Matt DiBenedetto (11471165),Matt DiBenedetto,11471165,D,5400,Hollywood Casino 400,Nasca,20.64
+,,,,,,,D,Ross Chastain (11471166),Ross Chastain,11471166,D,5300,Hollywood Casino 400,Nasca,20.01
+,,,,,,,D,Landon Cassill (11471167),Landon Cassill,11471167,D,5200,Hollywood Casino 400,Nasca,20.06
+,,,,,,,D,Jeffrey Earnhardt (11471168),Jeffrey Earnhardt,11471168,D,5100,Hollywood Casino 400,Nasca,17.33
+,,,,,,,D,JJ Yeley (11471169),JJ Yeley,11471169,D,5000,Hollywood Casino 400,Nasca,18.46
+,,,,,,,D,Reed Sorenson (11471170),Reed Sorenson,11471170,D,4900,Hollywood Casino 400,Nasca,14.58
+,,,,,,,D,Kyle Weatherman (11471171),Kyle Weatherman,11471171,D,4800,Hollywood Casino 400,Nasca,13.75
+,,,,,,,D,Corey Lajoie (11471172),Corey Lajoie,11471172,D,4700,Hollywood Casino 400,Nasca,15.88
+,,,,,,,D,BJ McLeod (11471173),BJ McLeod,11471173,D,4600,Hollywood Casino 400,Nasca,13.17
+,,,,,,,D,Timmy Hill (11471174),Timmy Hill,11471174,D,4500,Hollywood Casino 400,Nasca,11.88

@@ -1,0 +1,45 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12657317),Kyle Busch,12657317,D,16000,North Carolina Education Lottery 200,Nasca,99.19
+,,,,,,,D,Brett Moffitt (12657318),Brett Moffitt,12657318,D,11400,North Carolina Education Lottery 200,Nasca,42.82
+,,,,,,,D,Johnny Sauter (12657319),Johnny Sauter,12657319,D,10800,North Carolina Education Lottery 200,Nasca,42.96
+,,,,,,,D,Stewart Friesen (12657320),Stewart Friesen,12657320,D,10300,North Carolina Education Lottery 200,Nasca,44.5
+,,,,,,,D,Ben Rhodes (12657321),Ben Rhodes,12657321,D,9900,North Carolina Education Lottery 200,Nasca,43.93
+,,,,,,,D,Matt Crafton (12657322),Matt Crafton,12657322,D,9600,North Carolina Education Lottery 200,Nasca,42.57
+,,,,,,,D,Ross Chastain (12657323),Ross Chastain,12657323,D,9300,North Carolina Education Lottery 200,Nasca,52.54
+,,,,,,,D,Grant Enfinger (12657324),Grant Enfinger,12657324,D,9100,North Carolina Education Lottery 200,Nasca,47.93
+,,,,,,,D,Timothy Peters (12657325),Timothy Peters,12657325,D,8900,North Carolina Education Lottery 200,Nasca,45
+,,,,,,,D,Austin Hill (12657326),Austin Hill,12657326,D,8700,North Carolina Education Lottery 200,Nasca,27.89
+,,,,,,,D,Harrison Burton (12657327),Harrison Burton,12657327,D,8500,North Carolina Education Lottery 200,Nasca,28.14
+,,,,,,,D,Todd Gilliland (12657328),Todd Gilliland,12657328,D,8300,North Carolina Education Lottery 200,Nasca,31.89
+,,,,,,,D,Sheldon Creed (12657329),Sheldon Creed,12657329,D,8100,North Carolina Education Lottery 200,Nasca,21.07
+,,,,,,,D,Tyler Dippel (12657330),Tyler Dippel,12657330,D,7900,North Carolina Education Lottery 200,Nasca,30.29
+,,,,,,,D,Austin Wayne Self (12657331),Austin Wayne Self,12657331,D,7800,North Carolina Education Lottery 200,Nasca,23.4
+,,,,,,,D,Gus Dean (12657332),Gus Dean,12657332,D,7600,North Carolina Education Lottery 200,Nasca,22.29
+,,,,,,,D,Tyler Ankrum (12657333),Tyler Ankrum,12657333,D,7400,North Carolina Education Lottery 200,Nasca,29.88
+,,,,,,,D,Brennan Poole (12657334),Brennan Poole,12657334,D,7300,North Carolina Education Lottery 200,Nasca,23.42
+,,,,,,,D,Jesse Little (12657335),Jesse Little,12657335,D,7100,North Carolina Education Lottery 200,Nasca,20.38
+,,,,,,,D,Joe Nemechek (12657336),Joe Nemechek,12657336,D,6900,North Carolina Education Lottery 200,Nasca,12.05
+,,,,,,,D,Spencer Boyd (12657337),Spencer Boyd,12657337,D,6800,North Carolina Education Lottery 200,Nasca,26.57
+,,,,,,,D,Cory Roper (12657338),Cory Roper,12657338,D,6700,North Carolina Education Lottery 200,Nasca,24.8
+,,,,,,,D,Angela Ruch (12657339),Angela Ruch,12657339,D,6600,North Carolina Education Lottery 200,Nasca,35.75
+,,,,,,,D,Korbin Forrister (12657340),Korbin Forrister,12657340,D,6500,North Carolina Education Lottery 200,Nasca,25.4
+,,,,,,,D,Jordan Anderson (12657341),Jordan Anderson,12657341,D,6300,North Carolina Education Lottery 200,Nasca,24.07
+,,,,,,,D,Timmy Hill (12657342),Timmy Hill,12657342,D,6200,North Carolina Education Lottery 200,Nasca,14.12
+,,,,,,,D,Anthony Alfredo (12657343),Anthony Alfredo,12657343,D,6100,North Carolina Education Lottery 200,Nasca,20.33
+,,,,,,,D,Josh Bilicki (12657344),Josh Bilicki,12657344,D,5900,North Carolina Education Lottery 200,Nasca,33
+,,,,,,,D,Codie Rohrbaugh (12657345),Codie Rohrbaugh,12657345,D,5800,North Carolina Education Lottery 200,Nasca,17
+,,,,,,,D,Trey Hutchens III (12657346),Trey Hutchens III,12657346,D,5600,North Carolina Education Lottery 200,Nasca,0
+,,,,,,,D,Stefan Parsons (12657347),Stefan Parsons,12657347,D,5500,North Carolina Education Lottery 200,Nasca,9
+,,,,,,,D,Natalie Decker (12657348),Natalie Decker,12657348,D,5300,North Carolina Education Lottery 200,Nasca,14.6
+,,,,,,,D,Jennifer Jo Cobb (12657349),Jennifer Jo Cobb,12657349,D,5200,North Carolina Education Lottery 200,Nasca,25.5
+,,,,,,,D,Josh Reaume (12657350),Josh Reaume,12657350,D,5100,North Carolina Education Lottery 200,Nasca,23.96
+,,,,,,,D,Norm Benning (12657351),Norm Benning,12657351,D,5000,North Carolina Education Lottery 200,Nasca,20
+,,,,,,,D,Chad Finley (12657352),Chad Finley,12657352,D,4900,North Carolina Education Lottery 200,Nasca,18.5
+,,,,,,,D,Camden Murphy (12657353),Camden Murphy,12657353,D,4800,North Carolina Education Lottery 200,Nasca,0

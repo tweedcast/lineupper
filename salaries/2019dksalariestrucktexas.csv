@@ -1,0 +1,40 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12323727),Kyle Busch,12323727,D,16000,Vankor 350,Nasca,105.33
+,,,,,,,D,Johnny Sauter (12323728),Johnny Sauter,12323728,D,11300,Vankor 350,Nasca,40.19
+,,,,,,,D,Brett Moffitt (12323729),Brett Moffitt,12323729,D,10700,Vankor 350,Nasca,37.06
+,,,,,,,D,Matt Crafton (12323730),Matt Crafton,12323730,D,10400,Vankor 350,Nasca,43
+,,,,,,,D,Ben Rhodes (12323731),Ben Rhodes,12323731,D,10100,Vankor 350,Nasca,41.12
+,,,,,,,D,Stewart Friesen (12323732),Stewart Friesen,12323732,D,9800,Vankor 350,Nasca,39.25
+,,,,,,,D,Ross Chastain (12323733),Ross Chastain,12323733,D,9500,Vankor 350,Nasca,57.12
+,,,,,,,D,Grant Enfinger (12323734),Grant Enfinger,12323734,D,9200,Vankor 350,Nasca,42.75
+,,,,,,,D,Harrison Burton (12323735),Harrison Burton,12323735,D,8900,Vankor 350,Nasca,31.31
+,,,,,,,D,Bubba Wallace (12323736),Bubba Wallace,12323736,D,8700,Vankor 350,Nasca,37
+,,,,,,,D,Todd Gilliland (12323737),Todd Gilliland,12323737,D,8500,Vankor 350,Nasca,27.94
+,,,,,,,D,Brennan Poole (12323738),Brennan Poole,12323738,D,8300,Vankor 350,Nasca,23.75
+,,,,,,,D,Austin Hill (12323739),Austin Hill,12323739,D,8100,Vankor 350,Nasca,27.75
+,,,,,,,D,Sheldon Creed (12323740),Sheldon Creed,12323740,D,8000,Vankor 350,Nasca,25.94
+,,,,,,,D,Tyler Dippel (12323741),Tyler Dippel,12323741,D,7900,Vankor 350,Nasca,22.62
+,,,,,,,D,Spencer Boyd (12323742),Spencer Boyd,12323742,D,7700,Vankor 350,Nasca,21.88
+,,,,,,,D,Gus Dean (12323743),Gus Dean,12323743,D,7500,Vankor 350,Nasca,21.5
+,,,,,,,D,Jesse Little (12323744),Jesse Little,12323744,D,7300,Vankor 350,Nasca,22
+,,,,,,,D,Korbin Forrister (12323745),Korbin Forrister,12323745,D,7200,Vankor 350,Nasca,32.67
+,,,,,,,D,Tyler Ankrum (12323746),Tyler Ankrum,12323746,D,7000,Vankor 350,Nasca,20
+,,,,,,,D,Joe Nemechek (12323747),Joe Nemechek,12323747,D,6800,Vankor 350,Nasca,9.75
+,,,,,,,D,Codie Rohrbaugh (12323748),Codie Rohrbaugh,12323748,D,6700,Vankor 350,Nasca,0
+,,,,,,,D,Angela Ruch (12323749),Angela Ruch,12323749,D,6500,Vankor 350,Nasca,46.5
+,,,,,,,D,Jordan Anderson (12323750),Jordan Anderson,12323750,D,6300,Vankor 350,Nasca,22.62
+,,,,,,,D,Anthony Alfredo (12323751),Anthony Alfredo,12323751,D,6200,Vankor 350,Nasca,29.5
+,,,,,,,D,Cory Roper (12323752),Cory Roper,12323752,D,6000,Vankor 350,Nasca,18.75
+,,,,,,,D,Jennifer Jo Cobb (12323753),Jennifer Jo Cobb,12323753,D,5900,Vankor 350,Nasca,22.25
+,,,,,,,D,Robby Lyons (12323754),Robby Lyons,12323754,D,5800,Vankor 350,Nasca,4
+,,,,,,,D,Josh Reaume (12323755),Josh Reaume,12323755,D,5700,Vankor 350,Nasca,30.08
+,,,,,,,D,Jesse Iwuji (12323756),Jesse Iwuji,12323756,D,5500,Vankor 350,Nasca,21
+,,,,,,,D,Norm Benning (12323757),Norm Benning,12323757,D,5400,Vankor 350,Nasca,19.25
+,,,,,,,D,Ray Ciccarelli (12323758),Ray Ciccarelli,12323758,D,5300,Vankor 350,Nasca,15.75

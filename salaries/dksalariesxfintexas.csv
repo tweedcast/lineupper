@@ -1,0 +1,48 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Christopher Bell (11554273),Christopher Bell,11554273,D,11900,O'Reilly Auto Parts 300,Nasca,50.75
+,,,,,,,D,Daniel Hemric (11554274),Daniel Hemric,11554274,D,11500,O'Reilly Auto Parts 300,Nasca,39.93
+,,,,,,,D,Justin Allgaier (11554275),Justin Allgaier,11554275,D,10800,O'Reilly Auto Parts 300,Nasca,43.94
+,,,,,,,D,Cole Custer (11554276),Cole Custer,11554276,D,10400,O'Reilly Auto Parts 300,Nasca,38.9
+,,,,,,,D,Elliott Sadler (11554277),Elliott Sadler,11554277,D,10100,O'Reilly Auto Parts 300,Nasca,39.94
+,,,,,,,D,John Hunter Nemechek (11554278),John Hunter Nemechek,11554278,D,9800,O'Reilly Auto Parts 300,Nasca,34
+,,,,,,,D,Ryan Preece (11554279),Ryan Preece,11554279,D,9600,O'Reilly Auto Parts 300,Nasca,36.08
+,,,,,,,D,Tyler Reddick (11554280),Tyler Reddick,11554280,D,9400,O'Reilly Auto Parts 300,Nasca,33.42
+,,,,,,,D,Austin Cindric (11554281),Austin Cindric,11554281,D,9200,O'Reilly Auto Parts 300,Nasca,24.75
+,,,,,,,D,Matt Tifft (11554282),Matt Tifft,11554282,D,9000,O'Reilly Auto Parts 300,Nasca,33.44
+,,,,,,,D,Brandon Jones (11554283),Brandon Jones,11554283,D,8800,O'Reilly Auto Parts 300,Nasca,30.45
+,,,,,,,D,Ryan Truex (11554284),Ryan Truex,11554284,D,8600,O'Reilly Auto Parts 300,Nasca,27.63
+,,,,,,,D,Shane Lee (11554285),Shane Lee,11554285,D,8400,O'Reilly Auto Parts 300,Nasca,30.5
+,,,,,,,D,Ross Chastain (11554286),Ross Chastain,11554286,D,8200,O'Reilly Auto Parts 300,Nasca,31.26
+,,,,,,,D,Jeremy Clements (11554287),Jeremy Clements,11554287,D,8000,O'Reilly Auto Parts 300,Nasca,24.94
+,,,,,,,D,Spencer Gallagher (11554288),Spencer Gallagher,11554288,D,7800,O'Reilly Auto Parts 300,Nasca,36.05
+,,,,,,,D,Ryan Reed (11554289),Ryan Reed,11554289,D,7600,O'Reilly Auto Parts 300,Nasca,28.01
+,,,,,,,D,Michael Annett (11554290),Michael Annett,11554290,D,7400,O'Reilly Auto Parts 300,Nasca,27.03
+,,,,,,,D,Alex Labbe (11554291),Alex Labbe,11554291,D,7300,O'Reilly Auto Parts 300,Nasca,23.09
+,,,,,,,D,Ty Majeski (11554292),Ty Majeski,11554292,D,7200,O'Reilly Auto Parts 300,Nasca,1.56
+,,,,,,,D,Garrett Smithley (11554293),Garrett Smithley,11554293,D,7000,O'Reilly Auto Parts 300,Nasca,27.12
+,,,,,,,D,Ryan Sieg (11554294),Ryan Sieg,11554294,D,6900,O'Reilly Auto Parts 300,Nasca,23.18
+,,,,,,,D,Joey Gase (11554295),Joey Gase,11554295,D,6700,O'Reilly Auto Parts 300,Nasca,23.26
+,,,,,,,D,David Starr (11554296),David Starr,11554296,D,6500,O'Reilly Auto Parts 300,Nasca,23.79
+,,,,,,,D,Brandon Brown (11554297),Brandon Brown,11554297,D,6300,O'Reilly Auto Parts 300,Nasca,14.12
+,,,,,,,D,Ray Black Jr (11554298),Ray Black Jr,11554298,D,6200,O'Reilly Auto Parts 300,Nasca,24.06
+,,,,,,,D,Vinnie Miller (11554299),Vinnie Miller,11554299,D,6000,O'Reilly Auto Parts 300,Nasca,21.83
+,,,,,,,D,JJ Yeley (11554300),JJ Yeley,11554300,D,5800,O'Reilly Auto Parts 300,Nasca,9.51
+,,,,,,,D,Spencer Boyd (11554301),Spencer Boyd,11554301,D,5600,O'Reilly Auto Parts 300,Nasca,22.41
+,,,,,,,D,Quin Houff (11554302),Quin Houff,11554302,D,5500,O'Reilly Auto Parts 300,Nasca,6
+,,,,,,,D,Chad Finchum (11554303),Chad Finchum,11554303,D,5400,O'Reilly Auto Parts 300,Nasca,16.9
+,,,,,,,D,BJ McLeod (11554304),BJ McLeod,11554304,D,5300,O'Reilly Auto Parts 300,Nasca,18.9
+,,,,,,,D,Bayley Currey (11554305),Bayley Currey,11554305,D,5200,O'Reilly Auto Parts 300,Nasca,19.86
+,,,,,,,D,Josh Bilicki (11554306),Josh Bilicki,11554306,D,5100,O'Reilly Auto Parts 300,Nasca,16.92
+,,,,,,,D,Carl Long (11554307),Carl Long,11554307,D,5000,O'Reilly Auto Parts 300,Nasca,10.17
+,,,,,,,D,Stephen Leicht (11554308),Stephen Leicht,11554308,D,4900,O'Reilly Auto Parts 300,Nasca,14.93
+,,,,,,,D,Timmy Hill (11554309),Timmy Hill,11554309,D,4800,O'Reilly Auto Parts 300,Nasca,9.24
+,,,,,,,D,Mike Harmon (11554310),Mike Harmon,11554310,D,4700,O'Reilly Auto Parts 300,Nasca,17.23
+,,,,,,,D,Jeff Green (11554311),Jeff Green,11554311,D,4600,O'Reilly Auto Parts 300,Nasca,2.69
+,,,,,,,D,Morgan Shepherd (11554312),Morgan Shepherd,11554312,D,4500,O'Reilly Auto Parts 300,Nasca,2.24

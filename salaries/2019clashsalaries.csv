@@ -1,0 +1,28 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kevin Harvick (12052251),Kevin Harvick,12052251,D,9600,Advance Auto Parts Clash,Nasca,66.26
+,,,,,,,D,Brad Keselowski (12052252),Brad Keselowski,12052252,D,9400,Advance Auto Parts Clash,Nasca,39.07
+,,,,,,,D,Joey Logano (12052253),Joey Logano,12052253,D,9200,Advance Auto Parts Clash,Nasca,42.28
+,,,,,,,D,Aric Almirola (12052254),Aric Almirola,12052254,D,8900,Advance Auto Parts Clash,Nasca,39.37
+,,,,,,,D,Clint Bowyer (12052255),Clint Bowyer,12052255,D,8700,Advance Auto Parts Clash,Nasca,39.09
+,,,,,,,D,Chase Elliott (12052256),Chase Elliott,12052256,D,8500,Advance Auto Parts Clash,Nasca,38.18
+,,,,,,,D,Denny Hamlin (12052257),Denny Hamlin,12052257,D,8300,Advance Auto Parts Clash,Nasca,37.51
+,,,,,,,D,Ryan Blaney (12052258),Ryan Blaney,12052258,D,8000,Advance Auto Parts Clash,Nasca,33.89
+,,,,,,,D,Kyle Busch (12052259),Kyle Busch,12052259,D,7800,Advance Auto Parts Clash,Nasca,60.92
+,,,,,,,D,Daniel Suarez (12052260),Daniel Suarez,12052260,D,7500,Advance Auto Parts Clash,Nasca,29.02
+,,,,,,,D,Kurt Busch (12052261),Kurt Busch,12052261,D,7300,Advance Auto Parts Clash,Nasca,39.45
+,,,,,,,D,Martin Truex Jr (12052262),Martin Truex Jr,12052262,D,7000,Advance Auto Parts Clash,Nasca,48.67
+,,,,,,,D,Alex Bowman (12052263),Alex Bowman,12052263,D,6800,Advance Auto Parts Clash,Nasca,26.56
+,,,,,,,D,Erik Jones (12052264),Erik Jones,12052264,D,6500,Advance Auto Parts Clash,Nasca,31.57
+,,,,,,,D,Jimmie Johnson (12052265),Jimmie Johnson,12052265,D,6300,Advance Auto Parts Clash,Nasca,31.68
+,,,,,,,D,Kyle Larson (12052266),Kyle Larson,12052266,D,6000,Advance Auto Parts Clash,Nasca,43.26
+,,,,,,,D,Paul Menard (12052267),Paul Menard,12052267,D,5800,Advance Auto Parts Clash,Nasca,25.86
+,,,,,,,D,Jamie McMurray (12052268),Jamie McMurray,12052268,D,5600,Advance Auto Parts Clash,Nasca,24.01
+,,,,,,,D,Austin Dillon (12052269),Austin Dillon,12052269,D,5400,Advance Auto Parts Clash,Nasca,29.92
+,,,,,,,D,Ryan Newman (12052270),Ryan Newman,12052270,D,5300,Advance Auto Parts Clash,Nasca,27.66

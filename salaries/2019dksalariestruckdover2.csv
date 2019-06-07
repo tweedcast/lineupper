@@ -1,0 +1,39 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Johnny Sauter (12577642),Johnny Sauter,12577642,D,11800,JEGS 200,Nasca,42.1
+,,,,,,,D,Brett Moffitt (12577643),Brett Moffitt,12577643,D,11400,JEGS 200,Nasca,34.3
+,,,,,,,D,Matt Crafton (12577644),Matt Crafton,12577644,D,10900,JEGS 200,Nasca,43.8
+,,,,,,,D,Stewart Friesen (12577645),Stewart Friesen,12577645,D,10500,JEGS 200,Nasca,43.05
+,,,,,,,D,Ben Rhodes (12577646),Ben Rhodes,12577646,D,10200,JEGS 200,Nasca,40.6
+,,,,,,,D,Ross Chastain (12577647),Ross Chastain,12577647,D,9900,JEGS 200,Nasca,54.3
+,,,,,,,D,Grant Enfinger (12577648),Grant Enfinger,12577648,D,9600,JEGS 200,Nasca,43.2
+,,,,,,,D,Ryan Sieg (12577649),Ryan Sieg,12577649,D,9300,JEGS 200,Nasca,0
+,,,,,,,D,Todd Gilliland (12577650),Todd Gilliland,12577650,D,9100,JEGS 200,Nasca,29.05
+,,,,,,,D,Brandon Jones (12577651),Brandon Jones,12577651,D,8900,JEGS 200,Nasca,0
+,,,,,,,D,Harrison Burton (12577652),Harrison Burton,12577652,D,8700,JEGS 200,Nasca,23.45
+,,,,,,,D,Tyler Dippel (12577653),Tyler Dippel,12577653,D,8500,JEGS 200,Nasca,28.5
+,,,,,,,D,Austin Hill (12577654),Austin Hill,12577654,D,8300,JEGS 200,Nasca,21.4
+,,,,,,,D,Brennan Poole (12577655),Brennan Poole,12577655,D,8100,JEGS 200,Nasca,26.8
+,,,,,,,D,Sheldon Creed (12577656),Sheldon Creed,12577656,D,7900,JEGS 200,Nasca,21.75
+,,,,,,,D,Gus Dean (12577657),Gus Dean,12577657,D,7700,JEGS 200,Nasca,19.6
+,,,,,,,D,Austin Wayne Self (12577658),Austin Wayne Self,12577658,D,7600,JEGS 200,Nasca,28.33
+,,,,,,,D,Spencer Boyd (12577659),Spencer Boyd,12577659,D,7400,JEGS 200,Nasca,26.1
+,,,,,,,D,Jesse Little (12577660),Jesse Little,12577660,D,7300,JEGS 200,Nasca,27.5
+,,,,,,,D,Derek Kraus (12577661),Derek Kraus,12577661,D,7200,JEGS 200,Nasca,19.5
+,,,,,,,D,Korbin Forrister (12577662),Korbin Forrister,12577662,D,7100,JEGS 200,Nasca,29.25
+,,,,,,,D,Joe Nemechek (12577663),Joe Nemechek,12577663,D,7000,JEGS 200,Nasca,10.25
+,,,,,,,D,Tyler Ankrum (12577664),Tyler Ankrum,12577664,D,6800,JEGS 200,Nasca,29.25
+,,,,,,,D,Jordan Anderson (12577665),Jordan Anderson,12577665,D,6600,JEGS 200,Nasca,22.1
+,,,,,,,D,Natalie Decker (12577666),Natalie Decker,12577666,D,6400,JEGS 200,Nasca,11.33
+,,,,,,,D,Raphael Lessard (12577667),Raphael Lessard,12577667,D,6200,JEGS 200,Nasca,23
+,,,,,,,D,Jennifer Jo Cobb (12577668),Jennifer Jo Cobb,12577668,D,6000,JEGS 200,Nasca,26.83
+,,,,,,,D,Reid Wilson (12577669),Reid Wilson,12577669,D,5900,JEGS 200,Nasca,24
+,,,,,,,D,Ray Ciccarelli (12577670),Ray Ciccarelli,12577670,D,5700,JEGS 200,Nasca,23.83
+,,,,,,,D,Tyler Hill (12577671),Tyler Hill,12577671,D,5500,JEGS 200,Nasca,0
+,,,,,,,D,Norm Benning (12577673),Norm Benning,12577673,D,5300,JEGS 200,Nasca,19.25

@@ -1,0 +1,46 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kevin Harvick (12157482),Kevin Harvick,12157482,D,12500,Pennzoil 400 presented by Jiffy Lube,Nasca,43.44
+,,,,,,,D,Kyle Busch (12157483),Kyle Busch,12157483,D,11900,Pennzoil 400 presented by Jiffy Lube,Nasca,42.75
+,,,,,,,D,Brad Keselowski (12157484),Brad Keselowski,12157484,D,11400,Pennzoil 400 presented by Jiffy Lube,Nasca,41.44
+,,,,,,,D,Joey Logano (12157485),Joey Logano,12157485,D,10700,Pennzoil 400 presented by Jiffy Lube,Nasca,45.75
+,,,,,,,D,Martin Truex Jr (12157486),Martin Truex Jr,12157486,D,10100,Pennzoil 400 presented by Jiffy Lube,Nasca,30.25
+,,,,,,,D,Kyle Larson (12157487),Kyle Larson,12157487,D,9800,Pennzoil 400 presented by Jiffy Lube,Nasca,51.75
+,,,,,,,D,Ryan Blaney (12157488),Ryan Blaney,12157488,D,9500,Pennzoil 400 presented by Jiffy Lube,Nasca,32.5
+,,,,,,,D,Chase Elliott (12157489),Chase Elliott,12157489,D,9200,Pennzoil 400 presented by Jiffy Lube,Nasca,36.12
+,,,,,,,D,Clint Bowyer (12157490),Clint Bowyer,12157490,D,9000,Pennzoil 400 presented by Jiffy Lube,Nasca,33.56
+,,,,,,,D,Denny Hamlin (12157491),Denny Hamlin,12157491,D,8800,Pennzoil 400 presented by Jiffy Lube,Nasca,40.75
+,,,,,,,D,Aric Almirola (12157492),Aric Almirola,12157492,D,8600,Pennzoil 400 presented by Jiffy Lube,Nasca,32.12
+,,,,,,,D,Erik Jones (12157493),Erik Jones,12157493,D,8400,Pennzoil 400 presented by Jiffy Lube,Nasca,41.75
+,,,,,,,D,Kurt Busch (12157494),Kurt Busch,12157494,D,8200,Pennzoil 400 presented by Jiffy Lube,Nasca,40.44
+,,,,,,,D,Jimmie Johnson (12157495),Jimmie Johnson,12157495,D,8100,Pennzoil 400 presented by Jiffy Lube,Nasca,36.62
+,,,,,,,D,Ricky Stenhouse Jr (12157496),Ricky Stenhouse Jr,12157496,D,7900,Pennzoil 400 presented by Jiffy Lube,Nasca,31.25
+,,,,,,,D,Daniel Suarez (12157497),Daniel Suarez,12157497,D,7700,Pennzoil 400 presented by Jiffy Lube,Nasca,25.5
+,,,,,,,D,Austin Dillon (12157498),Austin Dillon,12157498,D,7600,Pennzoil 400 presented by Jiffy Lube,Nasca,31.56
+,,,,,,,D,Alex Bowman (12157499),Alex Bowman,12157499,D,7400,Pennzoil 400 presented by Jiffy Lube,Nasca,30.44
+,,,,,,,D,Ryan Newman (12157500),Ryan Newman,12157500,D,7200,Pennzoil 400 presented by Jiffy Lube,Nasca,35.25
+,,,,,,,D,Daniel Hemric (12157501),Daniel Hemric,12157501,D,7100,Pennzoil 400 presented by Jiffy Lube,Nasca,20.42
+,,,,,,,D,Paul Menard (12157502),Paul Menard,12157502,D,6900,Pennzoil 400 presented by Jiffy Lube,Nasca,26.06
+,,,,,,,D,Matt DiBenedetto (12157503),Matt DiBenedetto,12157503,D,6700,Pennzoil 400 presented by Jiffy Lube,Nasca,26.08
+,,,,,,,D,William Byron (12157504),William Byron,12157504,D,6600,Pennzoil 400 presented by Jiffy Lube,Nasca,21.08
+,,,,,,,D,Chris Buescher (12157505),Chris Buescher,12157505,D,6500,Pennzoil 400 presented by Jiffy Lube,Nasca,29.17
+,,,,,,,D,Bubba Wallace (12157506),Bubba Wallace,12157506,D,6300,Pennzoil 400 presented by Jiffy Lube,Nasca,17.17
+,,,,,,,D,Ryan Preece (12157507),Ryan Preece,12157507,D,6100,Pennzoil 400 presented by Jiffy Lube,Nasca,29.83
+,,,,,,,D,Ty Dillon (12157508),Ty Dillon,12157508,D,6000,Pennzoil 400 presented by Jiffy Lube,Nasca,39.67
+,,,,,,,D,David Ragan (12157509),David Ragan,12157509,D,5900,Pennzoil 400 presented by Jiffy Lube,Nasca,26.83
+,,,,,,,D,Michael McDowell (12157510),Michael McDowell,12157510,D,5700,Pennzoil 400 presented by Jiffy Lube,Nasca,25.17
+,,,,,,,D,Matt Tifft (12157511),Matt Tifft,12157511,D,5600,Pennzoil 400 presented by Jiffy Lube,Nasca,17
+,,,,,,,D,Ross Chastain (12157512),Ross Chastain,12157512,D,5500,Pennzoil 400 presented by Jiffy Lube,Nasca,33.67
+,,,,,,,D,Parker Kligerman (12157513),Parker Kligerman,12157513,D,5300,Pennzoil 400 presented by Jiffy Lube,Nasca,32.83
+,,,,,,,D,Landon Cassill (12157514),Landon Cassill,12157514,D,5200,Pennzoil 400 presented by Jiffy Lube,Nasca,23.75
+,,,,,,,D,Corey Lajoie (12157515),Corey Lajoie,12157515,D,5100,Pennzoil 400 presented by Jiffy Lube,Nasca,28.67
+,,,,,,,D,Joey Gase (12157516),Joey Gase,12157516,D,5000,Pennzoil 400 presented by Jiffy Lube,Nasca,25
+,,,,,,,D,Reed Sorenson (12157517),Reed Sorenson,12157517,D,4900,Pennzoil 400 presented by Jiffy Lube,Nasca,0
+,,,,,,,D,BJ McLeod (12157518),BJ McLeod,12157518,D,4800,Pennzoil 400 presented by Jiffy Lube,Nasca,28
+,,,,,,,D,Cody Ware (12157519),Cody Ware,12157519,D,4700,Pennzoil 400 presented by Jiffy Lube,Nasca,13.5

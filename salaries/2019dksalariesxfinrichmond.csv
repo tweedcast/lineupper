@@ -1,0 +1,48 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Christopher Bell (12440307),Christopher Bell,12440307,D,12700,ToyotaCare 250,Nasca,62.79
+,,,,,,,D,Tyler Reddick (12440308),Tyler Reddick,12440308,D,12100,ToyotaCare 250,Nasca,56.04
+,,,,,,,D,Cole Custer (12440309),Cole Custer,12440309,D,11600,ToyotaCare 250,Nasca,46.68
+,,,,,,,D,Justin Allgaier (12440310),Justin Allgaier,12440310,D,11000,ToyotaCare 250,Nasca,32.64
+,,,,,,,D,Brandon Jones (12440311),Brandon Jones,12440311,D,10500,ToyotaCare 250,Nasca,31
+,,,,,,,D,Chase Briscoe (12440312),Chase Briscoe,12440312,D,10100,ToyotaCare 250,Nasca,45.36
+,,,,,,,D,John H. Nemechek (12440313),John H. Nemechek,12440313,D,9800,ToyotaCare 250,Nasca,33.29
+,,,,,,,D,Austin Cindric (12440314),Austin Cindric,12440314,D,9500,ToyotaCare 250,Nasca,35.57
+,,,,,,,D,Elliott Sadler (12440315),Elliott Sadler,12440315,D,9200,ToyotaCare 250,Nasca,0
+,,,,,,,D,Justin Haley (12440316),Justin Haley,12440316,D,8900,ToyotaCare 250,Nasca,35.96
+,,,,,,,D,Ryan Sieg (12440317),Ryan Sieg,12440317,D,8600,ToyotaCare 250,Nasca,42.21
+,,,,,,,D,Michael Annett (12440318),Michael Annett,12440318,D,8400,ToyotaCare 250,Nasca,42.93
+,,,,,,,D,Noah Gragson (12440319),Noah Gragson,12440319,D,8100,ToyotaCare 250,Nasca,36.71
+,,,,,,,D,Kaz Grala (12440320),Kaz Grala,12440320,D,7900,ToyotaCare 250,Nasca,20
+,,,,,,,D,Riley Herbst (12440321),Riley Herbst,12440321,D,7700,ToyotaCare 250,Nasca,0
+,,,,,,,D,Ross Chastain (12440322),Ross Chastain,12440322,D,7500,ToyotaCare 250,Nasca,25.68
+,,,,,,,D,Zane Smith (12440323),Zane Smith,12440323,D,7300,ToyotaCare 250,Nasca,20.5
+,,,,,,,D,Gray Gaulding (12440324),Gray Gaulding,12440324,D,7200,ToyotaCare 250,Nasca,28.43
+,,,,,,,D,Brandon Brown (12440325),Brandon Brown,12440325,D,7100,ToyotaCare 250,Nasca,28.93
+,,,,,,,D,Garrett Smithley (12440326),Garrett Smithley,12440326,D,7000,ToyotaCare 250,Nasca,27.36
+,,,,,,,D,David Starr (12440327),David Starr,12440327,D,6800,ToyotaCare 250,Nasca,28.29
+,,,,,,,D,Jeremy Clements (12440328),Jeremy Clements,12440328,D,6700,ToyotaCare 250,Nasca,22.57
+,,,,,,,D,Ray Black Jr (12440329),Ray Black Jr,12440329,D,6500,ToyotaCare 250,Nasca,23.93
+,,,,,,,D,BJ McLeod (12440330),BJ McLeod,12440330,D,6400,ToyotaCare 250,Nasca,24.86
+,,,,,,,D,Vinnie Miller (12440331),Vinnie Miller,12440331,D,6200,ToyotaCare 250,Nasca,19.57
+,,,,,,,D,Josh Williams (12440332),Josh Williams,12440332,D,6000,ToyotaCare 250,Nasca,23.14
+,,,,,,,D,Stephen Leicht (12440333),Stephen Leicht,12440333,D,5900,ToyotaCare 250,Nasca,16.86
+,,,,,,,D,Mason Diaz (12440334),Mason Diaz,12440334,D,5700,ToyotaCare 250,Nasca,0
+,,,,,,,D,Timmy Hill (12440335),Timmy Hill,12440335,D,5600,ToyotaCare 250,Nasca,19.25
+,,,,,,,D,Joey Gase (12440336),Joey Gase,12440336,D,5500,ToyotaCare 250,Nasca,19.93
+,,,,,,,D,Chad Finchum (12440337),Chad Finchum,12440337,D,5400,ToyotaCare 250,Nasca,14
+,,,,,,,D,Matt Mills (12440338),Matt Mills,12440338,D,5300,ToyotaCare 250,Nasca,20.43
+,,,,,,,D,Kyle Weatherman (12440339),Kyle Weatherman,12440339,D,5200,ToyotaCare 250,Nasca,12
+,,,,,,,D,Colin Garrett (12440340),Colin Garrett,12440340,D,5100,ToyotaCare 250,Nasca,0
+,,,,,,,D,Dillon Bassett (12440341),Dillon Bassett,12440341,D,5000,ToyotaCare 250,Nasca,0
+,,,,,,,D,Mike Harmon (12440342),Mike Harmon,12440342,D,4900,ToyotaCare 250,Nasca,21.43
+,,,,,,,D,Tyler Matthews (12440343),Tyler Matthews,12440343,D,4800,ToyotaCare 250,Nasca,0
+,,,,,,,D,Donald Theetge (12440344),Donald Theetge,12440344,D,4700,ToyotaCare 250,Nasca,-7
+,,,,,,,D,Jeff Green (12440345),Jeff Green,12440345,D,4600,ToyotaCare 250,Nasca,10.5
+,,,,,,,D,Morgan Shepherd (12440346),Morgan Shepherd,12440346,D,4500,ToyotaCare 250,Nasca,11.8

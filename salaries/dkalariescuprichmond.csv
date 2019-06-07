@@ -1,0 +1,45 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12440347),Kyle Busch,12440347,D,13000,Toyota Owners 400,Nasca,73.12
+,,,,,,,D,Kevin Harvick (12440348),Kevin Harvick,12440348,D,12300,Toyota Owners 400,Nasca,51.62
+,,,,,,,D,Joey Logano (12440349),Joey Logano,12440349,D,11800,Toyota Owners 400,Nasca,51.55
+,,,,,,,D,Ryan Blaney (12440350),Ryan Blaney,12440350,D,11100,Toyota Owners 400,Nasca,44.88
+,,,,,,,D,Brad Keselowski (12440351),Brad Keselowski,12440351,D,10600,Toyota Owners 400,Nasca,56.1
+,,,,,,,D,Kurt Busch (12440352),Kurt Busch,12440352,D,10200,Toyota Owners 400,Nasca,52.05
+,,,,,,,D,Martin Truex Jr (12440353),Martin Truex Jr,12440353,D,9800,Toyota Owners 400,Nasca,43.85
+,,,,,,,D,Chase Elliott (12440354),Chase Elliott,12440354,D,9500,Toyota Owners 400,Nasca,42.5
+,,,,,,,D,Kyle Larson (12440355),Kyle Larson,12440355,D,9200,Toyota Owners 400,Nasca,36.7
+,,,,,,,D,Denny Hamlin (12440356),Denny Hamlin,12440356,D,8900,Toyota Owners 400,Nasca,45.02
+,,,,,,,D,Clint Bowyer (12440357),Clint Bowyer,12440357,D,8600,Toyota Owners 400,Nasca,39.25
+,,,,,,,D,Jimmie Johnson (12440358),Jimmie Johnson,12440358,D,8300,Toyota Owners 400,Nasca,32.8
+,,,,,,,D,Erik Jones (12440359),Erik Jones,12440359,D,8000,Toyota Owners 400,Nasca,30.05
+,,,,,,,D,Aric Almirola (12440360),Aric Almirola,12440360,D,7700,Toyota Owners 400,Nasca,35.3
+,,,,,,,D,Daniel Suarez (12440361),Daniel Suarez,12440361,D,7500,Toyota Owners 400,Nasca,35.12
+,,,,,,,D,Ricky Stenhouse Jr (12440362),Ricky Stenhouse Jr,12440362,D,7300,Toyota Owners 400,Nasca,27.92
+,,,,,,,D,Alex Bowman (12440363),Alex Bowman,12440363,D,7100,Toyota Owners 400,Nasca,24.42
+,,,,,,,D,Austin Dillon (12440364),Austin Dillon,12440364,D,7000,Toyota Owners 400,Nasca,30.15
+,,,,,,,D,Ryan Newman (12440365),Ryan Newman,12440365,D,6900,Toyota Owners 400,Nasca,31
+,,,,,,,D,Matt DiBenedetto (12440366),Matt DiBenedetto,12440366,D,6800,Toyota Owners 400,Nasca,26.75
+,,,,,,,D,William Byron (12440367),William Byron,12440367,D,6700,Toyota Owners 400,Nasca,27
+,,,,,,,D,Paul Menard (12440368),Paul Menard,12440368,D,6600,Toyota Owners 400,Nasca,28.18
+,,,,,,,D,Chris Buescher (12440369),Chris Buescher,12440369,D,6500,Toyota Owners 400,Nasca,27.5
+,,,,,,,D,Ryan Preece (12440370),Ryan Preece,12440370,D,6400,Toyota Owners 400,Nasca,23.11
+,,,,,,,D,Daniel Hemric (12440371),Daniel Hemric,12440371,D,6200,Toyota Owners 400,Nasca,12.64
+,,,,,,,D,Ty Dillon (12440372),Ty Dillon,12440372,D,6100,Toyota Owners 400,Nasca,28.5
+,,,,,,,D,Ross Chastain (12440373),Ross Chastain,12440373,D,6000,Toyota Owners 400,Nasca,24.44
+,,,,,,,D,Bubba Wallace (12440374),Bubba Wallace,12440374,D,5900,Toyota Owners 400,Nasca,19.61
+,,,,,,,D,David Ragan (12440375),David Ragan,12440375,D,5800,Toyota Owners 400,Nasca,19.39
+,,,,,,,D,Michael McDowell (12440376),Michael McDowell,12440376,D,5600,Toyota Owners 400,Nasca,15.72
+,,,,,,,D,Matt Tifft (12440377),Matt Tifft,12440377,D,5500,Toyota Owners 400,Nasca,20.22
+,,,,,,,D,Corey Lajoie (12440378),Corey Lajoie,12440378,D,5300,Toyota Owners 400,Nasca,19.06
+,,,,,,,D,Landon Cassill (12440379),Landon Cassill,12440379,D,5200,Toyota Owners 400,Nasca,18.64
+,,,,,,,D,Quin Houff (12440380),Quin Houff,12440380,D,5100,Toyota Owners 400,Nasca,18
+,,,,,,,D,Bayley Currey (12440381),Bayley Currey,12440381,D,5000,Toyota Owners 400,Nasca,14.83
+,,,,,,,D,Joey Gase (12440382),Joey Gase,12440382,D,4900,Toyota Owners 400,Nasca,13.67
+,,,,,,,D,Jeb Burton (12440383),Jeb Burton,12440383,D,4800,Toyota Owners 400,Nasca,10

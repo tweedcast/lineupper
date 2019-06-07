@@ -1,0 +1,35 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Johnny Sauter (12621275),Johnny Sauter,12621275,D,11000,Digital Ally 250,Nasca,47.88
+,,,,,,,D,Brett Moffitt (12621276),Brett Moffitt,12621276,D,10600,Digital Ally 250,Nasca,42.38
+,,,,,,,D,Ben Rhodes (12621277),Ben Rhodes,12621277,D,10200,Digital Ally 250,Nasca,41.79
+,,,,,,,D,Stewart Friesen (12621278),Stewart Friesen,12621278,D,9700,Digital Ally 250,Nasca,40.12
+,,,,,,,D,Matt Crafton (12621279),Matt Crafton,12621279,D,9400,Digital Ally 250,Nasca,43.5
+,,,,,,,D,Ross Chastain (12621280),Ross Chastain,12621280,D,9100,Digital Ally 250,Nasca,51.92
+,,,,,,,D,Brandon Jones (12621281),Brandon Jones,12621281,D,8800,Digital Ally 250,Nasca,37
+,,,,,,,D,Grant Enfinger (12621282),Grant Enfinger,12621282,D,8600,Digital Ally 250,Nasca,45.21
+,,,,,,,D,Harrison Burton (12621283),Harrison Burton,12621283,D,8500,Digital Ally 250,Nasca,28.33
+,,,,,,,D,Todd Gilliland (12621284),Todd Gilliland,12621284,D,8300,Digital Ally 250,Nasca,29.12
+,,,,,,,D,Riley Herbst (12621285),Riley Herbst,12621285,D,8100,Digital Ally 250,Nasca,0
+,,,,,,,D,Austin Hill (12621286),Austin Hill,12621286,D,8000,Digital Ally 250,Nasca,25
+,,,,,,,D,Tyler Dippel (12621287),Tyler Dippel,12621287,D,7800,Digital Ally 250,Nasca,29.08
+,,,,,,,D,Sheldon Creed (12621288),Sheldon Creed,12621288,D,7600,Digital Ally 250,Nasca,21.25
+,,,,,,,D,Austin Wayne Self (12621289),Austin Wayne Self,12621289,D,7500,Digital Ally 250,Nasca,27
+,,,,,,,D,Gus Dean (12621290),Gus Dean,12621290,D,7300,Digital Ally 250,Nasca,22
+,,,,,,,D,Tyler Ankrum (12621291),Tyler Ankrum,12621291,D,7100,Digital Ally 250,Nasca,31.83
+,,,,,,,D,Joe Nemechek (12621292),Joe Nemechek,12621292,D,7000,Digital Ally 250,Nasca,10.94
+,,,,,,,D,Spencer Boyd (12621293),Spencer Boyd,12621293,D,6800,Digital Ally 250,Nasca,26.33
+,,,,,,,D,Angela Ruch (12621294),Angela Ruch,12621294,D,6600,Digital Ally 250,Nasca,36
+,,,,,,,D,Timmy Hill (12621295),Timmy Hill,12621295,D,6400,Digital Ally 250,Nasca,15.5
+,,,,,,,D,Josh Bilicki (12621296),Josh Bilicki,12621296,D,6200,Digital Ally 250,Nasca,0
+,,,,,,,D,Jordan Anderson (12621297),Jordan Anderson,12621297,D,6000,Digital Ally 250,Nasca,22.42
+,,,,,,,D,Natalie Decker (12621298),Natalie Decker,12621298,D,5900,Digital Ally 250,Nasca,16
+,,,,,,,D,Jennifer Jo Cobb (12621299),Jennifer Jo Cobb,12621299,D,5800,Digital Ally 250,Nasca,25.62
+,,,,,,,D,Norm Benning (12621300),Norm Benning,12621300,D,5600,Digital Ally 250,Nasca,16.5
+,,,,,,,D,Josh Reaume (12621301),Josh Reaume,12621301,D,5500,Digital Ally 250,Nasca,22.75

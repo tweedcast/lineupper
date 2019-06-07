@@ -1,0 +1,46 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Brad Keselowski (12083217),Brad Keselowski,12083217,D,12500,NASCAR Racing Experience 300,Nasca,74.06
+,,,,,,,D,Chase Elliott (12083218),Chase Elliott,12083218,D,12100,NASCAR Racing Experience 300,Nasca,28
+,,,,,,,D,Christopher Bell (12083219),Christopher Bell,12083219,D,11600,NASCAR Racing Experience 300,Nasca,52.83
+,,,,,,,D,Cole Custer (12083220),Cole Custer,12083220,D,11000,NASCAR Racing Experience 300,Nasca,40.14
+,,,,,,,D,Justin Allgaier (12083221),Justin Allgaier,12083221,D,10400,NASCAR Racing Experience 300,Nasca,43.36
+,,,,,,,D,John H. Nemechek (12083222),John H. Nemechek,12083222,D,9900,NASCAR Racing Experience 300,Nasca,36.52
+,,,,,,,D,Tyler Reddick (12083223),Tyler Reddick,12083223,D,9600,NASCAR Racing Experience 300,Nasca,35.43
+,,,,,,,D,Austin Cindric (12083224),Austin Cindric,12083224,D,9300,NASCAR Racing Experience 300,Nasca,26.21
+,,,,,,,D,Brandon Jones (12083225),Brandon Jones,12083225,D,9000,NASCAR Racing Experience 300,Nasca,30.96
+,,,,,,,D,Ross Chastain (12083226),Ross Chastain,12083226,D,8700,NASCAR Racing Experience 300,Nasca,31.59
+,,,,,,,D,Garrett Smithley (12083227),Garrett Smithley,12083227,D,8400,NASCAR Racing Experience 300,Nasca,26.56
+,,,,,,,D,Ryan Sieg (12083228),Ryan Sieg,12083228,D,8200,NASCAR Racing Experience 300,Nasca,23.08
+,,,,,,,D,Chase Briscoe (12083229),Chase Briscoe,12083229,D,8000,NASCAR Racing Experience 300,Nasca,27.82
+,,,,,,,D,Michael Annett (12083230),Michael Annett,12083230,D,7800,NASCAR Racing Experience 300,Nasca,27.44
+,,,,,,,D,Jeffrey Earnhardt (12083231),Jeffrey Earnhardt,12083231,D,7600,NASCAR Racing Experience 300,Nasca,0
+,,,,,,,D,Jeremy Clements (12083232),Jeremy Clements,12083232,D,7400,NASCAR Racing Experience 300,Nasca,24.95
+,,,,,,,D,Noah Gragson (12083233),Noah Gragson,12083233,D,7300,NASCAR Racing Experience 300,Nasca,53.33
+,,,,,,,D,Vinnie Miller (12083234),Vinnie Miller,12083234,D,7100,NASCAR Racing Experience 300,Nasca,20.67
+,,,,,,,D,Scott Lagasse Jr (12083235),Scott Lagasse Jr,12083235,D,6900,NASCAR Racing Experience 300,Nasca,0
+,,,,,,,D,Justin Haley (12083236),Justin Haley,12083236,D,6800,NASCAR Racing Experience 300,Nasca,23.17
+,,,,,,,D,Ray Black Jr (12083237),Ray Black Jr,12083237,D,6700,NASCAR Racing Experience 300,Nasca,24.06
+,,,,,,,D,Joey Gase (12083238),Joey Gase,12083238,D,6500,NASCAR Racing Experience 300,Nasca,23.21
+,,,,,,,D,Max Tullman (12083239),Max Tullman,12083239,D,6400,NASCAR Racing Experience 300,Nasca,14
+,,,,,,,D,Gray Gaulding (12083240),Gray Gaulding,12083240,D,6300,NASCAR Racing Experience 300,Nasca,2
+,,,,,,,D,David Starr (12083241),David Starr,12083241,D,6100,NASCAR Racing Experience 300,Nasca,23.38
+,,,,,,,D,Brandon Brown (12083242),Brandon Brown,12083242,D,6000,NASCAR Racing Experience 300,Nasca,15.9
+,,,,,,,D,Josh Bilicki (12083243),Josh Bilicki,12083243,D,5800,NASCAR Racing Experience 300,Nasca,16.88
+,,,,,,,D,Josh Williams (12083244),Josh Williams,12083244,D,5600,NASCAR Racing Experience 300,Nasca,20.97
+,,,,,,,D,Caesar Bacarella (12083245),Caesar Bacarella,12083245,D,5500,NASCAR Racing Experience 300,Nasca,14.8
+,,,,,,,D,BJ McLeod (12083246),BJ McLeod,12083246,D,5400,NASCAR Racing Experience 300,Nasca,18.9
+,,,,,,,D,Stephen Leicht (12083247),Stephen Leicht,12083247,D,5200,NASCAR Racing Experience 300,Nasca,13.8
+,,,,,,,D,D.J. Kennington (12083248),D.J. Kennington,12083248,D,5100,NASCAR Racing Experience 300,Nasca,0
+,,,,,,,D,Mike Harmon (12083249),Mike Harmon,12083249,D,5000,NASCAR Racing Experience 300,Nasca,17.15
+,,,,,,,D,Matt Mills (12083250),Matt Mills,12083250,D,4900,NASCAR Racing Experience 300,Nasca,11
+,,,,,,,D,Timmy Hill (12083251),Timmy Hill,12083251,D,4800,NASCAR Racing Experience 300,Nasca,9.06
+,,,,,,,D,Jeff Green (12083252),Jeff Green,12083252,D,4700,NASCAR Racing Experience 300,Nasca,2.34
+,,,,,,,D,Chris Cockrum (12083253),Chris Cockrum,12083253,D,4600,NASCAR Racing Experience 300,Nasca,0
+,,,,,,,D,John Jackson (12083254),John Jackson,12083254,D,4500,NASCAR Racing Experience 300,Nasca,11.5

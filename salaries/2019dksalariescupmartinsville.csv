@@ -1,0 +1,44 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12285509),Kyle Busch,12285509,D,13000,STP 500,Nasca,69.93
+,,,,,,,D,Brad Keselowski (12285510),Brad Keselowski,12285510,D,12400,STP 500,Nasca,47
+,,,,,,,D,Martin Truex Jr (12285511),Martin Truex Jr,12285511,D,11900,STP 500,Nasca,43.71
+,,,,,,,D,Joey Logano (12285512),Joey Logano,12285512,D,11300,STP 500,Nasca,52.25
+,,,,,,,D,Kevin Harvick (12285513),Kevin Harvick,12285513,D,10800,STP 500,Nasca,48.25
+,,,,,,,D,Kurt Busch (12285514),Kurt Busch,12285514,D,10200,STP 500,Nasca,48
+,,,,,,,D,Kyle Larson (12285515),Kyle Larson,12285515,D,9700,STP 500,Nasca,47.86
+,,,,,,,D,Denny Hamlin (12285516),Denny Hamlin,12285516,D,9400,STP 500,Nasca,40.46
+,,,,,,,D,Ryan Blaney (12285517),Ryan Blaney,12285517,D,9000,STP 500,Nasca,39.29
+,,,,,,,D,Aric Almirola (12285518),Aric Almirola,12285518,D,8700,STP 500,Nasca,40.18
+,,,,,,,D,Clint Bowyer (12285519),Clint Bowyer,12285519,D,8400,STP 500,Nasca,28.75
+,,,,,,,D,Chase Elliott (12285520),Chase Elliott,12285520,D,8200,STP 500,Nasca,34.29
+,,,,,,,D,Jimmie Johnson (12285521),Jimmie Johnson,12285521,D,8000,STP 500,Nasca,32.71
+,,,,,,,D,Erik Jones (12285522),Erik Jones,12285522,D,7800,STP 500,Nasca,32.57
+,,,,,,,D,Daniel Suarez (12285523),Daniel Suarez,12285523,D,7600,STP 500,Nasca,29.64
+,,,,,,,D,Alex Bowman (12285524),Alex Bowman,12285524,D,7400,STP 500,Nasca,23.32
+,,,,,,,D,Austin Dillon (12285525),Austin Dillon,12285525,D,7300,STP 500,Nasca,25.89
+,,,,,,,D,Ricky Stenhouse Jr (12285526),Ricky Stenhouse Jr,12285526,D,7200,STP 500,Nasca,33.96
+,,,,,,,D,Paul Menard (12285527),Paul Menard,12285527,D,7000,STP 500,Nasca,27.04
+,,,,,,,D,William Byron (12285528),William Byron,12285528,D,6900,STP 500,Nasca,24.79
+,,,,,,,D,Ryan Newman (12285529),Ryan Newman,12285529,D,6800,STP 500,Nasca,30.43
+,,,,,,,D,Daniel Hemric (12285530),Daniel Hemric,12285530,D,6600,STP 500,Nasca,13.62
+,,,,,,,D,Chris Buescher (12285531),Chris Buescher,12285531,D,6500,STP 500,Nasca,30.42
+,,,,,,,D,Matt DiBenedetto (12285532),Matt DiBenedetto,12285532,D,6300,STP 500,Nasca,25.79
+,,,,,,,D,Ryan Preece (12285533),Ryan Preece,12285533,D,6200,STP 500,Nasca,21.42
+,,,,,,,D,Ty Dillon (12285534),Ty Dillon,12285534,D,6100,STP 500,Nasca,26.58
+,,,,,,,D,Michael McDowell (12285535),Michael McDowell,12285535,D,5900,STP 500,Nasca,16.83
+,,,,,,,D,Bubba Wallace (12285536),Bubba Wallace,12285536,D,5800,STP 500,Nasca,16.75
+,,,,,,,D,David Ragan (12285537),David Ragan,12285537,D,5600,STP 500,Nasca,18.58
+,,,,,,,D,Ross Chastain (12285538),Ross Chastain,12285538,D,5500,STP 500,Nasca,26.75
+,,,,,,,D,Corey Lajoie (12285539),Corey Lajoie,12285539,D,5400,STP 500,Nasca,22.42
+,,,,,,,D,Matt Tifft (12285540),Matt Tifft,12285540,D,5300,STP 500,Nasca,20.08
+,,,,,,,D,Landon Cassill (12285541),Landon Cassill,12285541,D,5200,STP 500,Nasca,18.88
+,,,,,,,D,Cody Ware (12285542),Cody Ware,12285542,D,5100,STP 500,Nasca,12.58
+,,,,,,,D,D.J. Kennington (12285543),D.J. Kennington,12285543,D,5000,STP 500,Nasca,0
+,,,,,,,D,Jeb Burton (12285544),Jeb Burton,12285544,D,4900,STP 500,Nasca,0

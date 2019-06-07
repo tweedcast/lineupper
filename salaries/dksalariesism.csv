@@ -1,0 +1,47 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kevin Harvick (11593701),Kevin Harvick,11593701,D,12300,Can-Am 500,Nasca,66.31
+,,,,,,,D,Kyle Busch (11593702),Kyle Busch,11593702,D,11600,Can-Am 500,Nasca,60
+,,,,,,,D,Martin Truex Jr (11593703),Martin Truex Jr,11593703,D,11000,Can-Am 500,Nasca,49.07
+,,,,,,,D,Kyle Larson (11593704),Kyle Larson,11593704,D,10400,Can-Am 500,Nasca,42.93
+,,,,,,,D,Chase Elliott (11593705),Chase Elliott,11593705,D,9900,Can-Am 500,Nasca,38.66
+,,,,,,,D,Joey Logano (11593706),Joey Logano,11593706,D,9600,Can-Am 500,Nasca,44.09
+,,,,,,,D,Brad Keselowski (11593707),Brad Keselowski,11593707,D,9300,Can-Am 500,Nasca,37.91
+,,,,,,,D,Ryan Blaney (11593708),Ryan Blaney,11593708,D,9100,Can-Am 500,Nasca,35.36
+,,,,,,,D,Clint Bowyer (11593709),Clint Bowyer,11593709,D,8900,Can-Am 500,Nasca,40.5
+,,,,,,,D,Kurt Busch (11593710),Kurt Busch,11593710,D,8700,Can-Am 500,Nasca,39.61
+,,,,,,,D,Denny Hamlin (11593711),Denny Hamlin,11593711,D,8600,Can-Am 500,Nasca,37.65
+,,,,,,,D,Jimmie Johnson (11593712),Jimmie Johnson,11593712,D,8400,Can-Am 500,Nasca,31.61
+,,,,,,,D,Erik Jones (11593713),Erik Jones,11593713,D,8300,Can-Am 500,Nasca,31.89
+,,,,,,,D,Aric Almirola (11593714),Aric Almirola,11593714,D,8100,Can-Am 500,Nasca,38.79
+,,,,,,,D,Austin Dillon (11593715),Austin Dillon,11593715,D,7900,Can-Am 500,Nasca,29.54
+,,,,,,,D,Daniel Suarez (11593716),Daniel Suarez,11593716,D,7800,Can-Am 500,Nasca,29.93
+,,,,,,,D,Ricky Stenhouse Jr (11593717),Ricky Stenhouse Jr,11593717,D,7600,Can-Am 500,Nasca,25.79
+,,,,,,,D,Jamie McMurray (11593718),Jamie McMurray,11593718,D,7500,Can-Am 500,Nasca,23.19
+,,,,,,,D,Paul Menard (11593719),Paul Menard,11593719,D,7300,Can-Am 500,Nasca,26.71
+,,,,,,,D,Alex Bowman (11593720),Alex Bowman,11593720,D,7200,Can-Am 500,Nasca,27.65
+,,,,,,,D,Ryan Newman (11593721),Ryan Newman,11593721,D,7100,Can-Am 500,Nasca,27.11
+,,,,,,,D,Matt Kenseth (11593722),Matt Kenseth,11593722,D,6900,Can-Am 500,Nasca,24.17
+,,,,,,,D,AJ Allmendinger (11593723),AJ Allmendinger,11593723,D,6800,Can-Am 500,Nasca,25.75
+,,,,,,,D,Chris Buescher (11593724),Chris Buescher,11593724,D,6700,Can-Am 500,Nasca,25.64
+,,,,,,,D,William Byron (11593725),William Byron,11593725,D,6500,Can-Am 500,Nasca,19.96
+,,,,,,,D,Bubba Wallace (11593726),Bubba Wallace,11593726,D,6400,Can-Am 500,Nasca,21
+,,,,,,,D,Regan Smith (11593727),Regan Smith,11593727,D,6200,Can-Am 500,Nasca,28.69
+,,,,,,,D,David Ragan (11593728),David Ragan,11593728,D,6000,Can-Am 500,Nasca,22.88
+,,,,,,,D,Michael McDowell (11593729),Michael McDowell,11593729,D,5800,Can-Am 500,Nasca,20.61
+,,,,,,,D,Ty Dillon (11593730),Ty Dillon,11593730,D,5600,Can-Am 500,Nasca,23.65
+,,,,,,,D,Matt DiBenedetto (11593731),Matt DiBenedetto,11593731,D,5400,Can-Am 500,Nasca,20.32
+,,,,,,,D,Cole Whitt (11593732),Cole Whitt,11593732,D,5300,Can-Am 500,Nasca,23.91
+,,,,,,,D,JJ Yeley (11593733),JJ Yeley,11593733,D,5200,Can-Am 500,Nasca,17.71
+,,,,,,,D,Landon Cassill (11593734),Landon Cassill,11593734,D,5100,Can-Am 500,Nasca,19.25
+,,,,,,,D,D.J. Kennington (11593735),D.J. Kennington,11593735,D,5000,Can-Am 500,Nasca,25.65
+,,,,,,,D,Ross Chastain (11593736),Ross Chastain,11593736,D,4900,Can-Am 500,Nasca,18.68
+,,,,,,,D,Cody Ware (11593737),Cody Ware,11593737,D,4800,Can-Am 500,Nasca,8.67
+,,,,,,,D,Timmy Hill (11593738),Timmy Hill,11593738,D,4700,Can-Am 500,Nasca,11.34
+,,,,,,,D,Tanner Berryhill (11593739),Tanner Berryhill,11593739,D,4600,Can-Am 500,Nasca,0

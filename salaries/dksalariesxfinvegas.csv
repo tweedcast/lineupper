@@ -1,0 +1,48 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Justin Allgaier (11258580),Justin Allgaier,11258580,D,12100,DC Solar 300,Nasca,46.20
+,,,,,,,D,Christopher Bell (11258581),Christopher Bell,11258581,D,11700,DC Solar 300,Nasca,46.95
+,,,,,,,D,Cole Custer (11258582),Cole Custer,11258582,D,11100,DC Solar 300,Nasca,38.47
+,,,,,,,D,Elliott Sadler (11258583),Elliott Sadler,11258583,D,10300,DC Solar 300,Nasca,40.49
+,,,,,,,D,Tyler Reddick (11258584),Tyler Reddick,11258584,D,9900,DC Solar 300,Nasca,33.24
+,,,,,,,D,Daniel Hemric (11258585),Daniel Hemric,11258585,D,9600,DC Solar 300,Nasca,38.88
+,,,,,,,D,Brandon Jones (11258586),Brandon Jones,11258586,D,9400,DC Solar 300,Nasca,30.18
+,,,,,,,D,Ryan Truex (11258587),Ryan Truex,11258587,D,9200,DC Solar 300,Nasca,27.15
+,,,,,,,D,Ryan Preece (11258588),Ryan Preece,11258588,D,9000,DC Solar 300,Nasca,33.18
+,,,,,,,D,Ross Chastain (11258589),Ross Chastain,11258589,D,8900,DC Solar 300,Nasca,30.12
+,,,,,,,D,Matt Tifft (11258590),Matt Tifft,11258590,D,8800,DC Solar 300,Nasca,32.36
+,,,,,,,D,Austin Cindric (11258591),Austin Cindric,11258591,D,8600,DC Solar 300,Nasca,23.38
+,,,,,,,D,Shane Lee (11258592),Shane Lee,11258592,D,8400,DC Solar 300,Nasca,31.58
+,,,,,,,D,Ryan Reed (11258593),Ryan Reed,11258593,D,8300,DC Solar 300,Nasca,28.55
+,,,,,,,D,Chase Briscoe (11258594),Chase Briscoe,11258594,D,8100,DC Solar 300,Nasca,25.12
+,,,,,,,D,Spencer Gallagher (11258595),Spencer Gallagher,11258595,D,7900,DC Solar 300,Nasca,35.89
+,,,,,,,D,Garrett Smithley (11258596),Garrett Smithley,11258596,D,7700,DC Solar 300,Nasca,27.14
+,,,,,,,D,Michael Annett (11258597),Michael Annett,11258597,D,7600,DC Solar 300,Nasca,26.26
+,,,,,,,D,Ryan Sieg (11258598),Ryan Sieg,11258598,D,7400,DC Solar 300,Nasca,23.91
+,,,,,,,D,Landon Cassill (11258599),Landon Cassill,11258599,D,7200,DC Solar 300,Nasca,0
+,,,,,,,D,Jeremy Clements (11258600),Jeremy Clements,11258600,D,7000,DC Solar 300,Nasca,24.74
+,,,,,,,D,Max Tullman (11258601),Max Tullman,11258601,D,6900,DC Solar 300,Nasca,12
+,,,,,,,D,Alex Labbe (11258602),Alex Labbe,11258602,D,6700,DC Solar 300,Nasca,23.19
+,,,,,,,D,Joey Gase (11258603),Joey Gase,11258603,D,6500,DC Solar 300,Nasca,23.71
+,,,,,,,D,JJ Yeley (11258604),JJ Yeley,11258604,D,6300,DC Solar 300,Nasca,9.67
+,,,,,,,D,BJ McLeod (11258605),BJ McLeod,11258605,D,6100,DC Solar 300,Nasca,20.11
+,,,,,,,D,Vinnie Miller (11258606),Vinnie Miller,11258606,D,5900,DC Solar 300,Nasca,21.98
+,,,,,,,D,Ray Black Jr (11258607),Ray Black Jr,11258607,D,5800,DC Solar 300,Nasca,24.42
+,,,,,,,D,Spencer Boyd (11258608),Spencer Boyd,11258608,D,5600,DC Solar 300,Nasca,23.54
+,,,,,,,D,Bayley Currey (11258609),Bayley Currey,11258609,D,5500,DC Solar 300,Nasca,23.75
+,,,,,,,D,David Starr (11258610),David Starr,11258610,D,5400,DC Solar 300,Nasca,23.20
+,,,,,,,D,Josh Williams (11258611),Josh Williams,11258611,D,5300,DC Solar 300,Nasca,20.97
+,,,,,,,D,Cole Rouse (11258612),Cole Rouse,11258612,D,5200,DC Solar 300,Nasca,0
+,,,,,,,D,Josh Bilicki (11258613),Josh Bilicki,11258613,D,5100,DC Solar 300,Nasca,16.18
+,,,,,,,D,Chad Finchum (11258614),Chad Finchum,11258614,D,5000,DC Solar 300,Nasca,16.80
+,,,,,,,D,Mike Harmon (11258615),Mike Harmon,11258615,D,4900,DC Solar 300,Nasca,17.94
+,,,,,,,D,Timmy Hill (11258616),Timmy Hill,11258616,D,4800,DC Solar 300,Nasca,9.28
+,,,,,,,D,Stan Mullis (11258617),Stan Mullis,11258617,D,4700,DC Solar 300,Nasca,15.5
+,,,,,,,D,Jeff Green (11258618),Jeff Green,11258618,D,4600,DC Solar 300,Nasca,2.86
+,,,,,,,D,John Jackson (11258619),John Jackson,11258619,D,4500,DC Solar 300,Nasca,11.5

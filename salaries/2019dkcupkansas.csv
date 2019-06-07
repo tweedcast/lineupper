@@ -1,0 +1,48 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12621235),Kyle Busch,12621235,D,11900,Digital Ally 400,Nasca,71.10
+,,,,,,,D,Martin Truex Jr (12621236),Martin Truex Jr,12621236,D,11400,Digital Ally 400,Nasca,54.79
+,,,,,,,D,Chase Elliott (12621237),Chase Elliott,12621237,D,11000,Digital Ally 400,Nasca,48.96
+,,,,,,,D,Kevin Harvick (12621238),Kevin Harvick,12621238,D,10600,Digital Ally 400,Nasca,48.77
+,,,,,,,D,Joey Logano (12621239),Joey Logano,12621239,D,10200,Digital Ally 400,Nasca,53.33
+,,,,,,,D,Brad Keselowski (12621240),Brad Keselowski,12621240,D,9900,Digital Ally 400,Nasca,53.17
+,,,,,,,D,Kurt Busch (12621241),Kurt Busch,12621241,D,9600,Digital Ally 400,Nasca,49.12
+,,,,,,,D,Ryan Blaney (12621242),Ryan Blaney,12621242,D,9300,Digital Ally 400,Nasca,39.86
+,,,,,,,D,Denny Hamlin (12621243),Denny Hamlin,12621243,D,9100,Digital Ally 400,Nasca,40.56
+,,,,,,,D,Erik Jones (12621244),Erik Jones,12621244,D,8900,Digital Ally 400,Nasca,34.23
+,,,,,,,D,Kyle Larson (12621245),Kyle Larson,12621245,D,8700,Digital Ally 400,Nasca,31.44
+,,,,,,,D,Clint Bowyer (12621246),Clint Bowyer,12621246,D,8500,Digital Ally 400,Nasca,37.27
+,,,,,,,D,Jimmie Johnson (12621247),Jimmie Johnson,12621247,D,8300,Digital Ally 400,Nasca,31.96
+,,,,,,,D,Aric Almirola (12621248),Aric Almirola,12621248,D,8100,Digital Ally 400,Nasca,33.94
+,,,,,,,D,Daniel Suarez (12621249),Daniel Suarez,12621249,D,8000,Digital Ally 400,Nasca,38.15
+,,,,,,,D,Ryan Newman (12621250),Ryan Newman,12621250,D,7800,Digital Ally 400,Nasca,34.73
+,,,,,,,D,Chris Buescher (12621251),Chris Buescher,12621251,D,7600,Digital Ally 400,Nasca,24.96
+,,,,,,,D,Austin Dillon (12621252),Austin Dillon,12621252,D,7500,Digital Ally 400,Nasca,29.73
+,,,,,,,D,Ricky Stenhouse Jr (12621253),Ricky Stenhouse Jr,12621253,D,7300,Digital Ally 400,Nasca,23.44
+,,,,,,,D,Paul Menard (12621254),Paul Menard,12621254,D,7100,Digital Ally 400,Nasca,28.90
+,,,,,,,D,Alex Bowman (12621255),Alex Bowman,12621255,D,7000,Digital Ally 400,Nasca,29.62
+,,,,,,,D,Matt DiBenedetto (12621256),Matt DiBenedetto,12621256,D,6800,Digital Ally 400,Nasca,24.62
+,,,,,,,D,Ty Dillon (12621257),Ty Dillon,12621257,D,6600,Digital Ally 400,Nasca,27.73
+,,,,,,,D,William Byron (12621258),William Byron,12621258,D,6500,Digital Ally 400,Nasca,28.40
+,,,,,,,D,Tyler Reddick (12621259),Tyler Reddick,12621259,D,6300,Digital Ally 400,Nasca,29.25
+,,,,,,,D,Ryan Preece (12621260),Ryan Preece,12621260,D,6100,Digital Ally 400,Nasca,26.33
+,,,,,,,D,Daniel Hemric (12621261),Daniel Hemric,12621261,D,6000,Digital Ally 400,Nasca,16.40
+,,,,,,,D,Bubba Wallace (12621262),Bubba Wallace,12621262,D,5900,Digital Ally 400,Nasca,16.38
+,,,,,,,D,Ross Chastain (12621263),Ross Chastain,12621263,D,5800,Digital Ally 400,Nasca,24.44
+,,,,,,,D,Michael McDowell (12621264),Michael McDowell,12621264,D,5600,Digital Ally 400,Nasca,10.81
+,,,,,,,D,David Ragan (12621265),David Ragan,12621265,D,5500,Digital Ally 400,Nasca,17.54
+,,,,,,,D,Matt Tifft (12621266),Matt Tifft,12621266,D,5300,Digital Ally 400,Nasca,17.54
+,,,,,,,D,Corey Lajoie (12621267),Corey Lajoie,12621267,D,5200,Digital Ally 400,Nasca,21.75
+,,,,,,,D,Reed Sorenson (12621268),Reed Sorenson,12621268,D,5100,Digital Ally 400,Nasca,18.2
+,,,,,,,D,Landon Cassill (12621269),Landon Cassill,12621269,D,5000,Digital Ally 400,Nasca,16.10
+,,,,,,,D,Joey Gase (12621270),Joey Gase,12621270,D,4900,Digital Ally 400,Nasca,14.38
+,,,,,,,D,Jeb Burton (12621271),Jeb Burton,12621271,D,4800,Digital Ally 400,Nasca,9.5
+,,,,,,,D,Bayley Currey (12621272),Bayley Currey,12621272,D,4700,Digital Ally 400,Nasca,12.62
+,,,,,,,D,Timmy Hill (12621273),Timmy Hill,12621273,D,4600,Digital Ally 400,Nasca,8
+,,,,,,,D,Quin Houff (12621274),Quin Houff,12621274,D,4500,Digital Ally 400,Nasca,11.88

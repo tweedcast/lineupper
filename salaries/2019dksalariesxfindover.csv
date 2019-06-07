@@ -1,0 +1,45 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Tyler Reddick (12577676),Tyler Reddick,12577676,D,12000,Allied Steel Buildings 200,Nasca,54.53
+,,,,,,,D,Justin Allgaier (12577677),Justin Allgaier,12577677,D,11400,Allied Steel Buildings 200,Nasca,35.42
+,,,,,,,D,Christopher Bell (12577678),Christopher Bell,12577678,D,10900,Allied Steel Buildings 200,Nasca,60.22
+,,,,,,,D,Cole Custer (12577679),Cole Custer,12577679,D,10300,Allied Steel Buildings 200,Nasca,47.47
+,,,,,,,D,Austin Cindric (12577680),Austin Cindric,12577680,D,9900,Allied Steel Buildings 200,Nasca,39.03
+,,,,,,,D,John H. Nemechek (12577681),John H. Nemechek,12577681,D,9600,Allied Steel Buildings 200,Nasca,35.83
+,,,,,,,D,Chase Briscoe (12577682),Chase Briscoe,12577682,D,9400,Allied Steel Buildings 200,Nasca,44.86
+,,,,,,,D,Brandon Jones (12577683),Brandon Jones,12577683,D,9200,Allied Steel Buildings 200,Nasca,25.08
+,,,,,,,D,Ryan Sieg (12577684),Ryan Sieg,12577684,D,9000,Allied Steel Buildings 200,Nasca,40.39
+,,,,,,,D,Justin Haley (12577685),Justin Haley,12577685,D,8800,Allied Steel Buildings 200,Nasca,36.14
+,,,,,,,D,Kaz Grala (12577686),Kaz Grala,12577686,D,8600,Allied Steel Buildings 200,Nasca,38.5
+,,,,,,,D,Michael Annett (12577687),Michael Annett,12577687,D,8500,Allied Steel Buildings 200,Nasca,34.72
+,,,,,,,D,Riley Herbst (12577688),Riley Herbst,12577688,D,8400,Allied Steel Buildings 200,Nasca,30.75
+,,,,,,,D,Noah Gragson (12577689),Noah Gragson,12577689,D,8300,Allied Steel Buildings 200,Nasca,35.31
+,,,,,,,D,Ross Chastain (12577690),Ross Chastain,12577690,D,8100,Allied Steel Buildings 200,Nasca,22.89
+,,,,,,,D,Garrett Smithley (12577691),Garrett Smithley,12577691,D,8000,Allied Steel Buildings 200,Nasca,30.17
+,,,,,,,D,Brandon Brown (12577692),Brandon Brown,12577692,D,7800,Allied Steel Buildings 200,Nasca,32
+,,,,,,,D,Zane Smith (12577693),Zane Smith,12577693,D,7600,Allied Steel Buildings 200,Nasca,28.17
+,,,,,,,D,Gray Gaulding (12577694),Gray Gaulding,12577694,D,7500,Allied Steel Buildings 200,Nasca,30.56
+,,,,,,,D,Jeremy Clements (12577695),Jeremy Clements,12577695,D,7300,Allied Steel Buildings 200,Nasca,18.92
+,,,,,,,D,David Starr (12577696),David Starr,12577696,D,7100,Allied Steel Buildings 200,Nasca,27.92
+,,,,,,,D,Ray Black Jr (12577697),Ray Black Jr,12577697,D,6900,Allied Steel Buildings 200,Nasca,22.33
+,,,,,,,D,BJ McLeod (12577698),BJ McLeod,12577698,D,6700,Allied Steel Buildings 200,Nasca,23.72
+,,,,,,,D,Vinnie Miller (12577699),Vinnie Miller,12577699,D,6500,Allied Steel Buildings 200,Nasca,20.94
+,,,,,,,D,Stephen Leicht (12577700),Stephen Leicht,12577700,D,6300,Allied Steel Buildings 200,Nasca,19.44
+,,,,,,,D,Joey Gase (12577701),Joey Gase,12577701,D,6200,Allied Steel Buildings 200,Nasca,18.06
+,,,,,,,D,Josh Williams (12577702),Josh Williams,12577702,D,6100,Allied Steel Buildings 200,Nasca,25.94
+,,,,,,,D,Tommy Joe Martins (12577703),Tommy Joe Martins,12577703,D,5900,Allied Steel Buildings 200,Nasca,17.3
+,,,,,,,D,Chad Finchum (12577704),Chad Finchum,12577704,D,5700,Allied Steel Buildings 200,Nasca,11.75
+,,,,,,,D,Mike Harmon (12577705),Mike Harmon,12577705,D,5500,Allied Steel Buildings 200,Nasca,21.83
+,,,,,,,D,Matt Mills (12577706),Matt Mills,12577706,D,5300,Allied Steel Buildings 200,Nasca,22
+,,,,,,,D,Ronnie Bassett Jr (12577707),Ronnie Bassett Jr,12577707,D,5200,Allied Steel Buildings 200,Nasca,26.5
+,,,,,,,D,Jeff Green (12577708),Jeff Green,12577708,D,5100,Allied Steel Buildings 200,Nasca,7.5
+,,,,,,,D,Timmy Hill (12577709),Timmy Hill,12577709,D,5000,Allied Steel Buildings 200,Nasca,16.38
+,,,,,,,D,Josh Bilicki (12577710),Josh Bilicki,12577710,D,4900,Allied Steel Buildings 200,Nasca,7.5
+,,,,,,,D,John Jackson (12577711),John Jackson,12577711,D,4800,Allied Steel Buildings 200,Nasca,11.38
+,,,,,,,D,Morgan Shepherd (12577712),Morgan Shepherd,12577712,D,4700,Allied Steel Buildings 200,Nasca,11.8

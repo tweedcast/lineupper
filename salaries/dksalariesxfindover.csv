@@ -1,0 +1,48 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Christopher Bell (11401405),Christopher Bell,11401405,D,11800,Bar Harbor 200 presented by Sea Watch International,Nasca,48.24
+,,,,,,,D,Justin Allgaier (11401406),Justin Allgaier,11401406,D,11400,Bar Harbor 200 presented by Sea Watch International,Nasca,43.56
+,,,,,,,D,Elliott Sadler (11401407),Elliott Sadler,11401407,D,10700,Bar Harbor 200 presented by Sea Watch International,Nasca,40.43
+,,,,,,,D,Daniel Hemric (11401408),Daniel Hemric,11401408,D,10300,Bar Harbor 200 presented by Sea Watch International,Nasca,39.59
+,,,,,,,D,Cole Custer (11401409),Cole Custer,11401409,D,9900,Bar Harbor 200 presented by Sea Watch International,Nasca,37.74
+,,,,,,,D,Ryan Preece (11401410),Ryan Preece,11401410,D,9700,Bar Harbor 200 presented by Sea Watch International,Nasca,34.69
+,,,,,,,D,Austin Cindric (11401411),Austin Cindric,11401411,D,9500,Bar Harbor 200 presented by Sea Watch International,Nasca,24.57
+,,,,,,,D,Matt Tifft (11401412),Matt Tifft,11401412,D,9300,Bar Harbor 200 presented by Sea Watch International,Nasca,33.81
+,,,,,,,D,Brandon Jones (11401413),Brandon Jones,11401413,D,9100,Bar Harbor 200 presented by Sea Watch International,Nasca,30.14
+,,,,,,,D,Tyler Reddick (11401414),Tyler Reddick,11401414,D,8900,Bar Harbor 200 presented by Sea Watch International,Nasca,33.6
+,,,,,,,D,John Hunter Nemechek (11401415),John Hunter Nemechek,11401415,D,8700,Bar Harbor 200 presented by Sea Watch International,Nasca,33.73
+,,,,,,,D,Ross Chastain (11401416),Ross Chastain,11401416,D,8600,Bar Harbor 200 presented by Sea Watch International,Nasca,31.21
+,,,,,,,D,Ryan Truex (11401417),Ryan Truex,11401417,D,8500,Bar Harbor 200 presented by Sea Watch International,Nasca,27.10
+,,,,,,,D,Shane Lee (11401418),Shane Lee,11401418,D,8300,Bar Harbor 200 presented by Sea Watch International,Nasca,32.07
+,,,,,,,D,Spencer Gallagher (11401419),Spencer Gallagher,11401419,D,8100,Bar Harbor 200 presented by Sea Watch International,Nasca,35.52
+,,,,,,,D,Ryan Reed (11401420),Ryan Reed,11401420,D,7900,Bar Harbor 200 presented by Sea Watch International,Nasca,27.86
+,,,,,,,D,Chase Briscoe (11401421),Chase Briscoe,11401421,D,7700,Bar Harbor 200 presented by Sea Watch International,Nasca,28.25
+,,,,,,,D,Landon Cassill (11401422),Landon Cassill,11401422,D,7500,Bar Harbor 200 presented by Sea Watch International,Nasca,-1
+,,,,,,,D,Jeremy Clements (11401423),Jeremy Clements,11401423,D,7400,Bar Harbor 200 presented by Sea Watch International,Nasca,25.14
+,,,,,,,D,Michael Annett (11401424),Michael Annett,11401424,D,7200,Bar Harbor 200 presented by Sea Watch International,Nasca,26.59
+,,,,,,,D,Garrett Smithley (11401425),Garrett Smithley,11401425,D,7000,Bar Harbor 200 presented by Sea Watch International,Nasca,27.16
+,,,,,,,D,Alex Labbe (11401426),Alex Labbe,11401426,D,6900,Bar Harbor 200 presented by Sea Watch International,Nasca,23.10
+,,,,,,,D,Ryan Sieg (11401427),Ryan Sieg,11401427,D,6700,Bar Harbor 200 presented by Sea Watch International,Nasca,23.11
+,,,,,,,D,Joey Gase (11401428),Joey Gase,11401428,D,6500,Bar Harbor 200 presented by Sea Watch International,Nasca,23.81
+,,,,,,,D,JJ Yeley (11401429),JJ Yeley,11401429,D,6300,Bar Harbor 200 presented by Sea Watch International,Nasca,9.86
+,,,,,,,D,Brandon Brown (11401430),Brandon Brown,11401430,D,6200,Bar Harbor 200 presented by Sea Watch International,Nasca,10.83
+,,,,,,,D,Vinnie Miller (11401431),Vinnie Miller,11401431,D,6100,Bar Harbor 200 presented by Sea Watch International,Nasca,21.40
+,,,,,,,D,BJ McLeod (11401432),BJ McLeod,11401432,D,5900,Bar Harbor 200 presented by Sea Watch International,Nasca,20.11
+,,,,,,,D,Bayley Currey (11401433),Bayley Currey,11401433,D,5700,Bar Harbor 200 presented by Sea Watch International,Nasca,19.67
+,,,,,,,D,Josh Bilicki (11401434),Josh Bilicki,11401434,D,5600,Bar Harbor 200 presented by Sea Watch International,Nasca,16.79
+,,,,,,,D,Stephen Leicht (11401435),Stephen Leicht,11401435,D,5500,Bar Harbor 200 presented by Sea Watch International,Nasca,16.31
+,,,,,,,D,David Starr (11401436),David Starr,11401436,D,5300,Bar Harbor 200 presented by Sea Watch International,Nasca,23.54
+,,,,,,,D,Matt Mills (11401437),Matt Mills,11401437,D,5200,Bar Harbor 200 presented by Sea Watch International,Nasca,10
+,,,,,,,D,Spencer Boyd (11401438),Spencer Boyd,11401438,D,5100,Bar Harbor 200 presented by Sea Watch International,Nasca,22.85
+,,,,,,,D,Mike Harmon (11401439),Mike Harmon,11401439,D,5000,Bar Harbor 200 presented by Sea Watch International,Nasca,17.48
+,,,,,,,D,Chad Finchum (11401440),Chad Finchum,11401440,D,4900,Bar Harbor 200 presented by Sea Watch International,Nasca,17.5
+,,,,,,,D,Carl Long (11401441),Carl Long,11401441,D,4800,Bar Harbor 200 presented by Sea Watch International,Nasca,10.4
+,,,,,,,D,Timmy Hill (11401442),Timmy Hill,11401442,D,4700,Bar Harbor 200 presented by Sea Watch International,Nasca,8.80
+,,,,,,,D,Morgan Shepherd (11401443),Morgan Shepherd,11401443,D,4600,Bar Harbor 200 presented by Sea Watch International,Nasca,2.12
+,,,,,,,D,Jeff Green (11401444),Jeff Green,11401444,D,4500,Bar Harbor 200 presented by Sea Watch International,Nasca,2.88

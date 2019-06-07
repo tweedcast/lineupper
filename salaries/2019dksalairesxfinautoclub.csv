@@ -1,0 +1,45 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12236395),Kyle Busch,12236395,D,15000,Production Alliance Group 300,Nasca,108.25
+,,,,,,,D,Christopher Bell (12236396),Christopher Bell,12236396,D,12500,Production Alliance Group 300,Nasca,53.94
+,,,,,,,D,Justin Allgaier (12236397),Justin Allgaier,12236397,D,11300,Production Alliance Group 300,Nasca,30.5
+,,,,,,,D,Tyler Reddick (12236398),Tyler Reddick,12236398,D,10700,Production Alliance Group 300,Nasca,52.44
+,,,,,,,D,Cole Custer (12236399),Cole Custer,12236399,D,10200,Production Alliance Group 300,Nasca,49.44
+,,,,,,,D,Ryan Preece (12236400),Ryan Preece,12236400,D,9900,Production Alliance Group 300,Nasca,37
+,,,,,,,D,Austin Cindric (12236401),Austin Cindric,12236401,D,9600,Production Alliance Group 300,Nasca,33.88
+,,,,,,,D,Brandon Jones (12236402),Brandon Jones,12236402,D,9300,Production Alliance Group 300,Nasca,37.94
+,,,,,,,D,Noah Gragson (12236403),Noah Gragson,12236403,D,9100,Production Alliance Group 300,Nasca,37.62
+,,,,,,,D,John H. Nemechek (12236404),John H. Nemechek,12236404,D,8800,Production Alliance Group 300,Nasca,37.38
+,,,,,,,D,Chase Briscoe (12236405),Chase Briscoe,12236405,D,8500,Production Alliance Group 300,Nasca,44.5
+,,,,,,,D,Justin Haley (12236406),Justin Haley,12236406,D,8200,Production Alliance Group 300,Nasca,32.81
+,,,,,,,D,Ryan Sieg (12236407),Ryan Sieg,12236407,D,8000,Production Alliance Group 300,Nasca,44.75
+,,,,,,,D,Michael Annett (12236408),Michael Annett,12236408,D,7800,Production Alliance Group 300,Nasca,45.56
+,,,,,,,D,Ross Chastain (12236409),Ross Chastain,12236409,D,7600,Production Alliance Group 300,Nasca,34.06
+,,,,,,,D,Garrett Smithley (12236410),Garrett Smithley,12236410,D,7400,Production Alliance Group 300,Nasca,28.62
+,,,,,,,D,Gray Gaulding (12236411),Gray Gaulding,12236411,D,7200,Production Alliance Group 300,Nasca,28.62
+,,,,,,,D,David Starr (12236412),David Starr,12236412,D,7100,Production Alliance Group 300,Nasca,26.75
+,,,,,,,D,BJ McLeod (12236413),BJ McLeod,12236413,D,7000,Production Alliance Group 300,Nasca,27.75
+,,,,,,,D,Ray Black Jr (12236414),Ray Black Jr,12236414,D,6900,Production Alliance Group 300,Nasca,26.12
+,,,,,,,D,Jeremy Clements (12236415),Jeremy Clements,12236415,D,6700,Production Alliance Group 300,Nasca,21.62
+,,,,,,,D,Josh Williams (12236416),Josh Williams,12236416,D,6600,Production Alliance Group 300,Nasca,24
+,,,,,,,D,Brandon Brown (12236417),Brandon Brown,12236417,D,6500,Production Alliance Group 300,Nasca,29.88
+,,,,,,,D,Stephen Leicht (12236418),Stephen Leicht,12236418,D,6400,Production Alliance Group 300,Nasca,10.75
+,,,,,,,D,Joey Gase (12236419),Joey Gase,12236419,D,6200,Production Alliance Group 300,Nasca,19.5
+,,,,,,,D,Vinnie Miller (12236420),Vinnie Miller,12236420,D,6100,Production Alliance Group 300,Nasca,13.88
+,,,,,,,D,Timmy Hill (12236421),Timmy Hill,12236421,D,5900,Production Alliance Group 300,Nasca,27.17
+,,,,,,,D,Mike Harmon (12236422),Mike Harmon,12236422,D,5800,Production Alliance Group 300,Nasca,19.75
+,,,,,,,D,Josh Bilicki (12236423),Josh Bilicki,12236423,D,5700,Production Alliance Group 300,Nasca,10
+,,,,,,,D,Bayley Currey (12236424),Bayley Currey,12236424,D,5500,Production Alliance Group 300,Nasca,4
+,,,,,,,D,Tommy Joe Martins (12236425),Tommy Joe Martins,12236425,D,5400,Production Alliance Group 300,Nasca,4.5
+,,,,,,,D,Chad Finchum (12236426),Chad Finchum,12236426,D,5300,Production Alliance Group 300,Nasca,8.17
+,,,,,,,D,Matt Mills (12236427),Matt Mills,12236427,D,5200,Production Alliance Group 300,Nasca,15.75
+,,,,,,,D,John Jackson (12236428),John Jackson,12236428,D,5100,Production Alliance Group 300,Nasca,10.5
+,,,,,,,D,Caesar Bacarella (12236429),Caesar Bacarella,12236429,D,5000,Production Alliance Group 300,Nasca,-1
+,,,,,,,D,Jeff Green (12236430),Jeff Green,12236430,D,4900,Production Alliance Group 300,Nasca,15.38
+,,,,,,,D,Morgan Shepherd (12236431),Morgan Shepherd,12236431,D,4800,Production Alliance Group 300,Nasca,12

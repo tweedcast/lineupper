@@ -1,0 +1,48 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Christopher Bell (11593611),Christopher Bell,11593611,D,12200,Whelen Trusted To Perform 200,Nasca,50.75
+,,,,,,,D,Cole Custer (11593612),Cole Custer,11593612,D,11600,Whelen Trusted To Perform 200,Nasca,38.9
+,,,,,,,D,Daniel Hemric (11593613),Daniel Hemric,11593613,D,10900,Whelen Trusted To Perform 200,Nasca,39.93
+,,,,,,,D,Elliott Sadler (11593614),Elliott Sadler,11593614,D,10500,Whelen Trusted To Perform 200,Nasca,39.94
+,,,,,,,D,Justin Allgaier (11593615),Justin Allgaier,11593615,D,10200,Whelen Trusted To Perform 200,Nasca,43.94
+,,,,,,,D,John Hunter Nemechek (11593616),John Hunter Nemechek,11593616,D,9800,Whelen Trusted To Perform 200,Nasca,34
+,,,,,,,D,Ryan Preece (11593617),Ryan Preece,11593617,D,9500,Whelen Trusted To Perform 200,Nasca,36.08
+,,,,,,,D,Brandon Jones (11593618),Brandon Jones,11593618,D,9200,Whelen Trusted To Perform 200,Nasca,30.45
+,,,,,,,D,Ryan Truex (11593619),Ryan Truex,11593619,D,9000,Whelen Trusted To Perform 200,Nasca,27.63
+,,,,,,,D,Tyler Reddick (11593620),Tyler Reddick,11593620,D,8800,Whelen Trusted To Perform 200,Nasca,33.42
+,,,,,,,D,Matt Tifft (11593621),Matt Tifft,11593621,D,8600,Whelen Trusted To Perform 200,Nasca,33.44
+,,,,,,,D,Austin Cindric (11593622),Austin Cindric,11593622,D,8500,Whelen Trusted To Perform 200,Nasca,24.75
+,,,,,,,D,Ross Chastain (11593623),Ross Chastain,11593623,D,8300,Whelen Trusted To Perform 200,Nasca,31.26
+,,,,,,,D,Spencer Gallagher (11593624),Spencer Gallagher,11593624,D,8200,Whelen Trusted To Perform 200,Nasca,36.05
+,,,,,,,D,Ryan Reed (11593625),Ryan Reed,11593625,D,8000,Whelen Trusted To Perform 200,Nasca,28.01
+,,,,,,,D,Shane Lee (11593626),Shane Lee,11593626,D,7800,Whelen Trusted To Perform 200,Nasca,30.5
+,,,,,,,D,Jeremy Clements (11593627),Jeremy Clements,11593627,D,7700,Whelen Trusted To Perform 200,Nasca,24.94
+,,,,,,,D,Ty Majeski (11593628),Ty Majeski,11593628,D,7500,Whelen Trusted To Perform 200,Nasca,1.56
+,,,,,,,D,Michael Annett (11593629),Michael Annett,11593629,D,7300,Whelen Trusted To Perform 200,Nasca,27.03
+,,,,,,,D,Garrett Smithley (11593630),Garrett Smithley,11593630,D,7100,Whelen Trusted To Perform 200,Nasca,27.12
+,,,,,,,D,Joey Gase (11593631),Joey Gase,11593631,D,6900,Whelen Trusted To Perform 200,Nasca,23.26
+,,,,,,,D,Alex Labbe (11593632),Alex Labbe,11593632,D,6800,Whelen Trusted To Perform 200,Nasca,23.09
+,,,,,,,D,David Starr (11593633),David Starr,11593633,D,6700,Whelen Trusted To Perform 200,Nasca,23.79
+,,,,,,,D,Ryan Sieg (11593634),Ryan Sieg,11593634,D,6600,Whelen Trusted To Perform 200,Nasca,23.18
+,,,,,,,D,Vinnie Miller (11593635),Vinnie Miller,11593635,D,6400,Whelen Trusted To Perform 200,Nasca,21.83
+,,,,,,,D,Spencer Boyd (11593636),Spencer Boyd,11593636,D,6200,Whelen Trusted To Perform 200,Nasca,22.41
+,,,,,,,D,JJ Yeley (11593637),JJ Yeley,11593637,D,6100,Whelen Trusted To Perform 200,Nasca,9.51
+,,,,,,,D,Quin Houff (11593638),Quin Houff,11593638,D,5900,Whelen Trusted To Perform 200,Nasca,6
+,,,,,,,D,Chad Finchum (11593639),Chad Finchum,11593639,D,5700,Whelen Trusted To Perform 200,Nasca,16.9
+,,,,,,,D,BJ McLeod (11593640),BJ McLeod,11593640,D,5500,Whelen Trusted To Perform 200,Nasca,18.9
+,,,,,,,D,Bayley Currey (11593641),Bayley Currey,11593641,D,5400,Whelen Trusted To Perform 200,Nasca,19.86
+,,,,,,,D,Tommy Joe Martins (11593642),Tommy Joe Martins,11593642,D,5300,Whelen Trusted To Perform 200,Nasca,20.75
+,,,,,,,D,Mike Harmon (11593643),Mike Harmon,11593643,D,5200,Whelen Trusted To Perform 200,Nasca,17.23
+,,,,,,,D,Stephen Leicht (11593644),Stephen Leicht,11593644,D,5100,Whelen Trusted To Perform 200,Nasca,14.93
+,,,,,,,D,Donald Theetge (11593645),Donald Theetge,11593645,D,5000,Whelen Trusted To Perform 200,Nasca,8
+,,,,,,,D,Josh Bilicki (11593646),Josh Bilicki,11593646,D,4900,Whelen Trusted To Perform 200,Nasca,16.92
+,,,,,,,D,Tyler Hill (11593647),Tyler Hill,11593647,D,4800,Whelen Trusted To Perform 200,Nasca,0
+,,,,,,,D,Akinori Ogata (11593648),Akinori Ogata,11593648,D,4700,Whelen Trusted To Perform 200,Nasca,0
+,,,,,,,D,Jeff Green (11593649),Jeff Green,11593649,D,4600,Whelen Trusted To Perform 200,Nasca,2.69
+,,,,,,,D,Morgan Shepherd (11593650),Morgan Shepherd,11593650,D,4500,Whelen Trusted To Perform 200,Nasca,2.24

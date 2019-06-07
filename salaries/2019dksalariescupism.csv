@@ -1,0 +1,44 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kevin Harvick (12199524),Kevin Harvick,12199524,D,12800,TicketGuardian 500,Nasca,51.75
+,,,,,,,D,Kyle Busch (12199525),Kyle Busch,12199525,D,12200,TicketGuardian 500,Nasca,45.85
+,,,,,,,D,Brad Keselowski (12199526),Brad Keselowski,12199526,D,11600,TicketGuardian 500,Nasca,47.9
+,,,,,,,D,Martin Truex Jr (12199527),Martin Truex Jr,12199527,D,10900,TicketGuardian 500,Nasca,36.7
+,,,,,,,D,Joey Logano (12199528),Joey Logano,12199528,D,10300,TicketGuardian 500,Nasca,55.1
+,,,,,,,D,Kyle Larson (12199529),Kyle Larson,12199529,D,9900,TicketGuardian 500,Nasca,47.3
+,,,,,,,D,Aric Almirola (12199530),Aric Almirola,12199530,D,9600,TicketGuardian 500,Nasca,37.5
+,,,,,,,D,Chase Elliott (12199531),Chase Elliott,12199531,D,9300,TicketGuardian 500,Nasca,37.2
+,,,,,,,D,Denny Hamlin (12199532),Denny Hamlin,12199532,D,9000,TicketGuardian 500,Nasca,38.6
+,,,,,,,D,Kurt Busch (12199533),Kurt Busch,12199533,D,8800,TicketGuardian 500,Nasca,47.1
+,,,,,,,D,Erik Jones (12199534),Erik Jones,12199534,D,8600,TicketGuardian 500,Nasca,41.1
+,,,,,,,D,Clint Bowyer (12199535),Clint Bowyer,12199535,D,8400,TicketGuardian 500,Nasca,33.65
+,,,,,,,D,Ryan Blaney (12199536),Ryan Blaney,12199536,D,8200,TicketGuardian 500,Nasca,29.6
+,,,,,,,D,Jimmie Johnson (12199537),Jimmie Johnson,12199537,D,8000,TicketGuardian 500,Nasca,32.8
+,,,,,,,D,Austin Dillon (12199538),Austin Dillon,12199538,D,7800,TicketGuardian 500,Nasca,27.85
+,,,,,,,D,Daniel Suarez (12199539),Daniel Suarez,12199539,D,7600,TicketGuardian 500,Nasca,27.8
+,,,,,,,D,Ricky Stenhouse Jr (12199540),Ricky Stenhouse Jr,12199540,D,7500,TicketGuardian 500,Nasca,34.62
+,,,,,,,D,Alex Bowman (12199541),Alex Bowman,12199541,D,7300,TicketGuardian 500,Nasca,31.45
+,,,,,,,D,Ryan Newman (12199542),Ryan Newman,12199542,D,7100,TicketGuardian 500,Nasca,33.4
+,,,,,,,D,William Byron (12199543),William Byron,12199543,D,7000,TicketGuardian 500,Nasca,25.75
+,,,,,,,D,Daniel Hemric (12199544),Daniel Hemric,12199544,D,6900,TicketGuardian 500,Nasca,16.44
+,,,,,,,D,Paul Menard (12199545),Paul Menard,12199545,D,6800,TicketGuardian 500,Nasca,26.65
+,,,,,,,D,Chris Buescher (12199546),Chris Buescher,12199546,D,6600,TicketGuardian 500,Nasca,30.62
+,,,,,,,D,Ryan Preece (12199547),Ryan Preece,12199547,D,6400,TicketGuardian 500,Nasca,26.88
+,,,,,,,D,Matt DiBenedetto (12199548),Matt DiBenedetto,12199548,D,6200,TicketGuardian 500,Nasca,27.06
+,,,,,,,D,Bubba Wallace (12199549),Bubba Wallace,12199549,D,6000,TicketGuardian 500,Nasca,16.38
+,,,,,,,D,Ty Dillon (12199550),Ty Dillon,12199550,D,5900,TicketGuardian 500,Nasca,29.88
+,,,,,,,D,Ross Chastain (12199551),Ross Chastain,12199551,D,5700,TicketGuardian 500,Nasca,29.25
+,,,,,,,D,David Ragan (12199552),David Ragan,12199552,D,5600,TicketGuardian 500,Nasca,18.75
+,,,,,,,D,Michael McDowell (12199553),Michael McDowell,12199553,D,5500,TicketGuardian 500,Nasca,18.88
+,,,,,,,D,Matt Tifft (12199554),Matt Tifft,12199554,D,5400,TicketGuardian 500,Nasca,15.5
+,,,,,,,D,Corey Lajoie (12199555),Corey Lajoie,12199555,D,5300,TicketGuardian 500,Nasca,26.5
+,,,,,,,D,Landon Cassill (12199556),Landon Cassill,12199556,D,5200,TicketGuardian 500,Nasca,20.94
+,,,,,,,D,Quin Houff (12199557),Quin Houff,12199557,D,5100,TicketGuardian 500,Nasca,0
+,,,,,,,D,Cody Ware (12199558),Cody Ware,12199558,D,5000,TicketGuardian 500,Nasca,11.88
+,,,,,,,D,Bayley Currey (12199559),Bayley Currey,12199559,D,4900,TicketGuardian 500,Nasca,0

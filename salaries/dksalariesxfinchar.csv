@@ -1,0 +1,49 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Christopher Bell (11360959),Christopher Bell,11360959,D,11200,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,48.16
+,,,,,,,D,Justin Allgaier (11360960),Justin Allgaier,11360960,D,10800,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,44.26
+,,,,,,,D,Justin Marks (11360961),Justin Marks,11360961,D,10400,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,31.25
+,,,,,,,D,Elliott Sadler (11360962),Elliott Sadler,11360962,D,10100,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,40.73
+,,,,,,,D,Cole Custer (11360963),Cole Custer,11360963,D,9800,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,37.67
+,,,,,,,D,Daniel Hemric (11360964),Daniel Hemric,11360964,D,9500,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,39.93
+,,,,,,,D,Tyler Reddick (11360965),Tyler Reddick,11360965,D,9200,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,33.77
+,,,,,,,D,Austin Cindric (11360966),Austin Cindric,11360966,D,9000,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,23.76
+,,,,,,,D,Ryan Preece (11360967),Ryan Preece,11360967,D,8900,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,33.22
+,,,,,,,D,Matt Tifft (11360968),Matt Tifft,11360968,D,8700,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,33.6
+,,,,,,,D,Ross Chastain (11360969),Ross Chastain,11360969,D,8500,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,31.02
+,,,,,,,D,Brandon Jones (11360970),Brandon Jones,11360970,D,8300,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,30.47
+,,,,,,,D,Brendan Gaughan (11360971),Brendan Gaughan,11360971,D,8200,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,21
+,,,,,,,D,Kaz Grala (11360972),Kaz Grala,11360972,D,8100,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,27.69
+,,,,,,,D,Ryan Truex (11360973),Ryan Truex,11360973,D,7900,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,27.24
+,,,,,,,D,Andy Lally (11360974),Andy Lally,11360974,D,7800,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,31.12
+,,,,,,,D,Spencer Gallagher (11360975),Spencer Gallagher,11360975,D,7600,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,35.90
+,,,,,,,D,Ryan Reed (11360976),Ryan Reed,11360976,D,7500,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,27.51
+,,,,,,,D,Michael Annett (11360977),Michael Annett,11360977,D,7400,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,26.57
+,,,,,,,D,Chase Briscoe (11360978),Chase Briscoe,11360978,D,7300,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,25.12
+,,,,,,,D,Jeremy Clements (11360979),Jeremy Clements,11360979,D,7200,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,25.06
+,,,,,,,D,Ty Majeski (11360980),Ty Majeski,11360980,D,7100,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,3.75
+,,,,,,,D,Lawson Aschenbach (11360981),Lawson Aschenbach,11360981,D,7000,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,0
+,,,,,,,D,Garrett Smithley (11360982),Garrett Smithley,11360982,D,6900,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,27.05
+,,,,,,,D,Alex Labbe (11360983),Alex Labbe,11360983,D,6700,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,23.1
+,,,,,,,D,Ryan Sieg (11360984),Ryan Sieg,11360984,D,6500,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,24.07
+,,,,,,,D,Joey Gase (11360985),Joey Gase,11360985,D,6400,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,23.68
+,,,,,,,D,Ray Black Jr (11360986),Ray Black Jr,11360986,D,6300,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,24.36
+,,,,,,,D,Dylan Murcott (11360987),Dylan Murcott,11360987,D,6200,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,-2
+,,,,,,,D,Bayley Currey (11360988),Bayley Currey,11360988,D,6000,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,22.4
+,,,,,,,D,Katherine Legge (11360989),Katherine Legge,11360989,D,5800,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,22.67
+,,,,,,,D,Josh Bilicki (11360990),Josh Bilicki,11360990,D,5600,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,16.48
+,,,,,,,D,Vinnie Miller (11360991),Vinnie Miller,11360991,D,5400,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,21.38
+,,,,,,,D,David Starr (11360992),David Starr,11360992,D,5200,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,23.52
+,,,,,,,D,Spencer Boyd (11360993),Spencer Boyd,11360993,D,5000,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,22.92
+,,,,,,,D,JJ Yeley (11360994),JJ Yeley,11360994,D,4900,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,10.21
+,,,,,,,D,Chad Finchum (11360995),Chad Finchum,11360995,D,4800,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,17.19
+,,,,,,,D,Tanner Berryhill (11360996),Tanner Berryhill,11360996,D,4700,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,0
+,,,,,,,D,Carl Long (11360997),Carl Long,11360997,D,4600,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,10.4
+,,,,,,,D,Timmy Hill (11360998),Timmy Hill,11360998,D,4500,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,9.02
+,,,,,,,D,Jeff Green (11360999),Jeff Green,11360999,D,4400,Drive for the Cure 200 presented by Blue Cross Blue Shield of North Carolina,Nasca,2.79

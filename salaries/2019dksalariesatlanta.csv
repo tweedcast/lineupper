@@ -1,0 +1,44 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Christopher Bell (12115914),Christopher Bell,12115914,D,11900,Rinnai 250,Nasca,52.83
+,,,,,,,D,Cole Custer (12115915),Cole Custer,12115915,D,11500,Rinnai 250,Nasca,40.14
+,,,,,,,D,Justin Allgaier (12115916),Justin Allgaier,12115916,D,10800,Rinnai 250,Nasca,43.36
+,,,,,,,D,Tyler Reddick (12115917),Tyler Reddick,12115917,D,10400,Rinnai 250,Nasca,35.43
+,,,,,,,D,John H. Nemechek (12115918),John H. Nemechek,12115918,D,10100,Rinnai 250,Nasca,36.52
+,,,,,,,D,Austin Cindric (12115919),Austin Cindric,12115919,D,9800,Rinnai 250,Nasca,26.21
+,,,,,,,D,Ryan Preece (12115920),Ryan Preece,12115920,D,9600,Rinnai 250,Nasca,37.44
+,,,,,,,D,Brandon Jones (12115921),Brandon Jones,12115921,D,9400,Rinnai 250,Nasca,30.96
+,,,,,,,D,Chase Briscoe (12115922),Chase Briscoe,12115922,D,9200,Rinnai 250,Nasca,27.82
+,,,,,,,D,Noah Gragson (12115923),Noah Gragson,12115923,D,9000,Rinnai 250,Nasca,53.33
+,,,,,,,D,Jeffrey Earnhardt (12115924),Jeffrey Earnhardt,12115924,D,8800,Rinnai 250,Nasca,0
+,,,,,,,D,Michael Annett (12115925),Michael Annett,12115925,D,8600,Rinnai 250,Nasca,27.44
+,,,,,,,D,Justin Haley (12115926),Justin Haley,12115926,D,8400,Rinnai 250,Nasca,23.17
+,,,,,,,D,Garrett Smithley (12115927),Garrett Smithley,12115927,D,8200,Rinnai 250,Nasca,26.56
+,,,,,,,D,Ross Chastain (12115928),Ross Chastain,12115928,D,8000,Rinnai 250,Nasca,31.59
+,,,,,,,D,Jeremy Clements (12115929),Jeremy Clements,12115929,D,7800,Rinnai 250,Nasca,24.95
+,,,,,,,D,Vinnie Miller (12115930),Vinnie Miller,12115930,D,7600,Rinnai 250,Nasca,20.67
+,,,,,,,D,Ray Black Jr (12115931),Ray Black Jr,12115931,D,7400,Rinnai 250,Nasca,24.06
+,,,,,,,D,Ryan Sieg (12115932),Ryan Sieg,12115932,D,7300,Rinnai 250,Nasca,23.08
+,,,,,,,D,Joey Gase (12115933),Joey Gase,12115933,D,7200,Rinnai 250,Nasca,23.21
+,,,,,,,D,David Starr (12115934),David Starr,12115934,D,7000,Rinnai 250,Nasca,23.38
+,,,,,,,D,Gray Gaulding (12115935),Gray Gaulding,12115935,D,6900,Rinnai 250,Nasca,2
+,,,,,,,D,BJ McLeod (12115936),BJ McLeod,12115936,D,6700,Rinnai 250,Nasca,18.9
+,,,,,,,D,Josh Williams (12115937),Josh Williams,12115937,D,6500,Rinnai 250,Nasca,20.97
+,,,,,,,D,Brandon Brown (12115938),Brandon Brown,12115938,D,6300,Rinnai 250,Nasca,15.9
+,,,,,,,D,Mike Harmon (12115939),Mike Harmon,12115939,D,6200,Rinnai 250,Nasca,17.15
+,,,,,,,D,Josh Bilicki (12115940),Josh Bilicki,12115940,D,6000,Rinnai 250,Nasca,16.88
+,,,,,,,D,Stephen Leicht (12115941),Stephen Leicht,12115941,D,5800,Rinnai 250,Nasca,13.8
+,,,,,,,D,Timmy Hill (12115942),Timmy Hill,12115942,D,5600,Rinnai 250,Nasca,9.06
+,,,,,,,D,Tommy Joe Martins (12115943),Tommy Joe Martins,12115943,D,5500,Rinnai 250,Nasca,19.33
+,,,,,,,D,Matt Mills (12115944),Matt Mills,12115944,D,5400,Rinnai 250,Nasca,11
+,,,,,,,D,Alex Labbe (12115945),Alex Labbe,12115945,D,5300,Rinnai 250,Nasca,22.98
+,,,,,,,D,John Jackson (12115946),John Jackson,12115946,D,5200,Rinnai 250,Nasca,11.5
+,,,,,,,D,Jeff Green (12115947),Jeff Green,12115947,D,5100,Rinnai 250,Nasca,2.34
+,,,,,,,D,Chad Finchum (12115948),Chad Finchum,12115948,D,5000,Rinnai 250,Nasca,15.66
+,,,,,,,D,Morgan Shepherd (12115950),Morgan Shepherd,12115950,D,4800,Rinnai 250,Nasca,2.17

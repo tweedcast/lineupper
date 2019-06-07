@@ -1,0 +1,46 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kevin Harvick (11401445),Kevin Harvick,11401445,D,12100,Gander Outdoors 400,Nasca,64.18
+,,,,,,,D,Kyle Busch (11401446),Kyle Busch,11401446,D,11800,Gander Outdoors 400,Nasca,62.5
+,,,,,,,D,Martin Truex Jr (11401447),Martin Truex Jr,11401447,D,11500,Gander Outdoors 400,Nasca,49.33
+,,,,,,,D,Brad Keselowski (11401448),Brad Keselowski,11401448,D,10700,Gander Outdoors 400,Nasca,36.98
+,,,,,,,D,Kyle Larson (11401449),Kyle Larson,11401449,D,10200,Gander Outdoors 400,Nasca,41.19
+,,,,,,,D,Chase Elliott (11401450),Chase Elliott,11401450,D,9900,Gander Outdoors 400,Nasca,37.24
+,,,,,,,D,Denny Hamlin (11401451),Denny Hamlin,11401451,D,9600,Gander Outdoors 400,Nasca,36.55
+,,,,,,,D,Clint Bowyer (11401452),Clint Bowyer,11401452,D,9300,Gander Outdoors 400,Nasca,44.83
+,,,,,,,D,Kurt Busch (11401453),Kurt Busch,11401453,D,9100,Gander Outdoors 400,Nasca,39.09
+,,,,,,,D,Joey Logano (11401454),Joey Logano,11401454,D,8900,Gander Outdoors 400,Nasca,37.9
+,,,,,,,D,Erik Jones (11401455),Erik Jones,11401455,D,8700,Gander Outdoors 400,Nasca,29.97
+,,,,,,,D,Ryan Blaney (11401456),Ryan Blaney,11401456,D,8500,Gander Outdoors 400,Nasca,35.9
+,,,,,,,D,Aric Almirola (11401457),Aric Almirola,11401457,D,8300,Gander Outdoors 400,Nasca,38.22
+,,,,,,,D,Jimmie Johnson (11401458),Jimmie Johnson,11401458,D,8200,Gander Outdoors 400,Nasca,31.88
+,,,,,,,D,Daniel Suarez (11401459),Daniel Suarez,11401459,D,8000,Gander Outdoors 400,Nasca,30.9
+,,,,,,,D,Ryan Newman (11401460),Ryan Newman,11401460,D,7800,Gander Outdoors 400,Nasca,26.51
+,,,,,,,D,Paul Menard (11401461),Paul Menard,11401461,D,7700,Gander Outdoors 400,Nasca,25.93
+,,,,,,,D,Jamie McMurray (11401462),Jamie McMurray,11401462,D,7500,Gander Outdoors 400,Nasca,22.95
+,,,,,,,D,Alex Bowman (11401463),Alex Bowman,11401463,D,7300,Gander Outdoors 400,Nasca,29.07
+,,,,,,,D,Matt Kenseth (11401464),Matt Kenseth,11401464,D,7100,Gander Outdoors 400,Nasca,23.3
+,,,,,,,D,Austin Dillon (11401465),Austin Dillon,11401465,D,6900,Gander Outdoors 400,Nasca,28.08
+,,,,,,,D,William Byron (11401466),William Byron,11401466,D,6700,Gander Outdoors 400,Nasca,22.24
+,,,,,,,D,AJ Allmendinger (11401467),AJ Allmendinger,11401467,D,6500,Gander Outdoors 400,Nasca,24.24
+,,,,,,,D,Chris Buescher (11401468),Chris Buescher,11401468,D,6300,Gander Outdoors 400,Nasca,25.63
+,,,,,,,D,Regan Smith (11401470),Regan Smith,11401470,D,6200,Gander Outdoors 400,Nasca,33.17
+,,,,,,,D,Ricky Stenhouse Jr (11401471),Ricky Stenhouse Jr,11401471,D,6000,Gander Outdoors 400,Nasca,23.65
+,,,,,,,D,Bubba Wallace (11401472),Bubba Wallace,11401472,D,5900,Gander Outdoors 400,Nasca,20.69
+,,,,,,,D,Ty Dillon (11401473),Ty Dillon,11401473,D,5700,Gander Outdoors 400,Nasca,22.42
+,,,,,,,D,Michael McDowell (11401474),Michael McDowell,11401474,D,5600,Gander Outdoors 400,Nasca,22.69
+,,,,,,,D,David Ragan (11401475),David Ragan,11401475,D,5500,Gander Outdoors 400,Nasca,23.1
+,,,,,,,D,Ross Chastain (11401476),Ross Chastain,11401476,D,5400,Gander Outdoors 400,Nasca,20.23
+,,,,,,,D,Matt DiBenedetto (11401477),Matt DiBenedetto,11401477,D,5300,Gander Outdoors 400,Nasca,20.93
+,,,,,,,D,Landon Cassill (11401478),Landon Cassill,11401478,D,5200,Gander Outdoors 400,Nasca,19.6
+,,,,,,,D,JJ Yeley (11401479),JJ Yeley,11401479,D,5100,Gander Outdoors 400,Nasca,20.22
+,,,,,,,D,Corey Lajoie (11401481),Corey Lajoie,11401481,D,4900,Gander Outdoors 400,Nasca,15.6
+,,,,,,,D,Jeffrey Earnhardt (11401482),Jeffrey Earnhardt,11401482,D,4800,Gander Outdoors 400,Nasca,18.08
+,,,,,,,D,BJ McLeod (11401483),BJ McLeod,11401483,D,4700,Gander Outdoors 400,Nasca,13.27
+,,,,,,,D,Timmy Hill (11401484),Timmy Hill,11401484,D,4600,Gander Outdoors 400,Nasca,12.38

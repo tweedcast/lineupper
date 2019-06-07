@@ -1,0 +1,46 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12157444),Kyle Busch,12157444,D,14700,Boyd Gaming 300,Nasca,0
+,,,,,,,D,Christopher Bell (12157445),Christopher Bell,12157445,D,12000,Boyd Gaming 300,Nasca,77
+,,,,,,,D,Cole Custer (12157446),Cole Custer,12157446,D,11200,Boyd Gaming 300,Nasca,52
+,,,,,,,D,Justin Allgaier (12157447),Justin Allgaier,12157447,D,10800,Boyd Gaming 300,Nasca,53.5
+,,,,,,,D,Tyler Reddick (12157448),Tyler Reddick,12157448,D,10400,Boyd Gaming 300,Nasca,47.88
+,,,,,,,D,Austin Dillon (12157449),Austin Dillon,12157449,D,9900,Boyd Gaming 300,Nasca,0
+,,,,,,,D,Chase Briscoe (12157450),Chase Briscoe,12157450,D,9600,Boyd Gaming 300,Nasca,38
+,,,,,,,D,John H. Nemechek (12157451),John H. Nemechek,12157451,D,9300,Boyd Gaming 300,Nasca,29.5
+,,,,,,,D,Austin Cindric (12157452),Austin Cindric,12157452,D,9000,Boyd Gaming 300,Nasca,40.75
+,,,,,,,D,Brandon Jones (12157453),Brandon Jones,12157453,D,8800,Boyd Gaming 300,Nasca,55.12
+,,,,,,,D,Noah Gragson (12157454),Noah Gragson,12157454,D,8600,Boyd Gaming 300,Nasca,39.62
+,,,,,,,D,Justin Haley (12157455),Justin Haley,12157455,D,8400,Boyd Gaming 300,Nasca,29.38
+,,,,,,,D,Zane Smith (12157456),Zane Smith,12157456,D,8200,Boyd Gaming 300,Nasca,0
+,,,,,,,D,Michael Annett (12157457),Michael Annett,12157457,D,8000,Boyd Gaming 300,Nasca,49.12
+,,,,,,,D,Ross Chastain (12157458),Ross Chastain,12157458,D,7800,Boyd Gaming 300,Nasca,31.12
+,,,,,,,D,Ryan Sieg (12157459),Ryan Sieg,12157459,D,7600,Boyd Gaming 300,Nasca,44.75
+,,,,,,,D,Gray Gaulding (12157460),Gray Gaulding,12157460,D,7400,Boyd Gaming 300,Nasca,14.25
+,,,,,,,D,Garrett Smithley (12157461),Garrett Smithley,12157461,D,7200,Boyd Gaming 300,Nasca,27.25
+,,,,,,,D,Jeremy Clements (12157462),Jeremy Clements,12157462,D,7100,Boyd Gaming 300,Nasca,11.25
+,,,,,,,D,Ray Black Jr (12157463),Ray Black Jr,12157463,D,6900,Boyd Gaming 300,Nasca,17.75
+,,,,,,,D,Vinnie Miller (12157464),Vinnie Miller,12157464,D,6700,Boyd Gaming 300,Nasca,8.5
+,,,,,,,D,Joey Gase (12157465),Joey Gase,12157465,D,6500,Boyd Gaming 300,Nasca,30
+,,,,,,,D,Ja Junior Avila (12157466),Ja Junior Avila,12157466,D,6400,Boyd Gaming 300,Nasca,0
+,,,,,,,D,David Starr (12157467),David Starr,12157467,D,6200,Boyd Gaming 300,Nasca,26.5
+,,,,,,,D,Josh Williams (12157468),Josh Williams,12157468,D,6100,Boyd Gaming 300,Nasca,23.25
+,,,,,,,D,BJ McLeod (12157469),BJ McLeod,12157469,D,6000,Boyd Gaming 300,Nasca,25.25
+,,,,,,,D,Brandon Brown (12157470),Brandon Brown,12157470,D,5900,Boyd Gaming 300,Nasca,32.75
+,,,,,,,D,Stephen Leicht (12157471),Stephen Leicht,12157471,D,5700,Boyd Gaming 300,Nasca,7.5
+,,,,,,,D,Mike Harmon (12157472),Mike Harmon,12157472,D,5600,Boyd Gaming 300,Nasca,12.5
+,,,,,,,D,Josh Bilicki (12157473),Josh Bilicki,12157473,D,5500,Boyd Gaming 300,Nasca,10.5
+,,,,,,,D,Bayley Currey (12157474),Bayley Currey,12157474,D,5400,Boyd Gaming 300,Nasca,21
+,,,,,,,D,Timmy Hill (12157475),Timmy Hill,12157475,D,5300,Boyd Gaming 300,Nasca,24.75
+,,,,,,,D,Matt Mills (12157476),Matt Mills,12157476,D,5200,Boyd Gaming 300,Nasca,16
+,,,,,,,D,Donald Theetge (12157477),Donald Theetge,12157477,D,5100,Boyd Gaming 300,Nasca,0
+,,,,,,,D,Stan Mullis (12157478),Stan Mullis,12157478,D,5000,Boyd Gaming 300,Nasca,0
+,,,,,,,D,Jeff Green (12157479),Jeff Green,12157479,D,4900,Boyd Gaming 300,Nasca,27.25
+,,,,,,,D,Chad Finchum (12157480),Chad Finchum,12157480,D,4800,Boyd Gaming 300,Nasca,-6
+,,,,,,,D,Morgan Shepherd (12157481),Morgan Shepherd,12157481,D,4700,Boyd Gaming 300,Nasca,11

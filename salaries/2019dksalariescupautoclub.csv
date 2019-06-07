@@ -1,0 +1,46 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12236432),Kyle Busch,12236432,D,12600,Auto Club 400,Nasca,62.33
+,,,,,,,D,Kevin Harvick (12236433),Kevin Harvick,12236433,D,12100,Auto Club 400,Nasca,49.71
+,,,,,,,D,Brad Keselowski (12236434),Brad Keselowski,12236434,D,11500,Auto Club 400,Nasca,42.25
+,,,,,,,D,Kyle Larson (12236435),Kyle Larson,12236435,D,10800,Auto Club 400,Nasca,49.92
+,,,,,,,D,Joey Logano (12236436),Joey Logano,12236436,D,10400,Auto Club 400,Nasca,52
+,,,,,,,D,Martin Truex Jr (12236437),Martin Truex Jr,12236437,D,10000,Auto Club 400,Nasca,41.5
+,,,,,,,D,Aric Almirola (12236438),Aric Almirola,12236438,D,9700,Auto Club 400,Nasca,41.25
+,,,,,,,D,Denny Hamlin (12236439),Denny Hamlin,12236439,D,9400,Auto Club 400,Nasca,39.38
+,,,,,,,D,Kurt Busch (12236440),Kurt Busch,12236440,D,9100,Auto Club 400,Nasca,47
+,,,,,,,D,Chase Elliott (12236441),Chase Elliott,12236441,D,8800,Auto Club 400,Nasca,35
+,,,,,,,D,Clint Bowyer (12236442),Clint Bowyer,12236442,D,8600,Auto Club 400,Nasca,37.38
+,,,,,,,D,Ryan Blaney (12236443),Ryan Blaney,12236443,D,8400,Auto Club 400,Nasca,37.33
+,,,,,,,D,Erik Jones (12236444),Erik Jones,12236444,D,8200,Auto Club 400,Nasca,33.58
+,,,,,,,D,Daniel Suarez (12236445),Daniel Suarez,12236445,D,8000,Auto Club 400,Nasca,28.08
+,,,,,,,D,Jimmie Johnson (12236446),Jimmie Johnson,12236446,D,7800,Auto Club 400,Nasca,34.67
+,,,,,,,D,Ricky Stenhouse Jr (12236447),Ricky Stenhouse Jr,12236447,D,7600,Auto Club 400,Nasca,35.1
+,,,,,,,D,Austin Dillon (12236448),Austin Dillon,12236448,D,7400,Auto Club 400,Nasca,25.88
+,,,,,,,D,Ryan Newman (12236449),Ryan Newman,12236449,D,7300,Auto Club 400,Nasca,34.33
+,,,,,,,D,Chris Buescher (12236450),Chris Buescher,12236450,D,7100,Auto Club 400,Nasca,31.3
+,,,,,,,D,Alex Bowman (12236451),Alex Bowman,12236451,D,7000,Auto Club 400,Nasca,23.04
+,,,,,,,D,William Byron (12236452),William Byron,12236452,D,6900,Auto Club 400,Nasca,21.9
+,,,,,,,D,Paul Menard (12236453),Paul Menard,12236453,D,6700,Auto Club 400,Nasca,26.71
+,,,,,,,D,Matt DiBenedetto (12236454),Matt DiBenedetto,12236454,D,6500,Auto Club 400,Nasca,24.55
+,,,,,,,D,Daniel Hemric (12236455),Daniel Hemric,12236455,D,6300,Auto Club 400,Nasca,17.25
+,,,,,,,D,Ryan Preece (12236456),Ryan Preece,12236456,D,6200,Auto Club 400,Nasca,20.9
+,,,,,,,D,Ty Dillon (12236457),Ty Dillon,12236457,D,6100,Auto Club 400,Nasca,30.7
+,,,,,,,D,David Ragan (12236458),David Ragan,12236458,D,5900,Auto Club 400,Nasca,19.6
+,,,,,,,D,Michael McDowell (12236459),Michael McDowell,12236459,D,5800,Auto Club 400,Nasca,14.9
+,,,,,,,D,Bubba Wallace (12236460),Bubba Wallace,12236460,D,5700,Auto Club 400,Nasca,17.7
+,,,,,,,D,Ross Chastain (12236461),Ross Chastain,12236461,D,5600,Auto Club 400,Nasca,28.2
+,,,,,,,D,Matt Tifft (12236462),Matt Tifft,12236462,D,5400,Auto Club 400,Nasca,19.2
+,,,,,,,D,Landon Cassill (12236463),Landon Cassill,12236463,D,5300,Auto Club 400,Nasca,18.85
+,,,,,,,D,Corey Lajoie (12236464),Corey Lajoie,12236464,D,5200,Auto Club 400,Nasca,24.5
+,,,,,,,D,BJ McLeod (12236465),BJ McLeod,12236465,D,5100,Auto Club 400,Nasca,22
+,,,,,,,D,Reed Sorenson (12236466),Reed Sorenson,12236466,D,5000,Auto Club 400,Nasca,9
+,,,,,,,D,Joey Gase (12236467),Joey Gase,12236467,D,4900,Auto Club 400,Nasca,14.5
+,,,,,,,D,Cody Ware (12236468),Cody Ware,12236468,D,4800,Auto Club 400,Nasca,12.3
+,,,,,,,D,Garrett Smithley (12240907),Garrett Smithley,12240907,D,4700,Auto Club 400,Nasca,7

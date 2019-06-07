@@ -1,0 +1,45 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12577713),Kyle Busch,12577713,D,12400,Gander RV 400,Nasca,72.29
+,,,,,,,D,Joey Logano (12577714),Joey Logano,12577714,D,11800,Gander RV 400,Nasca,54.10
+,,,,,,,D,Kevin Harvick (12577715),Kevin Harvick,12577715,D,11300,Gander RV 400,Nasca,47.81
+,,,,,,,D,Brad Keselowski (12577716),Brad Keselowski,12577716,D,10700,Gander RV 400,Nasca,53.48
+,,,,,,,D,Martin Truex Jr (12577717),Martin Truex Jr,12577717,D,10200,Gander RV 400,Nasca,48.44
+,,,,,,,D,Chase Elliott (12577718),Chase Elliott,12577718,D,9800,Gander RV 400,Nasca,45.15
+,,,,,,,D,Denny Hamlin (12577719),Denny Hamlin,12577719,D,9500,Gander RV 400,Nasca,42.90
+,,,,,,,D,Ryan Blaney (12577720),Ryan Blaney,12577720,D,9200,Gander RV 400,Nasca,40.98
+,,,,,,,D,Kurt Busch (12577721),Kurt Busch,12577721,D,8900,Gander RV 400,Nasca,49.79
+,,,,,,,D,Erik Jones (12577722),Erik Jones,12577722,D,8700,Gander RV 400,Nasca,32.71
+,,,,,,,D,Clint Bowyer (12577723),Clint Bowyer,12577723,D,8500,Gander RV 400,Nasca,37.08
+,,,,,,,D,Aric Almirola (12577724),Aric Almirola,12577724,D,8300,Gander RV 400,Nasca,34.94
+,,,,,,,D,Jimmie Johnson (12577725),Jimmie Johnson,12577725,D,8200,Gander RV 400,Nasca,32.12
+,,,,,,,D,Kyle Larson (12577726),Kyle Larson,12577726,D,8000,Gander RV 400,Nasca,29.56
+,,,,,,,D,Ryan Newman (12577727),Ryan Newman,12577727,D,7900,Gander RV 400,Nasca,35.17
+,,,,,,,D,Daniel Suarez (12577728),Daniel Suarez,12577728,D,7700,Gander RV 400,Nasca,36.81
+,,,,,,,D,Ricky Stenhouse Jr (12577729),Ricky Stenhouse Jr,12577729,D,7500,Gander RV 400,Nasca,25.57
+,,,,,,,D,Austin Dillon (12577730),Austin Dillon,12577730,D,7400,Gander RV 400,Nasca,30.38
+,,,,,,,D,Chris Buescher (12577731),Chris Buescher,12577731,D,7300,Gander RV 400,Nasca,24.68
+,,,,,,,D,Matt DiBenedetto (12577732),Matt DiBenedetto,12577732,D,7200,Gander RV 400,Nasca,24.59
+,,,,,,,D,Alex Bowman (12577733),Alex Bowman,12577733,D,7100,Gander RV 400,Nasca,26.62
+,,,,,,,D,Paul Menard (12577734),Paul Menard,12577734,D,6900,Gander RV 400,Nasca,28.90
+,,,,,,,D,William Byron (12577735),William Byron,12577735,D,6700,Gander RV 400,Nasca,27.68
+,,,,,,,D,Ryan Preece (12577736),Ryan Preece,12577736,D,6500,Gander RV 400,Nasca,27.14
+,,,,,,,D,Ty Dillon (12577737),Ty Dillon,12577737,D,6400,Gander RV 400,Nasca,27.98
+,,,,,,,D,Daniel Hemric (12577738),Daniel Hemric,12577738,D,6200,Gander RV 400,Nasca,16.20
+,,,,,,,D,Ross Chastain (12577739),Ross Chastain,12577739,D,6000,Gander RV 400,Nasca,24.80
+,,,,,,,D,Bubba Wallace (12577740),Bubba Wallace,12577740,D,5900,Gander RV 400,Nasca,16.32
+,,,,,,,D,David Ragan (12577741),David Ragan,12577741,D,5700,Gander RV 400,Nasca,17.64
+,,,,,,,D,Matt Tifft (12577742),Matt Tifft,12577742,D,5600,Gander RV 400,Nasca,18.04
+,,,,,,,D,Corey Lajoie (12577743),Corey Lajoie,12577743,D,5400,Gander RV 400,Nasca,22.41
+,,,,,,,D,Michael McDowell (12577744),Michael McDowell,12577744,D,5300,Gander RV 400,Nasca,9.77
+,,,,,,,D,Reed Sorenson (12577745),Reed Sorenson,12577745,D,5200,Gander RV 400,Nasca,20
+,,,,,,,D,Cody Ware (12577746),Cody Ware,12577746,D,5100,Gander RV 400,Nasca,13.69
+,,,,,,,D,Landon Cassill (12577747),Landon Cassill,12577747,D,5000,Gander RV 400,Nasca,16.39
+,,,,,,,D,BJ McLeod (12577748),BJ McLeod,12577748,D,4900,Gander RV 400,Nasca,18.42
+,,,,,,,D,Quin Houff (12577749),Quin Houff,12577749,D,4800,Gander RV 400,Nasca,13.5

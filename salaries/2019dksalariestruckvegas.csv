@@ -1,0 +1,40 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12157412),Kyle Busch,12157412,D,15500,Strat 200,Nasca,90.5
+,,,,,,,D,Johnny Sauter (12157413),Johnny Sauter,12157413,D,11200,Strat 200,Nasca,39.12
+,,,,,,,D,Brett Moffitt (12157414),Brett Moffitt,12157414,D,10800,Strat 200,Nasca,20.88
+,,,,,,,D,Stewart Friesen (12157415),Stewart Friesen,12157415,D,10300,Strat 200,Nasca,26.5
+,,,,,,,D,Ben Rhodes (12157416),Ben Rhodes,12157416,D,9900,Strat 200,Nasca,44.88
+,,,,,,,D,Matt Crafton (12157417),Matt Crafton,12157417,D,9600,Strat 200,Nasca,38.75
+,,,,,,,D,Harrison Burton (12157418),Harrison Burton,12157418,D,9400,Strat 200,Nasca,22.62
+,,,,,,,D,Todd Gilliland (12157419),Todd Gilliland,12157419,D,9200,Strat 200,Nasca,23.62
+,,,,,,,D,Grant Enfinger (12157420),Grant Enfinger,12157420,D,9000,Strat 200,Nasca,46
+,,,,,,,D,Austin Hill (12157421),Austin Hill,12157421,D,8800,Strat 200,Nasca,48.88
+,,,,,,,D,Jesse Little (12157422),Jesse Little,12157422,D,8600,Strat 200,Nasca,21
+,,,,,,,D,Ross Chastain (12164677),Ross Chastain,12164677,D,8500,Strat 200,Nasca,57.25
+,,,,,,,D,Sheldon Creed (12157423),Sheldon Creed,12157423,D,8400,Strat 200,Nasca,23.38
+,,,,,,,D,Ryan Reed (12157424),Ryan Reed,12157424,D,8200,Strat 200,Nasca,0
+,,,,,,,D,Timothy Peters (12157425),Timothy Peters,12157425,D,8100,Strat 200,Nasca,48.5
+,,,,,,,D,Brennan Poole (12157426),Brennan Poole,12157426,D,7900,Strat 200,Nasca,34.5
+,,,,,,,D,Anthony Alfredo (12157427),Anthony Alfredo,12157427,D,7700,Strat 200,Nasca,37
+,,,,,,,D,Tyler Dippel (12157428),Tyler Dippel,12157428,D,7500,Strat 200,Nasca,20.75
+,,,,,,,D,Austin Wayne Self (12157430),Austin Wayne Self,12157430,D,7200,Strat 200,Nasca,23.5
+,,,,,,,D,Gus Dean (12157431),Gus Dean,12157431,D,7100,Strat 200,Nasca,31.5
+,,,,,,,D,Spencer Boyd (12157432),Spencer Boyd,12157432,D,6900,Strat 200,Nasca,31.75
+,,,,,,,D,Jordan Anderson (12157433),Jordan Anderson,12157433,D,6700,Strat 200,Nasca,23.75
+,,,,,,,D,Natalie Decker (12157434),Natalie Decker,12157434,D,6600,Strat 200,Nasca,2
+,,,,,,,D,Josh Reaume (12157435),Josh Reaume,12157435,D,6400,Strat 200,Nasca,30.62
+,,,,,,,D,Korbin Forrister (12164678),Korbin Forrister,12164678,D,6200,Strat 200,Nasca,33
+,,,,,,,D,Cory Roper (12157437),Cory Roper,12157437,D,6100,Strat 200,Nasca,34.75
+,,,,,,,D,Norm Benning (12157438),Norm Benning,12157438,D,5900,Strat 200,Nasca,18.5
+,,,,,,,D,Stefan Parsons (12157439),Stefan Parsons,12157439,D,5800,Strat 200,Nasca,0
+,,,,,,,D,Jennifer Jo Cobb (12157440),Jennifer Jo Cobb,12157440,D,5700,Strat 200,Nasca,25.5
+,,,,,,,D,Angela Ruch (12164679),Angela Ruch,12164679,D,5600,Strat 200,Nasca,59
+,,,,,,,D,Jesse Iwuji (12157442),Jesse Iwuji,12157442,D,5500,Strat 200,Nasca,0
+,,,,,,,D,Scott Stenzel (12157443),Scott Stenzel,12157443,D,5400,Strat 200,Nasca,0

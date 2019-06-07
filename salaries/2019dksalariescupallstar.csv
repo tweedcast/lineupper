@@ -1,0 +1,34 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12657354),Kyle Busch,12657354,D,10500,Monster Energy NASCAR All-Star Race,Nasca,66.21
+,,,,,,,D,Chase Elliott (12657355),Chase Elliott,12657355,D,10100,Monster Energy NASCAR All-Star Race,Nasca,52.12
+,,,,,,,D,Kevin Harvick (12657356),Kevin Harvick,12657356,D,9800,Monster Energy NASCAR All-Star Race,Nasca,50.57
+,,,,,,,D,Martin Truex Jr (12657357),Martin Truex Jr,12657357,D,9500,Monster Energy NASCAR All-Star Race,Nasca,53.55
+,,,,,,,D,Joey Logano (12657358),Joey Logano,12657358,D,9300,Monster Energy NASCAR All-Star Race,Nasca,52.77
+,,,,,,,D,Brad Keselowski (12657359),Brad Keselowski,12657359,D,9000,Monster Energy NASCAR All-Star Race,Nasca,53.59
+,,,,,,,D,Kurt Busch (12657360),Kurt Busch,12657360,D,8700,Monster Energy NASCAR All-Star Race,Nasca,48.62
+,,,,,,,D,Denny Hamlin (12657361),Denny Hamlin,12657361,D,8400,Monster Energy NASCAR All-Star Race,Nasca,39.38
+,,,,,,,D,Ryan Blaney (12657362),Ryan Blaney,12657362,D,8100,Monster Energy NASCAR All-Star Race,Nasca,36.55
+,,,,,,,D,Kyle Larson (12657363),Kyle Larson,12657363,D,7800,Monster Energy NASCAR All-Star Race,Nasca,33.70
+,,,,,,,D,Aric Almirola (12657364),Aric Almirola,12657364,D,7500,Monster Energy NASCAR All-Star Race,Nasca,35.38
+,,,,,,,D,Clint Bowyer (12657365),Clint Bowyer,12657365,D,7200,Monster Energy NASCAR All-Star Race,Nasca,37.89
+,,,,,,,D,Daniel Suarez (12657366),Daniel Suarez,12657366,D,6900,Monster Energy NASCAR All-Star Race,Nasca,39.18
+,,,,,,,D,Erik Jones (12657367),Erik Jones,12657367,D,6700,Monster Energy NASCAR All-Star Race,Nasca,35.36
+,,,,,,,D,Jimmie Johnson (12657368),Jimmie Johnson,12657368,D,6500,Monster Energy NASCAR All-Star Race,Nasca,32.96
+,,,,,,,D,Alex Bowman (12657369),Alex Bowman,12657369,D,6300,Monster Energy NASCAR All-Star Race,Nasca,33.16
+,,,,,,,D,Chris Buescher (12657370),Chris Buescher,12657370,D,6200,Monster Energy NASCAR All-Star Race,Nasca,26.54
+,,,,,,,D,Ty Dillon (12657371),Ty Dillon,12657371,D,6100,Monster Energy NASCAR All-Star Race,Nasca,27.44
+,,,,,,,D,William Byron (12657372),William Byron,12657372,D,6000,Monster Energy NASCAR All-Star Race,Nasca,26.98
+,,,,,,,D,Ryan Preece (12657373),Ryan Preece,12657373,D,5900,Monster Energy NASCAR All-Star Race,Nasca,25.54
+,,,,,,,D,Austin Dillon (12657374),Austin Dillon,12657374,D,5800,Monster Energy NASCAR All-Star Race,Nasca,29.39
+,,,,,,,D,Ryan Newman (12657375),Ryan Newman,12657375,D,5600,Monster Energy NASCAR All-Star Race,Nasca,33.46
+,,,,,,,D,Ricky Stenhouse Jr (12657376),Ricky Stenhouse Jr,12657376,D,5500,Monster Energy NASCAR All-Star Race,Nasca,24.77
+,,,,,,,D,Paul Menard (12657377),Paul Menard,12657377,D,5400,Monster Energy NASCAR All-Star Race,Nasca,27.48
+,,,,,,,D,Matt DiBenedetto (12657378),Matt DiBenedetto,12657378,D,5300,Monster Energy NASCAR All-Star Race,Nasca,22.12
+,,,,,,,D,Daniel Hemric (12657379),Daniel Hemric,12657379,D,5200,Monster Energy NASCAR All-Star Race,Nasca,17.06

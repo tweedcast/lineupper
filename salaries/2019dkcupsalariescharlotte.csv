@@ -1,0 +1,48 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12692902),Kyle Busch,12692902,D,11200,Coca-Cola 600,Nasca,65.25
+,,,,,,,D,Kevin Harvick (12692903),Kevin Harvick,12692903,D,10800,Coca-Cola 600,Nasca,51.18
+,,,,,,,D,Martin Truex Jr (12692904),Martin Truex Jr,12692904,D,10600,Coca-Cola 600,Nasca,52.08
+,,,,,,,D,Chase Elliott (12692905),Chase Elliott,12692905,D,10300,Coca-Cola 600,Nasca,50.58
+,,,,,,,D,Brad Keselowski (12692906),Brad Keselowski,12692906,D,10100,Coca-Cola 600,Nasca,52.48
+,,,,,,,D,Joey Logano (12692907),Joey Logano,12692907,D,9900,Coca-Cola 600,Nasca,53
+,,,,,,,D,Kyle Larson (12692908),Kyle Larson,12692908,D,9600,Coca-Cola 600,Nasca,37.44
+,,,,,,,D,Clint Bowyer (12692909),Clint Bowyer,12692909,D,9400,Coca-Cola 600,Nasca,36.87
+,,,,,,,D,Denny Hamlin (12692910),Denny Hamlin,12692910,D,9200,Coca-Cola 600,Nasca,38.12
+,,,,,,,D,Ryan Blaney (12692911),Ryan Blaney,12692911,D,9000,Coca-Cola 600,Nasca,35.55
+,,,,,,,D,Kurt Busch (12692912),Kurt Busch,12692912,D,8900,Coca-Cola 600,Nasca,47.05
+,,,,,,,D,Erik Jones (12692913),Erik Jones,12692913,D,8700,Coca-Cola 600,Nasca,33.93
+,,,,,,,D,Aric Almirola (12692914),Aric Almirola,12692914,D,8500,Coca-Cola 600,Nasca,36.05
+,,,,,,,D,Jimmie Johnson (12692915),Jimmie Johnson,12692915,D,8300,Coca-Cola 600,Nasca,32.23
+,,,,,,,D,Alex Bowman (12692916),Alex Bowman,12692916,D,8100,Coca-Cola 600,Nasca,35.25
+,,,,,,,D,Daniel Suarez (12692917),Daniel Suarez,12692917,D,8000,Coca-Cola 600,Nasca,38.38
+,,,,,,,D,Austin Dillon (12692918),Austin Dillon,12692918,D,7800,Coca-Cola 600,Nasca,29.73
+,,,,,,,D,Ryan Newman (12692919),Ryan Newman,12692919,D,7600,Coca-Cola 600,Nasca,32.93
+,,,,,,,D,William Byron (12692920),William Byron,12692920,D,7400,Coca-Cola 600,Nasca,26.63
+,,,,,,,D,Ricky Stenhouse Jr (12692921),Ricky Stenhouse Jr,12692921,D,7200,Coca-Cola 600,Nasca,26.5
+,,,,,,,D,Chris Buescher (12692922),Chris Buescher,12692922,D,7100,Coca-Cola 600,Nasca,25.07
+,,,,,,,D,Paul Menard (12692923),Paul Menard,12692923,D,6900,Coca-Cola 600,Nasca,28.07
+,,,,,,,D,Ty Dillon (12692924),Ty Dillon,12692924,D,6700,Coca-Cola 600,Nasca,29.45
+,,,,,,,D,Ryan Preece (12692925),Ryan Preece,12692925,D,6500,Coca-Cola 600,Nasca,26.82
+,,,,,,,D,Matt DiBenedetto (12692926),Matt DiBenedetto,12692926,D,6300,Coca-Cola 600,Nasca,24.04
+,,,,,,,D,Michael McDowell (12692927),Michael McDowell,12692927,D,6200,Coca-Cola 600,Nasca,13.30
+,,,,,,,D,David Ragan (12692928),David Ragan,12692928,D,6000,Coca-Cola 600,Nasca,18.82
+,,,,,,,D,Daniel Hemric (12692929),Daniel Hemric,12692929,D,5900,Coca-Cola 600,Nasca,17.29
+,,,,,,,D,Bubba Wallace (12692930),Bubba Wallace,12692930,D,5700,Coca-Cola 600,Nasca,17.45
+,,,,,,,D,Ross Chastain (12692931),Ross Chastain,12692931,D,5600,Coca-Cola 600,Nasca,23.21
+,,,,,,,D,Landon Cassill (12692932),Landon Cassill,12692932,D,5400,Coca-Cola 600,Nasca,16.88
+,,,,,,,D,Matt Tifft (12692933),Matt Tifft,12692933,D,5300,Coca-Cola 600,Nasca,19.55
+,,,,,,,D,Corey Lajoie (12692934),Corey Lajoie,12692934,D,5200,Coca-Cola 600,Nasca,22.79
+,,,,,,,D,Parker Kligerman (12692935),Parker Kligerman,12692935,D,5100,Coca-Cola 600,Nasca,27.25
+,,,,,,,D,Reed Sorenson (12692936),Reed Sorenson,12692936,D,5000,Coca-Cola 600,Nasca,15.67
+,,,,,,,D,Joey Gase (12692937),Joey Gase,12692937,D,4900,Coca-Cola 600,Nasca,14.92
+,,,,,,,D,Quin Houff (12692938),Quin Houff,12692938,D,4800,Coca-Cola 600,Nasca,14
+,,,,,,,D,Bayley Currey (12692939),Bayley Currey,12692939,D,4700,Coca-Cola 600,Nasca,14.58
+,,,,,,,D,Cody Ware (12692940),Cody Ware,12692940,D,4600,Coca-Cola 600,Nasca,12.5
+,,,,,,,D,BJ McLeod (12692941),BJ McLeod,12692941,D,4500,Coca-Cola 600,Nasca,16.19

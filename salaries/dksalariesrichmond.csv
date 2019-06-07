@@ -1,0 +1,48 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kevin Harvick (11308191),Kevin Harvick,11308191,D,12200,Federated Auto Parts 400,Nasca,64.04
+,,,,,,,D,Kyle Busch (11308192),Kyle Busch,11308192,D,11800,Federated Auto Parts 400,Nasca,61.33
+,,,,,,,D,Martin Truex Jr (11308193),Martin Truex Jr,11308193,D,11000,Federated Auto Parts 400,Nasca,47.40
+,,,,,,,D,Kyle Larson (11308194),Kyle Larson,11308194,D,10500,Federated Auto Parts 400,Nasca,41.75
+,,,,,,,D,Brad Keselowski (11308195),Brad Keselowski,11308195,D,10200,Federated Auto Parts 400,Nasca,36.01
+,,,,,,,D,Chase Elliott (11308196),Chase Elliott,11308196,D,9900,Federated Auto Parts 400,Nasca,36.08
+,,,,,,,D,Denny Hamlin (11308197),Denny Hamlin,11308197,D,9600,Federated Auto Parts 400,Nasca,36.95
+,,,,,,,D,Erik Jones (11308198),Erik Jones,11308198,D,9300,Federated Auto Parts 400,Nasca,31.12
+,,,,,,,D,Clint Bowyer (11308199),Clint Bowyer,11308199,D,9100,Federated Auto Parts 400,Nasca,44.38
+,,,,,,,D,Ryan Blaney (11308200),Ryan Blaney,11308200,D,8900,Federated Auto Parts 400,Nasca,36.64
+,,,,,,,D,Joey Logano (11308201),Joey Logano,11308201,D,8700,Federated Auto Parts 400,Nasca,38.16
+,,,,,,,D,Kurt Busch (11308202),Kurt Busch,11308202,D,8500,Federated Auto Parts 400,Nasca,39.82
+,,,,,,,D,Aric Almirola (11308203),Aric Almirola,11308203,D,8300,Federated Auto Parts 400,Nasca,37.95
+,,,,,,,D,Ryan Newman (11308204),Ryan Newman,11308204,D,8100,Federated Auto Parts 400,Nasca,26.30
+,,,,,,,D,Jimmie Johnson (11308205),Jimmie Johnson,11308205,D,7900,Federated Auto Parts 400,Nasca,31.08
+,,,,,,,D,Alex Bowman (11308206),Alex Bowman,11308206,D,7700,Federated Auto Parts 400,Nasca,28.83
+,,,,,,,D,Daniel Suarez (11308207),Daniel Suarez,11308207,D,7500,Federated Auto Parts 400,Nasca,30.19
+,,,,,,,D,Paul Menard (11308208),Paul Menard,11308208,D,7400,Federated Auto Parts 400,Nasca,25.52
+,,,,,,,D,Jamie McMurray (11308209),Jamie McMurray,11308209,D,7300,Federated Auto Parts 400,Nasca,23.16
+,,,,,,,D,Matt Kenseth (11308210),Matt Kenseth,11308210,D,7100,Federated Auto Parts 400,Nasca,24.42
+,,,,,,,D,Austin Dillon (11308211),Austin Dillon,11308211,D,6900,Federated Auto Parts 400,Nasca,28.29
+,,,,,,,D,William Byron (11308212),William Byron,11308212,D,6800,Federated Auto Parts 400,Nasca,22.04
+,,,,,,,D,Chris Buescher (11308213),Chris Buescher,11308213,D,6700,Federated Auto Parts 400,Nasca,26.36
+,,,,,,,D,AJ Allmendinger (11308214),AJ Allmendinger,11308214,D,6500,Federated Auto Parts 400,Nasca,24.54
+,,,,,,,D,Ricky Stenhouse Jr (11308215),Ricky Stenhouse Jr,11308215,D,6400,Federated Auto Parts 400,Nasca,22.98
+,,,,,,,D,Bubba Wallace (11308216),Bubba Wallace,11308216,D,6200,Federated Auto Parts 400,Nasca,20.82
+,,,,,,,D,Ty Dillon (11308217),Ty Dillon,11308217,D,6000,Federated Auto Parts 400,Nasca,22.62
+,,,,,,,D,Cole Custer (11308218),Cole Custer,11308218,D,5800,Federated Auto Parts 400,Nasca,22
+,,,,,,,D,Regan Smith (11308219),Regan Smith,11308219,D,5700,Federated Auto Parts 400,Nasca,39.25
+,,,,,,,D,Michael McDowell (11308220),Michael McDowell,11308220,D,5500,Federated Auto Parts 400,Nasca,22.82
+,,,,,,,D,David Ragan (11308221),David Ragan,11308221,D,5400,Federated Auto Parts 400,Nasca,22.52
+,,,,,,,D,Ross Chastain (11308222),Ross Chastain,11308222,D,5300,Federated Auto Parts 400,Nasca,20.5
+,,,,,,,D,Matt DiBenedetto (11308223),Matt DiBenedetto,11308223,D,5200,Federated Auto Parts 400,Nasca,21.57
+,,,,,,,D,Landon Cassill (11308224),Landon Cassill,11308224,D,5100,Federated Auto Parts 400,Nasca,20.02
+,,,,,,,D,Joey Gase (11308225),Joey Gase,11308225,D,5000,Federated Auto Parts 400,Nasca,24.67
+,,,,,,,D,Corey Lajoie (11308226),Corey Lajoie,11308226,D,4900,Federated Auto Parts 400,Nasca,15.86
+,,,,,,,D,Jeffrey Earnhardt (11308227),Jeffrey Earnhardt,11308227,D,4800,Federated Auto Parts 400,Nasca,19.42
+,,,,,,,D,Alon Day (11308228),Alon Day,11308228,D,4700,Federated Auto Parts 400,Nasca,0
+,,,,,,,D,BJ McLeod (11308229),BJ McLeod,11308229,D,4600,Federated Auto Parts 400,Nasca,13.27
+,,,,,,,D,Timmy Hill (11308230),Timmy Hill,11308230,D,4500,Federated Auto Parts 400,Nasca,13

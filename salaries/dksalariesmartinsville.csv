@@ -1,0 +1,46 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kevin Harvick (11511977),Kevin Harvick,11511977,D,12500,First Data 500,Nasca,65.05
+,,,,,,,D,Kyle Busch (11511978),Kyle Busch,11511978,D,11900,First Data 500,Nasca,59.92
+,,,,,,,D,Kyle Larson (11511979),Kyle Larson,11511979,D,11500,First Data 500,Nasca,42.48
+,,,,,,,D,Martin Truex Jr (11511980),Martin Truex Jr,11511980,D,10700,First Data 500,Nasca,47.39
+,,,,,,,D,Brad Keselowski (11511981),Brad Keselowski,11511981,D,10200,First Data 500,Nasca,36.69
+,,,,,,,D,Clint Bowyer (11511982),Clint Bowyer,11511982,D,9800,First Data 500,Nasca,42.87
+,,,,,,,D,Joey Logano (11511983),Joey Logano,11511983,D,9500,First Data 500,Nasca,39.92
+,,,,,,,D,Chase Elliott (11511984),Chase Elliott,11511984,D,9200,First Data 500,Nasca,38.02
+,,,,,,,D,Kurt Busch (11511985),Kurt Busch,11511985,D,9000,First Data 500,Nasca,39.07
+,,,,,,,D,Ryan Blaney (11511986),Ryan Blaney,11511986,D,8900,First Data 500,Nasca,35.29
+,,,,,,,D,Erik Jones (11511987),Erik Jones,11511987,D,8700,First Data 500,Nasca,31.69
+,,,,,,,D,Denny Hamlin (11511988),Denny Hamlin,11511988,D,8500,First Data 500,Nasca,37.36
+,,,,,,,D,Aric Almirola (11511989),Aric Almirola,11511989,D,8300,First Data 500,Nasca,39.08
+,,,,,,,D,Jimmie Johnson (11511990),Jimmie Johnson,11511990,D,8100,First Data 500,Nasca,30.62
+,,,,,,,D,Alex Bowman (11511991),Alex Bowman,11511991,D,7900,First Data 500,Nasca,27.27
+,,,,,,,D,Paul Menard (11511992),Paul Menard,11511992,D,7700,First Data 500,Nasca,26.36
+,,,,,,,D,Daniel Suarez (11511993),Daniel Suarez,11511993,D,7500,First Data 500,Nasca,30.46
+,,,,,,,D,Austin Dillon (11511994),Austin Dillon,11511994,D,7400,First Data 500,Nasca,29.25
+,,,,,,,D,Jamie McMurray (11511995),Jamie McMurray,11511995,D,7300,First Data 500,Nasca,22.85
+,,,,,,,D,Ryan Newman (11511996),Ryan Newman,11511996,D,7100,First Data 500,Nasca,26.48
+,,,,,,,D,Matt Kenseth (11511997),Matt Kenseth,11511997,D,6900,First Data 500,Nasca,24.31
+,,,,,,,D,Ricky Stenhouse Jr (11511998),Ricky Stenhouse Jr,11511998,D,6700,First Data 500,Nasca,25.35
+,,,,,,,D,Regan Smith (11511999),Regan Smith,11511999,D,6600,First Data 500,Nasca,32.58
+,,,,,,,D,William Byron (11512000),William Byron,11512000,D,6400,First Data 500,Nasca,21.23
+,,,,,,,D,AJ Allmendinger (11512001),AJ Allmendinger,11512001,D,6200,First Data 500,Nasca,25.43
+,,,,,,,D,David Ragan (11512002),David Ragan,11512002,D,6100,First Data 500,Nasca,22.17
+,,,,,,,D,Chris Buescher (11512003),Chris Buescher,11512003,D,5900,First Data 500,Nasca,25.67
+,,,,,,,D,Ty Dillon (11512004),Ty Dillon,11512004,D,5800,First Data 500,Nasca,23.04
+,,,,,,,D,Bubba Wallace (11512005),Bubba Wallace,11512005,D,5700,First Data 500,Nasca,21.14
+,,,,,,,D,Michael McDowell (11512006),Michael McDowell,11512006,D,5500,First Data 500,Nasca,21.01
+,,,,,,,D,Matt DiBenedetto (11512007),Matt DiBenedetto,11512007,D,5400,First Data 500,Nasca,20.97
+,,,,,,,D,Ross Chastain (11512008),Ross Chastain,11512008,D,5300,First Data 500,Nasca,19.25
+,,,,,,,D,Landon Cassill (11512009),Landon Cassill,11512009,D,5200,First Data 500,Nasca,20.1
+,,,,,,,D,Cole Whitt (11512011),Cole Whitt,11512011,D,5000,First Data 500,Nasca,23.9
+,,,,,,,D,JJ Yeley (11512012),JJ Yeley,11512012,D,4900,First Data 500,Nasca,18.42
+,,,,,,,D,Joey Gase (11512013),Joey Gase,11512013,D,4800,First Data 500,Nasca,25.7
+,,,,,,,D,Timmy Hill (11512015),Timmy Hill,11512015,D,4600,First Data 500,Nasca,11.44
+,,,,,,,D,Hermie Sadler (11512016),Hermie Sadler,11512016,D,4500,First Data 500,Nasca,0

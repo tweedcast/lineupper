@@ -1,0 +1,40 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12115881),Kyle Busch,12115881,D,15000,Ultimate Tailgating 200,Nasca,45.3
+,,,,,,,D,Brett Moffitt (12115882),Brett Moffitt,12115882,D,11300,Ultimate Tailgating 200,Nasca,41.62
+,,,,,,,D,Johnny Sauter (12115883),Johnny Sauter,12115883,D,10900,Ultimate Tailgating 200,Nasca,45.32
+,,,,,,,D,Ben Rhodes (12115884),Ben Rhodes,12115884,D,10400,Ultimate Tailgating 200,Nasca,36.35
+,,,,,,,D,Stewart Friesen (12115885),Stewart Friesen,12115885,D,10100,Ultimate Tailgating 200,Nasca,35.3
+,,,,,,,D,Todd Gilliland (12115886),Todd Gilliland,12115886,D,9700,Ultimate Tailgating 200,Nasca,28.74
+,,,,,,,D,Matt Crafton (12115887),Matt Crafton,12115887,D,9400,Ultimate Tailgating 200,Nasca,33.1
+,,,,,,,D,Ross Chastain (12115888),Ross Chastain,12115888,D,9100,Ultimate Tailgating 200,Nasca,20
+,,,,,,,D,Grant Enfinger (12115889),Grant Enfinger,12115889,D,8900,Ultimate Tailgating 200,Nasca,36.13
+,,,,,,,D,Austin Hill (12115890),Austin Hill,12115890,D,8700,Ultimate Tailgating 200,Nasca,27.22
+,,,,,,,D,Harrison Burton (12115891),Harrison Burton,12115891,D,8500,Ultimate Tailgating 200,Nasca,41.12
+,,,,,,,D,Timothy Peters (12115892),Timothy Peters,12115892,D,8300,Ultimate Tailgating 200,Nasca,37.75
+,,,,,,,D,Parker Kligerman (12115893),Parker Kligerman,12115893,D,8100,Ultimate Tailgating 200,Nasca,22.97
+,,,,,,,D,Jesse Little (12115894),Jesse Little,12115894,D,7900,Ultimate Tailgating 200,Nasca,34.17
+,,,,,,,D,Sheldon Creed (12115895),Sheldon Creed,12115895,D,7800,Ultimate Tailgating 200,Nasca,25.95
+,,,,,,,D,Austin Wayne Self (12115896),Austin Wayne Self,12115896,D,7600,Ultimate Tailgating 200,Nasca,29.87
+,,,,,,,D,Gus Dean (12115897),Gus Dean,12115897,D,7400,Ultimate Tailgating 200,Nasca,0
+,,,,,,,D,Anthony Alfredo (12115898),Anthony Alfredo,12115898,D,7300,Ultimate Tailgating 200,Nasca,0
+,,,,,,,D,Josh Reaume (12115899),Josh Reaume,12115899,D,7200,Ultimate Tailgating 200,Nasca,24.5
+,,,,,,,D,Tyler Dippel (12115900),Tyler Dippel,12115900,D,7100,Ultimate Tailgating 200,Nasca,30.2
+,,,,,,,D,Brennan Poole (12115901),Brennan Poole,12115901,D,7000,Ultimate Tailgating 200,Nasca,32.5
+,,,,,,,D,Jordan Anderson (12115902),Jordan Anderson,12115902,D,6900,Ultimate Tailgating 200,Nasca,28.47
+,,,,,,,D,Korbin Forrister (12124329),Korbin Forrister,12124329,D,6800,Ultimate Tailgating 200,Nasca,27.6
+,,,,,,,D,Joe Nemechek (12115903),Joe Nemechek,12115903,D,6700,Ultimate Tailgating 200,Nasca,14.85
+,,,,,,,D,Natalie Decker (12115904),Natalie Decker,12115904,D,6500,Ultimate Tailgating 200,Nasca,0
+,,,,,,,D,Spencer Boyd (12115905),Spencer Boyd,12115905,D,6300,Ultimate Tailgating 200,Nasca,0
+,,,,,,,D,Norm Benning (12115906),Norm Benning,12115906,D,6100,Ultimate Tailgating 200,Nasca,22.62
+,,,,,,,D,Cory Roper (12115907),Cory Roper,12115907,D,5900,Ultimate Tailgating 200,Nasca,23.67
+,,,,,,,D,Jennifer Jo Cobb (12115908),Jennifer Jo Cobb,12115908,D,5800,Ultimate Tailgating 200,Nasca,24.1
+,,,,,,,D,Timmy Hill (12124330),Timmy Hill,12124330,D,5700,Ultimate Tailgating 200,Nasca,6.25
+,,,,,,,D,Ray Ciccarelli (12115911),Ray Ciccarelli,12115911,D,5500,Ultimate Tailgating 200,Nasca,19.33
+,,,,,,,D,Chad Finley (12115913),Chad Finley,12115913,D,5300,Ultimate Tailgating 200,Nasca,16

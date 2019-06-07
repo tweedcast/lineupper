@@ -1,0 +1,40 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (12285545),Kyle Busch,12285545,D,15900,TrüNorth Global 250,Nasca,94
+,,,,,,,D,Johnny Sauter (12285546),Johnny Sauter,12285546,D,11600,TrüNorth Global 250,Nasca,39.08
+,,,,,,,D,Ben Rhodes (12285547),Ben Rhodes,12285547,D,10900,TrüNorth Global 250,Nasca,34.5
+,,,,,,,D,Austin Dillon (12285548),Austin Dillon,12285548,D,10500,TrüNorth Global 250,Nasca,0
+,,,,,,,D,Matt Crafton (12285549),Matt Crafton,12285549,D,10100,TrüNorth Global 250,Nasca,45.17
+,,,,,,,D,Brett Moffitt (12285550),Brett Moffitt,12285550,D,9800,TrüNorth Global 250,Nasca,31.92
+,,,,,,,D,Stewart Friesen (12285551),Stewart Friesen,12285551,D,9500,TrüNorth Global 250,Nasca,36.17
+,,,,,,,D,Bubba Wallace (12285552),Bubba Wallace,12285552,D,9200,TrüNorth Global 250,Nasca,0
+,,,,,,,D,Todd Gilliland (12285553),Todd Gilliland,12285553,D,8900,TrüNorth Global 250,Nasca,30.58
+,,,,,,,D,Harrison Burton (12285554),Harrison Burton,12285554,D,8600,TrüNorth Global 250,Nasca,28.42
+,,,,,,,D,David Gilliland (12285555),David Gilliland,12285555,D,8400,TrüNorth Global 250,Nasca,26
+,,,,,,,D,Ross Chastain (12285556),Ross Chastain,12285556,D,8200,TrüNorth Global 250,Nasca,51.75
+,,,,,,,D,Grant Enfinger (12285557),Grant Enfinger,12285557,D,8000,TrüNorth Global 250,Nasca,40
+,,,,,,,D,Derek Kraus (12285558),Derek Kraus,12285558,D,7900,TrüNorth Global 250,Nasca,0
+,,,,,,,D,Sheldon Creed (12285559),Sheldon Creed,12285559,D,7700,TrüNorth Global 250,Nasca,29.75
+,,,,,,,D,Austin Hill (12285560),Austin Hill,12285560,D,7500,TrüNorth Global 250,Nasca,29.42
+,,,,,,,D,Spencer Davis (12285561),Spencer Davis,12285561,D,7400,TrüNorth Global 250,Nasca,0
+,,,,,,,D,Brennan Poole (12285562),Brennan Poole,12285562,D,7200,TrüNorth Global 250,Nasca,27
+,,,,,,,D,Gus Dean (12285563),Gus Dean,12285563,D,7100,TrüNorth Global 250,Nasca,29.67
+,,,,,,,D,Myatt Snider (12285564),Myatt Snider,12285564,D,7000,TrüNorth Global 250,Nasca,26.5
+,,,,,,,D,Tyler Dippel (12285565),Tyler Dippel,12285565,D,6900,TrüNorth Global 250,Nasca,24.17
+,,,,,,,D,Spencer Boyd (12285566),Spencer Boyd,12285566,D,6800,TrüNorth Global 250,Nasca,24.17
+,,,,,,,D,Korbin Forrister (12285568),Korbin Forrister,12285568,D,6400,TrüNorth Global 250,Nasca,37
+,,,,,,,D,Jordan Anderson (12285569),Jordan Anderson,12285569,D,6200,TrüNorth Global 250,Nasca,23.17
+,,,,,,,D,Cory Roper (12285570),Cory Roper,12285570,D,6100,TrüNorth Global 250,Nasca,23.67
+,,,,,,,D,Tyler Ankrum (12285571),Tyler Ankrum,12285571,D,6000,TrüNorth Global 250,Nasca,0
+,,,,,,,D,Timmy Hill (12285572),Timmy Hill,12285572,D,5800,TrüNorth Global 250,Nasca,6
+,,,,,,,D,Reid Wilson (12285574),Reid Wilson,12285574,D,5600,TrüNorth Global 250,Nasca,0
+,,,,,,,D,Travis Kvapil (12285576),Travis Kvapil,12285576,D,5300,TrüNorth Global 250,Nasca,0
+,,,,,,,D,Austin Theriault (12285579),Austin Theriault,12285579,D,5000,TrüNorth Global 250,Nasca,0
+,,,,,,,D,Raphael Lessard (12285580),Raphael Lessard,12285580,D,4900,TrüNorth Global 250,Nasca,0
+,,,,,,,D,Daniel Sasnett (12285581),Daniel Sasnett,12285581,D,4700,TrüNorth Global 250,Nasca,0

@@ -1,0 +1,49 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Kyle Busch (11554313),Kyle Busch,11554313,D,12200,AAA Texas 500,Nasca,60.69
+,,,,,,,D,Kevin Harvick (11554314),Kevin Harvick,11554314,D,11700,AAA Texas 500,Nasca,64.33
+,,,,,,,D,Martin Truex Jr (11554315),Martin Truex Jr,11554315,D,11100,AAA Texas 500,Nasca,49.07
+,,,,,,,D,Joey Logano (11554316),Joey Logano,11554316,D,10500,AAA Texas 500,Nasca,43.39
+,,,,,,,D,Kyle Larson (11554317),Kyle Larson,11554317,D,10000,AAA Texas 500,Nasca,42.48
+,,,,,,,D,Chase Elliott (11554318),Chase Elliott,11554318,D,9700,AAA Texas 500,Nasca,38.35
+,,,,,,,D,Brad Keselowski (11554319),Brad Keselowski,11554319,D,9500,AAA Texas 500,Nasca,37.57
+,,,,,,,D,Clint Bowyer (11554320),Clint Bowyer,11554320,D,9300,AAA Texas 500,Nasca,41.88
+,,,,,,,D,Denny Hamlin (11554321),Denny Hamlin,11554321,D,9100,AAA Texas 500,Nasca,38.88
+,,,,,,,D,Kurt Busch (11554322),Kurt Busch,11554322,D,8900,AAA Texas 500,Nasca,39.46
+,,,,,,,D,Ryan Blaney (11554323),Ryan Blaney,11554323,D,8700,AAA Texas 500,Nasca,34.46
+,,,,,,,D,Jimmie Johnson (11554324),Jimmie Johnson,11554324,D,8500,AAA Texas 500,Nasca,31.38
+,,,,,,,D,Erik Jones (11554325),Erik Jones,11554325,D,8300,AAA Texas 500,Nasca,31.17
+,,,,,,,D,Aric Almirola (11554326),Aric Almirola,11554326,D,8100,AAA Texas 500,Nasca,38.82
+,,,,,,,D,Paul Menard (11554327),Paul Menard,11554327,D,7900,AAA Texas 500,Nasca,26.62
+,,,,,,,D,Austin Dillon (11554328),Austin Dillon,11554328,D,7700,AAA Texas 500,Nasca,28.96
+,,,,,,,D,Alex Bowman (11554329),Alex Bowman,11554329,D,7600,AAA Texas 500,Nasca,27.35
+,,,,,,,D,Ryan Newman (11554330),Ryan Newman,11554330,D,7500,AAA Texas 500,Nasca,27.26
+,,,,,,,D,Daniel Suarez (11554331),Daniel Suarez,11554331,D,7300,AAA Texas 500,Nasca,30.57
+,,,,,,,D,Jamie McMurray (11554332),Jamie McMurray,11554332,D,7100,AAA Texas 500,Nasca,23.06
+,,,,,,,D,Ricky Stenhouse Jr (11554333),Ricky Stenhouse Jr,11554333,D,7000,AAA Texas 500,Nasca,25.38
+,,,,,,,D,AJ Allmendinger (11554334),AJ Allmendinger,11554334,D,6900,AAA Texas 500,Nasca,25.64
+,,,,,,,D,Regan Smith (11554335),Regan Smith,11554335,D,6800,AAA Texas 500,Nasca,30.21
+,,,,,,,D,Trevor Bayne (11554337),Trevor Bayne,11554337,D,6600,AAA Texas 500,Nasca,20.78
+,,,,,,,D,David Ragan (11554336),David Ragan,11554336,D,6400,AAA Texas 500,Nasca,22.88
+,,,,,,,D,Chris Buescher (11554338),Chris Buescher,11554338,D,6200,AAA Texas 500,Nasca,25.85
+,,,,,,,D,Bubba Wallace (11554339),Bubba Wallace,11554339,D,6000,AAA Texas 500,Nasca,20.89
+,,,,,,,D,William Byron (11554340),William Byron,11554340,D,5800,AAA Texas 500,Nasca,19.92
+,,,,,,,D,Ty Dillon (11554341),Ty Dillon,11554341,D,5600,AAA Texas 500,Nasca,23.55
+,,,,,,,D,Michael McDowell (11554342),Michael McDowell,11554342,D,5500,AAA Texas 500,Nasca,20.79
+,,,,,,,D,Parker Kligerman (11554343),Parker Kligerman,11554343,D,5400,AAA Texas 500,Nasca,25.67
+,,,,,,,D,Matt DiBenedetto (11554344),Matt DiBenedetto,11554344,D,5300,AAA Texas 500,Nasca,20.32
+,,,,,,,D,JJ Yeley (11554345),JJ Yeley,11554345,D,5200,AAA Texas 500,Nasca,18.54
+,,,,,,,D,Landon Cassill (11554346),Landon Cassill,11554346,D,5100,AAA Texas 500,Nasca,19.78
+,,,,,,,D,Reed Sorenson (11554347),Reed Sorenson,11554347,D,5000,AAA Texas 500,Nasca,14.32
+,,,,,,,D,Kyle Weatherman (11554348),Kyle Weatherman,11554348,D,4900,AAA Texas 500,Nasca,13.2
+,,,,,,,D,Ross Chastain (11554349),Ross Chastain,11554349,D,4800,AAA Texas 500,Nasca,18.88
+,,,,,,,D,Corey Lajoie (11554350),Corey Lajoie,11554350,D,4700,AAA Texas 500,Nasca,15.64
+,,,,,,,D,Joey Gase (11554351),Joey Gase,11554351,D,4600,AAA Texas 500,Nasca,22.83
+,,,,,,,D,Timmy Hill (11554352),Timmy Hill,11554352,D,4500,AAA Texas 500,Nasca,11.34
+,,,,,,,D,David Starr (11554353),David Starr,11554353,D,4400,AAA Texas 500,Nasca,2

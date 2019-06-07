@@ -1,0 +1,50 @@
+D,D,D,D,D,D,,Instructions,,,,,,,,
+,,,,,,,1. Locate the player you want to select in the list below ,,,,,,,,
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) ,,,,,,,,
+,,,,,,,3. Paste the ID into the roster position desired ,,,,,,,,
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name ,,,,,,,,
+,,,,,,,5. You can create up to 500 lineups per file ,,,,,,,,
+ ,,,,,,,,,,,,,,,
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Christopher Bell (11471093),Christopher Bell,11471093,D,12200,Kansas Lottery 300,Nasca,50.75
+,,,,,,,D,Justin Allgaier (11471094),Justin Allgaier,11471094,D,11600,Kansas Lottery 300,Nasca,43.94
+,,,,,,,D,Daniel Hemric (11471095),Daniel Hemric,11471095,D,10900,Kansas Lottery 300,Nasca,39.93
+,,,,,,,D,Cole Custer (11471096),Cole Custer,11471096,D,10400,Kansas Lottery 300,Nasca,38.9
+,,,,,,,D,Ryan Preece (11471097),Ryan Preece,11471097,D,10000,Kansas Lottery 300,Nasca,36.08
+,,,,,,,D,Elliott Sadler (11471098),Elliott Sadler,11471098,D,9700,Kansas Lottery 300,Nasca,39.94
+,,,,,,,D,Tyler Reddick (11471099),Tyler Reddick,11471099,D,9400,Kansas Lottery 300,Nasca,33.42
+,,,,,,,D,John Hunter Nemechek (11471100),John Hunter Nemechek,11471100,D,9200,Kansas Lottery 300,Nasca,34
+,,,,,,,D,Ryan Truex (11471101),Ryan Truex,11471101,D,9000,Kansas Lottery 300,Nasca,27.63
+,,,,,,,D,Austin Cindric (11471102),Austin Cindric,11471102,D,8900,Kansas Lottery 300,Nasca,24.75
+,,,,,,,D,Matt Tifft (11471103),Matt Tifft,11471103,D,8700,Kansas Lottery 300,Nasca,33.44
+,,,,,,,D,Spencer Gallagher (11471104),Spencer Gallagher,11471104,D,8500,Kansas Lottery 300,Nasca,36.05
+,,,,,,,D,Brandon Jones (11471105),Brandon Jones,11471105,D,8300,Kansas Lottery 300,Nasca,30.45
+,,,,,,,D,Ryan Reed (11471106),Ryan Reed,11471106,D,8200,Kansas Lottery 300,Nasca,28.01
+,,,,,,,D,Ross Chastain (11471107),Ross Chastain,11471107,D,8000,Kansas Lottery 300,Nasca,31.26
+,,,,,,,D,Chase Briscoe (11471108),Chase Briscoe,11471108,D,7800,Kansas Lottery 300,Nasca,27.59
+,,,,,,,D,Shane Lee (11471109),Shane Lee,11471109,D,7600,Kansas Lottery 300,Nasca,30.5
+,,,,,,,D,Michael Annett (11471110),Michael Annett,11471110,D,7400,Kansas Lottery 300,Nasca,27.03
+,,,,,,,D,Jeremy Clements (11471111),Jeremy Clements,11471111,D,7300,Kansas Lottery 300,Nasca,24.94
+,,,,,,,D,Garrett Smithley (11471112),Garrett Smithley,11471112,D,7200,Kansas Lottery 300,Nasca,27.12
+,,,,,,,D,Ty Majeski (11471113),Ty Majeski,11471113,D,7000,Kansas Lottery 300,Nasca,1.56
+,,,,,,,D,Ryan Sieg (11471114),Ryan Sieg,11471114,D,6900,Kansas Lottery 300,Nasca,23.18
+,,,,,,,D,Joey Gase (11471115),Joey Gase,11471115,D,6700,Kansas Lottery 300,Nasca,23.26
+,,,,,,,D,Alex Labbe (11471116),Alex Labbe,11471116,D,6500,Kansas Lottery 300,Nasca,23.09
+,,,,,,,D,Max Tullman (11471117),Max Tullman,11471117,D,6400,Kansas Lottery 300,Nasca,12
+,,,,,,,D,Vinnie Miller (11471118),Vinnie Miller,11471118,D,6200,Kansas Lottery 300,Nasca,21.83
+,,,,,,,D,Quin Houff (11471119),Quin Houff,11471119,D,6000,Kansas Lottery 300,Nasca,6
+,,,,,,,D,BJ McLeod (11471120),BJ McLeod,11471120,D,5800,Kansas Lottery 300,Nasca,18.9
+,,,,,,,D,David Starr (11471121),David Starr,11471121,D,5800,Kansas Lottery 300,Nasca,23.79
+,,,,,,,D,Josh Bilicki (11471122),Josh Bilicki,11471122,D,5700,Kansas Lottery 300,Nasca,16.92
+,,,,,,,D,Ja Junior Avila (11471123),Ja Junior Avila,11471123,D,5500,Kansas Lottery 300,Nasca,31
+,,,,,,,D,Josh Williams (11471124),Josh Williams,11471124,D,5400,Kansas Lottery 300,Nasca,20.97
+,,,,,,,D,Spencer Boyd (11471125),Spencer Boyd,11471125,D,5200,Kansas Lottery 300,Nasca,22.41
+,,,,,,,D,Mike Harmon (11471126),Mike Harmon,11471126,D,5100,Kansas Lottery 300,Nasca,17.23
+,,,,,,,D,Chad Finchum (11471127),Chad Finchum,11471127,D,5000,Kansas Lottery 300,Nasca,16.9
+,,,,,,,D,Jennifer Jo Cobb (11471128),Jennifer Jo Cobb,11471128,D,4900,Kansas Lottery 300,Nasca,25
+,,,,,,,D,Angela Ruch (11471129),Angela Ruch,11471129,D,4800,Kansas Lottery 300,Nasca,24
+,,,,,,,D,Timmy Hill (11471130),Timmy Hill,11471130,D,4700,Kansas Lottery 300,Nasca,9.24
+,,,,,,,D,Bobby Earnhardt (11471131),Bobby Earnhardt,11471131,D,4600,Kansas Lottery 300,Nasca,0
+,,,,,,,D,Jeff Green (11471132),Jeff Green,11471132,D,4500,Kansas Lottery 300,Nasca,2.69
+,,,,,,,D,Stephen Leicht (11471133),Stephen Leicht,11471133,D,4400,Kansas Lottery 300,Nasca,14.93
+,,,,,,,D,Morgan Shepherd (11471134),Morgan Shepherd,11471134,D,4300,Kansas Lottery 300,Nasca,2.24

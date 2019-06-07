@@ -1,0 +1,45 @@
+D,D,D,D,D,D,,Instructions
+,,,,,,,1. Locate the player you want to select in the list below 
+,,,,,,,2. Copy the ID of your player (you can use the Name + ID column or the ID column) 
+,,,,,,,3. Paste the ID into the roster position desired 
+,,,,,,,4. You must include an ID for each player; you cannot use just the player's name 
+,,,,,,,5. You can create up to 500 lineups per file 
+ 
+,,,,,,,Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+,,,,,,,D,Christopher Bell (12382424),Christopher Bell,12382424,D,12800,Alsco 300,Nasca,57.38
+,,,,,,,D,Tyler Reddick (12382425),Tyler Reddick,12382425,D,12200,Alsco 300,Nasca,52.08
+,,,,,,,D,Justin Allgaier (12382426),Justin Allgaier,12382426,D,11700,Alsco 300,Nasca,31.17
+,,,,,,,D,Cole Custer (12382427),Cole Custer,12382427,D,11000,Alsco 300,Nasca,42.83
+,,,,,,,D,Brandon Jones (12382428),Brandon Jones,12382428,D,10400,Alsco 300,Nasca,29.04
+,,,,,,,D,Austin Cindric (12382429),Austin Cindric,12382429,D,10100,Alsco 300,Nasca,34.92
+,,,,,,,D,John H. Nemechek (12382430),John H. Nemechek,12382430,D,9800,Alsco 300,Nasca,30.83
+,,,,,,,D,Chase Briscoe (12382431),Chase Briscoe,12382431,D,9500,Alsco 300,Nasca,44.83
+,,,,,,,D,Harrison Burton (12382432),Harrison Burton,12382432,D,9200,Alsco 300,Nasca,0
+,,,,,,,D,Noah Gragson (12382433),Noah Gragson,12382433,D,8900,Alsco 300,Nasca,36.75
+,,,,,,,D,Justin Haley (12382434),Justin Haley,12382434,D,8600,Alsco 300,Nasca,34.79
+,,,,,,,D,Michael Annett (12382435),Michael Annett,12382435,D,8400,Alsco 300,Nasca,43.92
+,,,,,,,D,Ryan Sieg (12382436),Ryan Sieg,12382436,D,8200,Alsco 300,Nasca,43.5
+,,,,,,,D,Ross Chastain (12382437),Ross Chastain,12382437,D,8000,Alsco 300,Nasca,31.62
+,,,,,,,D,Zane Smith (12382438),Zane Smith,12382438,D,7800,Alsco 300,Nasca,2
+,,,,,,,D,Garrett Smithley (12382439),Garrett Smithley,12382439,D,7600,Alsco 300,Nasca,27.58
+,,,,,,,D,Gray Gaulding (12382440),Gray Gaulding,12382440,D,7500,Alsco 300,Nasca,27.58
+,,,,,,,D,Brandon Brown (12382441),Brandon Brown,12382441,D,7300,Alsco 300,Nasca,30.42
+,,,,,,,D,Ray Black Jr (12382442),Ray Black Jr,12382442,D,7100,Alsco 300,Nasca,22.42
+,,,,,,,D,Jeremy Clements (12382443),Jeremy Clements,12382443,D,6900,Alsco 300,Nasca,20.75
+,,,,,,,D,David Starr (12382444),David Starr,12382444,D,6700,Alsco 300,Nasca,28.67
+,,,,,,,D,BJ McLeod (12382445),BJ McLeod,12382445,D,6600,Alsco 300,Nasca,23.83
+,,,,,,,D,Vinnie Miller (12382446),Vinnie Miller,12382446,D,6400,Alsco 300,Nasca,18.5
+,,,,,,,D,Timmy Hill (12382447),Timmy Hill,12382447,D,6200,Alsco 300,Nasca,17.1
+,,,,,,,D,Alex Labbe (12382448),Alex Labbe,12382448,D,6100,Alsco 300,Nasca,29.5
+,,,,,,,D,Joey Gase (12382449),Joey Gase,12382449,D,5900,Alsco 300,Nasca,20.33
+,,,,,,,D,Chad Finchum (12382450),Chad Finchum,12382450,D,5800,Alsco 300,Nasca,12.3
+,,,,,,,D,Mike Harmon (12382451),Mike Harmon,12382451,D,5700,Alsco 300,Nasca,21.58
+,,,,,,,D,Josh Williams (12382452),Josh Williams,12382452,D,5600,Alsco 300,Nasca,21.83
+,,,,,,,D,Stephen Leicht (12382453),Stephen Leicht,12382453,D,5500,Alsco 300,Nasca,17
+,,,,,,,D,Tommy Joe Martins (12382454),Tommy Joe Martins,12382454,D,5400,Alsco 300,Nasca,16.62
+,,,,,,,D,Matt Mills (12382455),Matt Mills,12382455,D,5300,Alsco 300,Nasca,18.33
+,,,,,,,D,Josh Bilicki (12382456),Josh Bilicki,12382456,D,5200,Alsco 300,Nasca,9.67
+,,,,,,,D,John Jackson (12382457),John Jackson,12382457,D,5100,Alsco 300,Nasca,13.5
+,,,,,,,D,Kyle Weatherman (12382458),Kyle Weatherman,12382458,D,5000,Alsco 300,Nasca,0
+,,,,,,,D,Jeff Green (12382459),Jeff Green,12382459,D,4900,Alsco 300,Nasca,10.08
+,,,,,,,D,Morgan Shepherd (12382460),Morgan Shepherd,12382460,D,4800,Alsco 300,Nasca,13
