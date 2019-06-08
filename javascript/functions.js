@@ -86,7 +86,7 @@ $('#logo').on('dblclick', function(e){
         var cpt = [];
         window.lineupCount = [];
         var lineupCountPost = [];
-        var driversTotal = [];
+        window.driversTotal = [];
         var deSelected = [];
         var counter = 0;
         var opacity = 0;

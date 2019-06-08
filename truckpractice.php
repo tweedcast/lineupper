@@ -6,7 +6,7 @@ ini_set('log_errors', 0); // disable error logging
 require('initialize.php');
 //$race_id = '5436dc7b-1e90-4f22-bf64-b487cc3f9a76';
 //$race_id = '9eaa42c9-802e-409b-85f8-d9d6f03a6920';
-$raceID = $current_truck->race_id;
+$raceID = $current_truck['race_id'];
 $send_drivers1 = [];
 $send_drivers2 = [];
 $send_practice = [];
