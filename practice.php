@@ -5,17 +5,18 @@ ini_set('log_errors', 0); // disable error logging
 require('initialize.php');
 //$race_id = '5436dc7b-1e90-4f22-bf64-b487cc3f9a76';
 //$race_id = '9eaa42c9-802e-409b-85f8-d9d6f03a6920';
+$year = date("Y");
 $raceID = $current_cup['race_id'];
 $send_drivers1 = [];
 $send_drivers2 = [];
 $send_practice = [];
-function add_drivers($num, $raceID){
+function add_drivers($num, $raceID, $year){
 //$req_url = "https://api.sportradar.us/nascar-ot3/mc/races/{$race_id}/starting_grid.json?api_key=" . $apiKey;
 //$req_url = "http://api.sportradar.us/nascar-ot3/mc/races/{$race_id}/practices.json?api_key=" . $apiKey;
 //$req_url = "https://www.nascar.com/cacher/2018/1/4709/practice1.json";
 //$req_url = "https://www.nascar.com/cacher/2018/1/4706/practice1.json";
 //$req_url = "https://www.nascar.com/cacher/2019/1/4774/practice{$num}.json";
-$req_url = "https://www.nascar.com/cacher/2019/1/{$raceID}/practice{$num}.json";
+$req_url = "https://www.nascar.com/cacher/{$year}/1/{$raceID}/practice{$num}.json";
   $response = curl_get($req_url);
 
   $response = json_decode($response, true);
@@ -25,8 +26,8 @@ $req_url = "https://www.nascar.com/cacher/2019/1/{$raceID}/practice{$num}.json";
 
 }
 
-$results1 = add_drivers(1, $raceID);
-$results2 = add_drivers(2, $raceID);
+$results1 = add_drivers(1, $raceID, $year);
+$results2 = add_drivers(2, $raceID, $year);
 
 foreach($results1 as $drivers) {
   $driver = array('name' => str_replace('.', '', $drivers['driver_name']), 'speed' => $drivers['best_lap_speed']);
@@ -51,10 +52,11 @@ foreach($results2 as $drivers) {
     return $grid;
 }*/
 
-function add_qualify($raceID){
+function add_qualify($raceID, $year){
+
   $grid = [];
   //$req_url = "https://www.nascar.com/cacher/2019/1/4774/qualification.json";
-  $req_url = "https://www.nascar.com/cacher/2019/1/{$raceID}/qualification.json";
+  $req_url = "https://www.nascar.com/cacher/{$year}/1/{$raceID}/qualification.json";
     $response = curl_get($req_url);
     $response = json_decode($response, true);
     //var_dump($response);
@@ -70,7 +72,7 @@ function add_qualify($raceID){
 }
 $send_practice[] = $send_drivers1;
 $send_practice[] = $send_drivers2;
-$send_practice[] = add_qualify($raceID);
+$send_practice[] = add_qualify($raceID, $year);
 echo json_encode($send_practice);
 
 
